@@ -172,5 +172,4 @@ def main():
     print(f"[SUCCESS] 播放列表已保存至: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
-    # 确保脚本顶部没有无效的请求代码
     main()
