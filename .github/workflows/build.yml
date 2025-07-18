@@ -30,7 +30,7 @@ jobs:
           git config --global user.name  "GitHub Actions"
           git add playlist.m3u
           git commit -m "chore: update playlist $(date -u '+%Y-%m-%d %H:%M') " || echo "Nothing to commit"
-          git push
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/virtually321/selfview.git
         env:
           # 提前在仓库 Settings → Secrets 设置变量 PAT 为 Personal Access Token
           GIT_AUTHOR_NAME: "actions"
