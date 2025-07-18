@@ -1,26 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-爬取 http://rihou.cc:555/gggg.nzk/ 中的 m3u / m3u8，
-保留源文件里的 group-title，筛出 CCTV、凤凰、中天、寰宇、东森，
+替代方案：从预设播放列表URL获取内容
 生成统一 playlist.m3u
 """
 
 import re
-import sys
 import pathlib
-from urllib.parse import urljoin, urlparse
 import requests
-from bs4 import BeautifulSoup
 
-# 使用正确的目标网址
-ROOT_URL = "http://rihou.cc:555/gggg.nzk/"
+# 预设播放列表URL
+PLAYLIST_URLS = [
+    "http://example.com/path/to/playlist1.m3u",
+    "http://example.com/path/to/playlist2.m3u",
+    # 添加更多播放列表URL...
+]
+
 OUTPUT_FILE = pathlib.Path(__file__).resolve().parent.parent / "playlist.m3u"
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
-    'Referer': ROOT_URL,
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
 }
-TIMEOUT = 10
 
 # 关键字正则
 PATTERNS = [
@@ -32,40 +31,23 @@ PATTERNS = [
 ]
 KEY_RE = re.compile("|".join(PATTERNS), re.I)
 
-def fetch(url):
-    """获取URL内容，自动处理编码"""
+def fetch_playlist(url):
+    """获取播放列表内容"""
     try:
-        print(f"[FETCH] 请求: {url}")
-        res = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+        print(f"[FETCH] 获取播放列表: {url}")
+        res = requests.get(url, headers=HEADERS, timeout=10)
         res.raise_for_status()
-        res.encoding = res.apparent_encoding
         return res.text
     except Exception as e:
-        print(f"[ERROR] 获取 {url} 失败: {e}")
+        print(f"[ERROR] 获取播放列表失败: {e}")
         return None
-
-def discover_links(html, base):
-    """从HTML中发现所有链接"""
-    if not html:
-        return
-        
-    soup = BeautifulSoup(html, "html.parser")
-    for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
-        if href and not href.startswith(("javascript:", "mailto:", "#")):
-            full_url = urljoin(base, href)
-            print(f"[LINK] 发现链接: {full_url}")
-            yield full_url
-
-def is_playlist(url):
-    """检查是否是播放列表文件"""
-    return url.lower().endswith((".m3u", ".m3u8"))
 
 def parse_m3u(content):
     """
     从播放列表文本提取 (group, name, url) 三元组
     """
     lines = [l.strip() for l in content.splitlines() if l.strip()]
+    results = []
     i = 0
     while i < len(lines):
         line = lines[i]
@@ -77,100 +59,44 @@ def parse_m3u(content):
             name = line.split(",", 1)[-1].strip()
             # 下一行是真实链接
             if i + 1 < len(lines) and not lines[i + 1].startswith("#"):
-                url = lines[i + 1]
-                yield group, name, url
+                url = lines[i + 1].strip()
+                if KEY_RE.search(group) or KEY_RE.search(name):
+                    results.append((group, name, url))
                 i += 1  # 跳过URL行
             i += 1
         else:
             i += 1
-
-def crawl():
-    visited_html = set()
-    done_playlist = set()
-    results = []  # [(group, name, url), …]
-    print(f"[INFO] 开始爬取: {ROOT_URL}")
-
-    def dfs(url):
-        if url in visited_html:
-            return
-        visited_html.add(url)
-        print(f"[DEBUG] 访问网页: {url}")
-
-        html = fetch(url)
-        if not html:
-            return
-
-        # 在当前HTML中查找.m3u/.m3u8链接
-        for link in re.findall(r"https?://[^\"'<> ]+\.m3u8?", html, re.I):
-            if link not in done_playlist:
-                print(f"[DEBUG] 发现播放列表: {link}")
-                handle_playlist_link(link)
-
-        # 递归处理子页面
-        for link in discover_links(html, url):
-            if is_playlist(link):
-                if link not in done_playlist:
-                    print(f"[DEBUG] 发现播放列表: {link}")
-                    handle_playlist_link(link)
-            else:
-                # 只处理相同域名的链接
-                if urlparse(link).netloc == urlparse(ROOT_URL).netloc:
-                    dfs(link)
-
-    def handle_playlist_link(link):
-        done_playlist.add(link)
-        print(f"[INFO] 处理播放列表: {link}")
-        content = fetch(link)
-        if not content:
-            return
-
-        # 解析播放列表内容
-        if "#EXTINF" in content:
-            for group, name, stream in parse_m3u(content):
-                if KEY_RE.search(group) or KEY_RE.search(name):
-                    results.append((group, name, stream))
-                    print(f"[ADD] 添加频道: {group} - {name}")
-        else:
-            # 直接流：尝试用URL判断
-            if KEY_RE.search(link):
-                name = link.rsplit("/", 1)[-1]
-                results.append(("直接流", name, link))
-                print(f"[ADD] 添加直接流: {name}")
-
-    try:
-        dfs(ROOT_URL)
-    except KeyboardInterrupt:
-        print("[WARN] 用户中断爬取")
-    except Exception as e:
-        print(f"[ERROR] 爬取过程中出错: {e}")
     return results
 
-def generate_m3u(items):
-    """生成M3U播放列表"""
-    if not items:
-        return "#EXTM3U\n"
-    
-    lines = ["#EXTM3U"]
-    seen = set()  # 防止重复 (name,url)
-
-    for group, name, url in items:
-        key = (name, url)
-        if key in seen:
-            continue
-        seen.add(key)
-        lines.append(f'#EXTINF:-1 group-title="{group}", {name}')
-        lines.append(url)
-
-    return "\n".join(lines) + "\n"
-
 def main():
-    print("[INFO] 开始爬取过程...")
-    items = crawl()
-    print(f"[INFO] 找到 {len(items)} 个电视频道")
+    all_items = []
     
-    playlist_text = generate_m3u(items)
-    OUTPUT_FILE.write_text(playlist_text, encoding="utf-8")
-    print(f"[SUCCESS] 播放列表已保存至: {OUTPUT_FILE}")
+    for url in PLAYLIST_URLS:
+        content = fetch_playlist(url)
+        if content:
+            items = parse_m3u(content)
+            all_items.extend(items)
+            print(f"[INFO] 从 {url} 找到 {len(items)} 个频道")
+    
+    print(f"[INFO] 总共找到 {len(all_items)} 个电视频道")
+    
+    if all_items:
+        # 生成播放列表内容
+        lines = ["#EXTM3U"]
+        seen = set()
+        
+        for group, name, url in all_items:
+            key = (name, url)
+            if key not in seen:
+                seen.add(key)
+                lines.append(f'#EXTINF:-1 group-title="{group}", {name}')
+                lines.append(url)
+        
+        playlist_text = "\n".join(lines) + "\n"
+        OUTPUT_FILE.write_text(playlist_text, encoding="utf-8")
+        print(f"[SUCCESS] 播放列表已保存至: {OUTPUT_FILE}")
+    else:
+        print("[WARNING] 未找到任何电视频道，跳过文件写入")
 
 if __name__ == "__main__":
     main()
