@@ -3,7 +3,7 @@ name: Build playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */2 * *'   # UTC时间，每2天0点运行
+    - cron: '0 0 */2 * *'
 
 jobs:
   build:
@@ -12,6 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0  # 获取完整历史记录而不是浅克隆
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
@@ -27,15 +28,18 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          # 配置 Git 用户
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           
-          # 拉取最新更改并rebase
-          git pull --rebase
-          
-          # 添加更改并提交
+          # 添加修改的文件
           git add playlist.m3u
+          
+          # 提交更改
           git commit -m "chore: update playlist $(date -u '+%Y-%m-%d %H:%M')" || echo "Nothing to commit"
           
-          # 强制推送更新
+          # 拉取最新更改并尝试合并
+          git pull origin main --no-rebase --no-edit
+          
+          # 强制推送更改
           git push origin main --force
