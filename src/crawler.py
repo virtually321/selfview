@@ -1,114 +1,147 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-定时抓取 http://rihou.cc:555/gggg.nzk/ 下的 m3u/m3u8 链接，
-筛选 CCTV、凤凰、中天、寰宇、东森相关地址，生成 playlist.m3u
+爬取 http://rihou.cc:555/gggg.nzk/ 中的 m3u / m3u8，
+保留源文件里的 group-title，筛出 CCTV、凤凰、中天、寰宇、东森，
+生成统一 playlist.m3u
 """
+
 import re
 import sys
 import pathlib
-from datetime import datetime
 from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
 
-# ------------------ 可自行调整 ------------------
 ROOT_URL = "http://rihou.cc:555/gggg.nzk/"
 OUTPUT_FILE = pathlib.Path(__file__).resolve().parent.parent / "playlist.m3u"
-GROUP_TITLE = "特闽 AKtv"
-TIMEOUT = 10
 HEADERS = {"User-Agent": "Mozilla/5.0 (PlaylistBot)"}
-# ------------------------------------------------
+TIMEOUT = 10
 
-# 频道关键字，用于判断 title，如果想要更多频道自行扩充
-KEYWORDS = {
-    "CCTV": r"CCTV[-\s]?\d{1,2}",
-    "凤凰": r"(凤凰|Phoenix)",
-    "中天": r"(中天|CTi)",
-    "寰宇": r"(寰宇|Global)",
-    "东森": r"(东森|ETTV)",
-}
+# 关键字正则
+PATTERNS = [
+    r"CCTV[-\s]?\d{1,2}",          # CCTV-1 … CCTV-17
+    r"(凤凰|Phoenix)",             # 凤凰
+    r"(中天|CTi)",                 # 中天
+    r"(寰宇|Global)",              # 寰宇
+    r"(东森|ETTV)"                 # 东森
+]
+KEY_RE = re.compile("|".join(PATTERNS), re.I)
 
 def fetch(url):
-    """下载网页，返回 str"""
     res = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     res.raise_for_status()
     res.encoding = res.apparent_encoding
     return res.text
 
 def discover_links(html, base):
-    """从 html 中挖掘 href 链接并返回绝对地址"""
     soup = BeautifulSoup(html, "html.parser")
     for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
-        abs_url = urljoin(base, href)
-        yield abs_url
+        yield urljoin(base, a["href"].strip())
 
 def is_playlist(url):
     return url.lower().endswith((".m3u", ".m3u8"))
 
-def classify_channel(text):
-    """根据关键字匹配频道名，返回合适的 display name"""
-    for k, pattern in KEYWORDS.items():
-        m = re.search(pattern, text, re.IGNORECASE)
-        if m:
-            return m.group(0).upper() if k == "CCTV" else m.group(0)
-    return None
+def parse_m3u(content):
+    """
+    从播放列表文本提取 (group, name, url) 三元组
+    """
+    lines = [l.strip() for l in content.splitlines() if l.strip()]
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith("#EXTINF"):
+            # 解析 group-title
+            m_group = re.search(r'group-title="([^"]+)"', line, re.I)
+            group = m_group.group(1).strip() if m_group else "未知分组"
+            # 解析频道显示名
+            name = line.split(",", 1)[-1].strip()
+            # 下一行是真实链接
+            if i + 1 < len(lines) and not lines[i + 1].startswith("#"):
+                url = lines[i + 1]
+                yield group, name, url
+            i += 2
+        else:
+            i += 1
 
 def crawl():
-    visited = set()
-    playlists = {}
+    visited_html = set()
+    done_playlist = set()
+    results = []                           # [(group, name, url), …]
 
     def dfs(url):
-        if url in visited or len(visited) > 3000:  # 防炸站
+        if url in visited_html:
             return
-        visited.add(url)
+        visited_html.add(url)
 
         try:
             html = fetch(url)
         except Exception as e:
-            print(f"[WARN] {url} => {e}", file=sys.stderr)
+            print(f"[WARN] {url} -> {e}", file=sys.stderr)
             return
 
-        # 先提取当前页的播放列表
-        for link in re.findall(r"http[^\"'<> ]+\.(?:m3u8?)", html, re.I):
-            ch_name = classify_channel(link)
-            if ch_name:
-                playlists.setdefault(ch_name, link)
+        # 在当前 HTML 里先找 *.m3u8? 直接文字出现（不少网页直接列出来）
+        for link in re.findall(r"http[^\"'<> ]+\.m3u8?", html, re.I):
+            if link not in done_playlist:
+                handle_playlist_link(link)
 
-        # 再递归子链接
+        # 再递归子页面
         for link in discover_links(html, url):
-            # 同域名/同目录才继续
-            if urlparse(link).netloc == urlparse(ROOT_URL).netloc:
-                if is_playlist(link):
-                    ch_name = classify_channel(link)
-                    if ch_name:
-                        playlists.setdefault(ch_name, link)
-                else:
+            if is_playlist(link):
+                if link not in done_playlist:
+                    handle_playlist_link(link)
+            else:
+                if urlparse(link).netloc == urlparse(ROOT_URL).netloc:
                     dfs(link)
 
-    dfs(ROOT_URL)
-    return playlists
+    def handle_playlist_link(link):
+        done_playlist.add(link)
+        try:
+            txt = fetch(link)
+        except Exception as e:
+            print(f"[WARN] playlist {link} -> {e}", file=sys.stderr)
+            return
 
-def generate_m3u(playlists: dict):
+        # 如果文件里包含 #EXTINF 就按列表解析，否则当作单串流
+        if "#EXTINF" in txt:
+            for group, name, stream in parse_m3u(txt):
+                if KEY_RE.search(group) or KEY_RE.search(name):
+                    results.append((group, name, stream))
+        else:
+            # 直接流：尝试用 url 判断
+            if KEY_RE.search(link):
+                # 用文件名当频道名
+                name = link.rsplit("/", 1)[-1]
+                results.append(("未知分组", name, link))
+
+    dfs(ROOT_URL)
+    return results
+
+def generate_m3u(items):
+    """
+    items: [(group, name, url), …]
+    """
     lines = ["#EXTM3U"]
-    for ch_name in sorted(playlists.keys()):
-        url = playlists[ch_name]
-        # 统一『央视1套』之类命名：CCTV-1
-        ch_display = ch_name.replace(" ", "").replace("CCTV-", "CCTV")
-        line_info = f'#EXTINF:-1 group-title="{GROUP_TITLE}", {ch_display} AKtv'
-        lines.append(line_info)
+    seen = set()        # 防止重复 (name,url)
+
+    for group, name, url in items:
+        key = (name, url)
+        if key in seen:
+            continue
+        seen.add(key)
+        lines.append(f'#EXTINF:-1 group-title="{group}", {name}')
         lines.append(url)
+
     return "\n".join(lines) + "\n"
 
 def main():
-    print("[INFO] Start crawling...")
-    data = crawl()
-    print(f"[INFO] Got {len(data)} channels")
-    content = generate_m3u(data)
-    OUTPUT_FILE.write_text(content, encoding="utf-8")
-    print(f"[INFO] Write to {OUTPUT_FILE}")
+    print("[INFO] Crawling…")
+    items = crawl()
+    print(f"[INFO] 收到 {len(items)} 条流")
+    playlist_text = generate_m3u(items)
+    OUTPUT_FILE.write_text(playlist_text, encoding="utf-8")
+    print(f"[INFO] 写入 {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
