@@ -91,7 +91,7 @@ def crawl():
         if url in visited_html:
             return
         visited_html.add(url)
-        print(f"[DEBUG] 访问: {url}")
+        print(f"[DEBUG] 访问网页: {url}")
 
         html = fetch(url)
         if not html:
@@ -138,10 +138,15 @@ def crawl():
         dfs(ROOT_URL)
     except KeyboardInterrupt:
         print("[WARN] 用户中断爬取")
+    except Exception as e:
+        print(f"[ERROR] 爬取过程中出错: {e}")
     return results
 
 def generate_m3u(items):
     """生成M3U播放列表"""
+    if not items:
+        return "#EXTM3U\n"
+    
     lines = ["#EXTM3U"]
     seen = set()  # 防止重复 (name,url)
 
@@ -160,12 +165,9 @@ def main():
     items = crawl()
     print(f"[INFO] 找到 {len(items)} 个电视频道")
     
-    if items:
-        playlist_text = generate_m3u(items)
-        OUTPUT_FILE.write_text(playlist_text, encoding="utf-8")
-        print(f"[SUCCESS] 播放列表已保存至: {OUTPUT_FILE}")
-    else:
-        print("[WARNING] 未找到任何电视频道，跳过文件写入")
+    playlist_text = generate_m3u(items)
+    OUTPUT_FILE.write_text(playlist_text, encoding="utf-8")
+    print(f"[SUCCESS] 播放列表已保存至: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
