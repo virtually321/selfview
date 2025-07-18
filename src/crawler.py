@@ -35,6 +35,7 @@ KEY_RE = re.compile("|".join(PATTERNS), re.I)
 def fetch(url):
     """获取URL内容，自动处理编码"""
     try:
+        print(f"[FETCH] 请求: {url}")
         res = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
         res.raise_for_status()
         res.encoding = res.apparent_encoding
@@ -52,7 +53,9 @@ def discover_links(html, base):
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
         if href and not href.startswith(("javascript:", "mailto:", "#")):
-            yield urljoin(base, href)
+            full_url = urljoin(base, href)
+            print(f"[LINK] 发现链接: {full_url}")
+            yield full_url
 
 def is_playlist(url):
     """检查是否是播放列表文件"""
