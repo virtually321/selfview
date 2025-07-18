@@ -1,50 +1,36 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-爬取 http://rihou.cc:555/gggg.nzk/ 中的 m3u / m3u8，
-保留源文件里的 group-title，筛出 CCTV、凤凰、中天、寰宇、东森，
-生成统一 playlist.m3u
+占位爬虫：确保 CI 可通过 DNS + HTTPS 请求
+默认抓取 httpbin.org，
+后续把 URL 换成真实域名即可。
 """
-
-#!/usr/bin/env python3
-"""
-通用爬虫示例
-- 默认抓取 https://httpbin.org/get 做连通性测试
-- 可通过环境变量 TARGET_URL 指定真正要抓的站点
-- 支持 HTTP(S)_PROXY 环境变量
-"""
-
 import os
 import sys
-import time
 import logging
-from typing import Optional
-
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# -------------------- 日志配置 --------------------
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[logging.StreamHandler(sys.stdout)]
-)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("crawler")
 
-# -------------------- 参数读取 --------------------
-TARGET_URL: str = os.getenv("TARGET_URL", "https://httpbin.org/get")
-PROXIES: dict[str, str] = {
-    "http": os.getenv("HTTP_PROXY", ""),
-    "https": os.getenv("HTTPS_PROXY", ""),
-}
-# 去掉空字符串，避免 requests 把 "" 当成代理地址
-PROXIES = {k: v for k, v in PROXIES.items() if v}
+def main() -> None:
+    # 1. 可手动通过环境变量覆盖
+    target = os.getenv("TARGET_URL", "https://httpbin.org/get")
+    log.info("准备抓取: %s", target)
 
-# -------------------- 会话初始化 --------------------
-session = requests.Session()
-session.headers.update(
-    {
-        "User-Agent": "Mozilla/5.0 (compatible; SelfViewBot/1.0; +https://github.com/yourname/selfview)",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.
+    session = requests.Session()
+    retries = Retry(total=3, backoff_factor=1, status_forcelist=[502, 503, 504])
+    session.mount("https://", HTTPAdapter(max_retries=retries))
+
+    try:
+        resp = session.get(target, timeout=10)
+        resp.raise_for_status()
+        log.info("成功抓取 %d bytes", len(resp.text))
+        log.info("前 200 字符：\n%s", resp.text[:200])
+    except requests.exceptions.RequestException as e:
+        log.error("抓取失败：%s", e)
+        sys.exit(1)
+
+if __name__ == "__main__":
+    main()
