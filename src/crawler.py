@@ -12,6 +12,20 @@ import pathlib
 from urllib.parse import urljoin, urlparse
 
 import requests
+
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)'
+                  ' Chrome/90.0.4430.93 Safari/537.36',
+    'Referer': 'https://example.com',  # 根据需要添加
+    # 如果需要登录cookie，可以在此加入
+}
+
+response = requests.get('https://目标网站', headers=headers)
+if response.status_code == 200:
+    # 处理内容
+    pass
+else:
+    print(f"请求失败，状态码：{response.status_code}")
 from bs4 import BeautifulSoup
 
 ROOT_URL = "http://rihou.cc:555/gggg.nzk/"
