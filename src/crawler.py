@@ -1,6 +1,6 @@
-url = "http://rihou.cc:555/gggg.nzk/"  # 请确保这个网址是有效的
-
 import requests
+
+url = "http://rihou.cc:555/gggg.nzk/"  # 请确保这个网址是有效的
 
 def fetch_webpage(url):
     headers = {
@@ -68,7 +68,7 @@ def save_m3u(groups, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n\n")
         for group_name, channels in groups.items():
-            f.write(f"#{group_name}\n")  # 使用动态提取的分组名
+            f.write(f"#{group_name}\n")  # 输出分组名
             for channel_name, stream_url in channels:
                 f.write(f'#EXTINF:-1 group-title="{group_name}", {channel_name}\n')
                 f.write(stream_url + "\n")
