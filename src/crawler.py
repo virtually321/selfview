@@ -18,7 +18,7 @@ def fetch_webpage(url):
 def parse_channels(text):
     """
     解析输入文本，根据组名和节目链接归类频道。
-    只保留 .m3u8 格式的节目源。
+    只保留 .m3u8 和 .flv 格式的节目源。
     """
     filter_keywords = ['肥羊', '咪咕']  # 需过滤的关键字
     valid_channels = [
@@ -49,28 +49,30 @@ def parse_channels(text):
             if line.startswith("#EXTINF:"):
                 parts = line.split(",")
                 if len(parts) < 2:
-                    continue  # 如果没有正确的格式则跳过
+                    continue  # 如果没有正确的名称则跳过
                 channel_name = parts[1].strip()
-                stream_url = next((next_line.strip() for next_line in text.splitlines() 
-                                   if next_line.strip() and not next_line.startswith("#")), None)
+                
+                # 找到下一个非空行作为流地址
+                stream_url_line = next((next_line.strip() for next_line in text.splitlines() 
+                                         if next_line.strip() and not next_line.startswith("#")), None)
 
                 # 过滤掉包含禁止词的频道名和流地址
                 if any(k in channel_name for k in filter_keywords):
                     print(f"过滤频道名包含禁止词: {channel_name}")
                     continue
-                if stream_url and any(k in stream_url for k in filter_keywords):
-                    print(f"过滤地址包含禁止词: {stream_url}")
+                if stream_url_line and any(k in stream_url_line for k in filter_keywords):
+                    print(f"过滤地址包含禁止词: {stream_url_line}")
                     continue
 
-                # 检查流地址是否是 .m3u8 格式
-                if not stream_url.endswith('.m3u8') and not stream_url.endswith('.flv'):
-                    print(f"过滤非 .m3u8 或非 .flv 地址: {stream_url}")
+                # 检查流地址是否是 .m3u8 或 .flv 格式
+                if not (stream_url_line.endswith('.m3u8') or stream_url_line.endswith('.flv')):
+                    print(f"过滤非 .m3u8 或非 .flv 地址: {stream_url_line}")
                     continue
 
                 # 只在频道名有效时才添加
                 if any(valid_channel in channel_name for valid_channel in valid_channels):
                     # 将频道添加到当前分组中
-                    groups[current_group].append((channel_name, stream_url))
+                    groups[current_group].append((channel_name, stream_url_line))
 
     # 删除空节目组
     groups = {group: channels for group, channels in groups.items() if channels}
