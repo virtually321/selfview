@@ -17,50 +17,44 @@ def fetch_webpage(url):
 
 def parse_channels(text):
     """
-    解析输入文本，根据节目源动态提取分组名。
-    每个分组名不合并。
+    解析输入文本，根据组名和节目链接归类频道。
     """
     filter_keywords = ['肥羊', '咪咕']
-    # 直接在 valid_channels 中加入你需要的频道名称
-    valid_channels = [
-        "CCTV", "凤凰", "中天", "寰宇", "东森",
-        "无线", "RTHK", "TVBS", "江苏卫视",
-        "东方卫视", "浙江卫视", "上海新闻", "财经"
-    ]
-
+    
     groups = {}
+    current_group = None
 
-    parts = text.split('\n')
-    for part in parts:
-        part = part.strip()
-        # 检查是否包含内容并且有逗号
-        if not part or ',' not in part:
+    # 按行解析文本
+    for line in text.splitlines():
+        line = line.strip()
+        # 跳过空行
+        if not line:
             continue
         
-        channel_name, stream_url = part.split(',', 1)
-        channel_name = channel_name.strip()
-        stream_url = stream_url.strip()
-
-        # 过滤掉包含禁止词的频道名和流地址
-        if any(k in channel_name for k in filter_keywords):
-            print(f"过滤频道名包含禁止词: {channel_name}")
+        # 检查是否是分组名行，格式如"央卫咪咕,#genre#"
+        if ',' in line and '#genre#' in line:
+            current_group = line.split(',')[0].strip()  # 获取分组名
+            if current_group not in groups:
+                groups[current_group] = []  # 初始化分组
             continue
-        if any(k in stream_url for k in filter_keywords):
-            print(f"过滤地址包含禁止词: {stream_url}")
-            continue
-
-        # 提取分组名
-        if "#" in channel_name:
-            group_name = channel_name.split('#')[0].strip()  # 分离分组名
-            channel_name = channel_name.split('#')[1].strip()  # 取实际频道名称
-        else:
-            group_name = "其他"  # 给一个默认组
         
-        # 仅添加有效的频道
-        if any(valid_channel in channel_name for valid_channel in valid_channels) or group_name == "其他":
-            if group_name not in groups:
-                groups[group_name] = []  # 创建新的分组
-            groups[group_name].append((channel_name, stream_url))  # 添加频道信息到分组
+        # 检查是否是节目行
+        if current_group is not None:  # 只有在有分组的情况下才处理节目行
+            if ',' in line:
+                channel_name, stream_url = line.split(',', 1)
+                channel_name = channel_name.strip()
+                stream_url = stream_url.strip()
+                
+                # 过滤掉包含禁止词的频道名和流地址
+                if any(k in channel_name for k in filter_keywords):
+                    print(f"过滤频道名包含禁止词: {channel_name}")
+                    continue
+                if any(k in stream_url for k in filter_keywords):
+                    print(f"过滤地址包含禁止词: {stream_url}")
+                    continue
+
+                # 将频道添加到当前分组中
+                groups[current_group].append((channel_name, stream_url))
 
     return groups
 
@@ -80,7 +74,6 @@ def main():
     if not html:
         print("抓取失败，退出。")
         return
-    print("抓取内容：", html[:200], "...")  # 观察前200字符
 
     groups = parse_channels(html)
     if not groups or all(not v for v in groups.values()):
