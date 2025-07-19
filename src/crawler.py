@@ -49,10 +49,10 @@ def parse_channels(text):
             if line.startswith("#EXTINF:"):
                 parts = line.split(",")
                 if len(parts) < 2:
-                    continue  # 如果没有正确的名称则跳过
+                    continue  # 如果没有有效的频道名称则跳过
                 channel_name = parts[1].strip()
                 
-                # 找到下一个非空行作为流地址
+                # 获取下一个非空行作为流地址
                 stream_url_line = next((next_line.strip() for next_line in text.splitlines() 
                                          if next_line.strip() and not next_line.startswith("#")), None)
 
