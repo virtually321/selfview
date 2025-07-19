@@ -1,9 +1,7 @@
 import requests
 import re
 
-url = "http://rihou.cc:555/gggg.nzk/"  # 你的链接
-
-keywords = ['凤凰', '央视', 'cctv', '东森', '寰宇', '中天', '财经频道']
+url = "http://rihou.cc:555/gggg.nzk/"  # 替换为你的真实URL
 
 headers = {
     "User-Agent": "Mozilla/5.0",
@@ -19,57 +17,57 @@ def fetch_webpage(url):
         print(f"请求失败: {e}")
         return None
 
-def parse_playlist(text):
+def parse_m3u_content(text):
     """
-    支持如下格式：
-    - 分组行通常包含 "#genre#"，例如："欣赏频道,#genre#"
-    - 分组名后面是若干(频道名, 直播地址)条目
-    - 直播条目格式：频道名,直播地址
-    - 连续读取直到遇到新的分组名或文件结尾    
+    解析格式示例：
+    #分组名
+    #EXTINF:-1 group-title="分组名", 频道名
+    url
+    ...
     """
     lines = [line.strip() for line in text.splitlines() if line.strip()]
-    group = "默认分组"
+    current_group = None
     playlist = []
-    idx = 0
-    while idx < len(lines):
-        line = lines[idx]
-        # 判断是否是分组名行
-        if '#genre#' in line:
-            # 切出分组名称，例“欣赏频道,#genre#”取“欣赏频道”
-            group = line.split(',')[0].strip()
-            idx += 1
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith('#') and not line.startswith('#EXTINF'):
+            # 新分组名，比如 "#特闽 AKtv"
+            current_group = line.lstrip('#').strip()
+            i += 1
             continue
-
-        # 解析直播条目，判断格式 "频道名,直播地址"
-        parts = line.split(',', maxsplit=1)
-        if len(parts) == 2:
-            channel_name = parts[0].strip()
-            stream_url = parts[1].strip()
-        else:
-            # 如果当前行不是直播条目格式，尝试和下一行合并，部分站流地址在下一行？
-            if idx + 1 < len(lines):
-                channel_name = line
-                stream_url = lines[idx + 1]
-                idx += 1
-            else:
-                # 无效数据跳过
-                idx += 1
+        elif line.startswith('#EXTINF'):
+            # 解析EXTINF行的分组、频道名
+            match = re.match(r'#EXTINF:-1 group-title="([^"]+)",\s*(.+)', line)
+            if not match:
+                print(f"无法解析行：{line}")
+                i += 1
                 continue
+            group_title = match.group(1)
+            channel_name = match.group(2)
 
-        # 关键词过滤
-        if any(kw.lower() in channel_name.lower() for kw in keywords):
+            # 下一行是URL
+            if i + 1 >= len(lines):
+                print("缺少直播地址，跳过")
+                break
+            stream_url = lines[i + 1]
+
+            # 优先用EXTINF的group-title，否则用当前分组名
+            group = group_title if group_title else current_group
+
             playlist.append((group, channel_name, stream_url))
-        idx += 1
+            i += 2
+        else:
+            # 其他行忽略
+            i += 1
+
     return playlist
 
 def save_playlist(items, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n\n")
-        last_group = None
         for group, channel_name, stream_url in items:
-            if group != last_group:
-                last_group = group
-            # 写入带分组名的播放项格式
             f.write(f'#EXTINF:-1 group-title="{group}",{channel_name}\n')
             f.write(f'{stream_url}\n')
 
@@ -79,13 +77,13 @@ def main():
         print("获取网页失败")
         return
 
-    playlist = parse_playlist(html)
+    playlist = parse_m3u_content(html)
     if not playlist:
-        print("没有符合条件的直播源")
+        print("未找到任何直播源")
         return
 
     save_playlist(playlist, "playlist.m3u")
-    print(f"共写入 {len(playlist)} 条直播源到 playlist.m3u")
+    print(f"成功写入 {len(playlist)} 条直播源到 playlist.m3u")
 
 if __name__ == '__main__':
     main()
