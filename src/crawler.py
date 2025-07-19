@@ -18,10 +18,10 @@ def fetch_webpage(url):
 def parse_channels(text):
     """
     解析输入文本，根据节目源动态提取分组名。
-    仅保留特定的频道，每个分组名不合并。
+    每个分组名不合并。
     """
     filter_keywords = ['肥羊', '咪咕']
-    # 仅保留的频道名称
+    # 直接在 valid_channels 中加入你需要的频道名称
     valid_channels = [
         "CCTV", "凤凰", "中天", "寰宇", "东森",
         "无线", "RTHK", "TVBS", "江苏卫视",
@@ -49,18 +49,18 @@ def parse_channels(text):
             print(f"过滤地址包含禁止词: {stream_url}")
             continue
 
-        # 检查频道名是否在有效频道列表中
-        if any(valid_channel in channel_name for valid_channel in valid_channels):
-            # 提取分组名
-            if "#" in channel_name:
-                group_name = channel_name.split('#')[0].strip()  # 从频道名中提取分组名
-            else:
-                group_name = "其他"  # 如果没有分组名，给它一个默认分组
-            
-            # 将频道添加到对应的分组
+        # 提取分组名
+        if "#" in channel_name:
+            group_name = channel_name.split('#')[0].strip()  # 分离分组名
+            channel_name = channel_name.split('#')[1].strip()  # 取实际频道名称
+        else:
+            group_name = "其他"  # 给一个默认组
+        
+        # 仅添加有效的频道
+        if any(valid_channel in channel_name for valid_channel in valid_channels) or group_name == "其他":
             if group_name not in groups:
                 groups[group_name] = []  # 创建新的分组
-            groups[group_name].append((channel_name, stream_url))  # 添加到分组
+            groups[group_name].append((channel_name, stream_url))  # 添加频道信息到分组
 
     return groups
 
