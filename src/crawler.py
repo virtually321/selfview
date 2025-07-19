@@ -37,31 +37,34 @@ def parse_channels(text):
         if not line:
             continue
         
-        # 检查是否是分组名行，格式如 "央卫咪咕,#genre#"
-        if ',' in line and '#genre#' in line:
-            current_group = line.split(',')[0].strip()  # 获取分组名
+        # 检查是否是分组名行，以 # 开头，并且不包含 EXTINF
+        if line.startswith("#") and not line.startswith("#EXTINF"):
+            current_group = line[1:].strip()  # 获取分组名
             if current_group not in groups:
                 groups[current_group] = []  # 初始化分组
             continue
         
         # 检查是否是节目行
         if current_group is not None:  # 只有在有分组的情况下才处理节目行
-            if ',' in line:
-                channel_name, stream_url = line.split(',', 1)
-                channel_name = channel_name.strip()
-                stream_url = stream_url.strip()
-                
+            if line.startswith("#EXTINF:"):
+                parts = line.split(",")
+                if len(parts) < 2:
+                    continue  # 如果没有正确的格式则跳过
+                channel_name = parts[1].strip()
+                stream_url = next((next_line.strip() for next_line in text.splitlines() 
+                                   if next_line.strip() and not next_line.startswith("#")), None)
+
                 # 过滤掉包含禁止词的频道名和流地址
                 if any(k in channel_name for k in filter_keywords):
                     print(f"过滤频道名包含禁止词: {channel_name}")
                     continue
-                if any(k in stream_url for k in filter_keywords):
+                if stream_url and any(k in stream_url for k in filter_keywords):
                     print(f"过滤地址包含禁止词: {stream_url}")
                     continue
 
                 # 检查流地址是否是 .m3u8 格式
-                if not stream_url.endswith('.m3u8'):
-                    print(f"过滤非 .m3u8 地址: {stream_url}")
+                if not stream_url.endswith('.m3u8') and not stream_url.endswith('.flv'):
+                    print(f"过滤非 .m3u8 或非 .flv 地址: {stream_url}")
                     continue
 
                 # 只在频道名有效时才添加
@@ -69,7 +72,7 @@ def parse_channels(text):
                     # 将频道添加到当前分组中
                     groups[current_group].append((channel_name, stream_url))
 
-    # 删除空节目组，只有在没有有效节目的时候才会被删除
+    # 删除空节目组
     groups = {group: channels for group, channels in groups.items() if channels}
 
     return groups
