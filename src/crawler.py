@@ -94,7 +94,7 @@ def main():
         print("解析后无有效节目，退出。")
         return
 
-    save_m3u(groups, "playlist.m3u8")
+    save_m3u(groups, "playlist.m3u")
 
 if __name__ == '__main__':
     main()
