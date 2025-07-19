@@ -18,7 +18,7 @@ def fetch_webpage(url):
 def parse_channels(text):
     """
     解析输入文本，根据节目源动态提取分组名。
-    仅保留特定的频道。
+    仅保留特定的频道，每个分组名不合并。
     """
     filter_keywords = ['肥羊', '咪咕']
     # 仅保留的频道名称
@@ -57,7 +57,10 @@ def parse_channels(text):
             else:
                 group_name = "其他"  # 如果没有分组名，给它一个默认分组
             
-            groups.setdefault(group_name, []).append((channel_name, stream_url))  # 添加到对应分组
+            # 将频道添加到对应的分组
+            if group_name not in groups:
+                groups[group_name] = []  # 创建新的分组
+            groups[group_name].append((channel_name, stream_url))  # 添加到分组
 
     return groups
 
