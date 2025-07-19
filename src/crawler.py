@@ -1,7 +1,7 @@
 import requests
 import re
 
-url = "http://rihou.cc:555/gggg.nzk/"  # 替换为你的URL
+url = "http://rihou.cc:555/gggg.nzk/"  # 你的链接
 
 keywords = ['凤凰', '央视', 'cctv', '东森', '寰宇', '中天', '财经频道']
 
@@ -19,86 +19,73 @@ def fetch_webpage(url):
         print(f"请求失败: {e}")
         return None
 
-def split_entries(text):
+def parse_playlist(text):
     """
-    依据换行符或空白符拆分文本成条目。
-    优先尝试按换行拆分，不多于1/3空行则认为是换行式，
-    否则按空白符拆分。
+    支持如下格式：
+    - 分组行通常包含 "#genre#"，例如："欣赏频道,#genre#"
+    - 分组名后面是若干(频道名, 直播地址)条目
+    - 直播条目格式：频道名,直播地址
+    - 连续读取直到遇到新的分组名或文件结尾    
     """
     lines = [line.strip() for line in text.splitlines() if line.strip()]
-    empty_line_count = text.count('\n\n')
-    if empty_line_count < len(lines) / 3:
-        # 换行格式为主
-        return lines
-    else:
-        # 空白分割为主
-        return re.split(r'\s+', text.strip())
+    group = "默认分组"
+    playlist = []
+    idx = 0
+    while idx < len(lines):
+        line = lines[idx]
+        # 判断是否是分组名行
+        if '#genre#' in line:
+            # 切出分组名称，例“欣赏频道,#genre#”取“欣赏频道”
+            group = line.split(',')[0].strip()
+            idx += 1
+            continue
 
-def parse_entry(entry):
-    """
-    从一条记录提取频道名和流地址。
-    规则：
-    - 频道名+URL之间至少有一个逗号
-    - URL通常是 http 或 https 开头，可用URL开头分割
-    - 尝试用URL分割，避免频道名中出现逗号导致切割错误
-    """
-    # 查找URL位置
-    url_match = re.search(r'(https?://[^\s]+)', entry)
-    if not url_match:
-        return None
-    stream_url = url_match.group(1)
+        # 解析直播条目，判断格式 "频道名,直播地址"
+        parts = line.split(',', maxsplit=1)
+        if len(parts) == 2:
+            channel_name = parts[0].strip()
+            stream_url = parts[1].strip()
+        else:
+            # 如果当前行不是直播条目格式，尝试和下一行合并，部分站流地址在下一行？
+            if idx + 1 < len(lines):
+                channel_name = line
+                stream_url = lines[idx + 1]
+                idx += 1
+            else:
+                # 无效数据跳过
+                idx += 1
+                continue
 
-    # 频道名 = entry中，去掉流地址部分(及其前面的逗号)
-    name_part = entry[:url_match.start()].rstrip(', ').strip()
-
-    if not name_part or not stream_url:
-        return None
-
-    return name_part, stream_url
-
-def filter_items(items, keywords):
-    filtered = []
-    for name, url in items:
-        if any(kw.lower() in name.lower() for kw in keywords):
-            filtered.append((name, url))
-    return filtered
+        # 关键词过滤
+        if any(kw.lower() in channel_name.lower() for kw in keywords):
+            playlist.append((group, channel_name, stream_url))
+        idx += 1
+    return playlist
 
 def save_playlist(items, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n\n")
-        for name, url in items:
-            f.write(f'#EXTINF:-1,{name}\n')
-            f.write(f'{url}\n')
+        last_group = None
+        for group, channel_name, stream_url in items:
+            if group != last_group:
+                last_group = group
+            # 写入带分组名的播放项格式
+            f.write(f'#EXTINF:-1 group-title="{group}",{channel_name}\n')
+            f.write(f'{stream_url}\n')
 
 def main():
     html = fetch_webpage(url)
     if not html:
-        print("无法获取网页内容")
+        print("获取网页失败")
         return
 
-    entries = split_entries(html)
-    print(f"拆分得到 {len(entries)} 条条目")
-
-    parsed_items = []
-    for e in entries:
-        r = parse_entry(e)
-        if r:
-            parsed_items.append(r)
-        else:
-            print(f"未能解析条目: {e}")
-
-    if not parsed_items:
-        print("没有有效直播源")
+    playlist = parse_playlist(html)
+    if not playlist:
+        print("没有符合条件的直播源")
         return
 
-    filtered = filter_items(parsed_items, keywords)
-
-    if not filtered:
-        print("筛选后无匹配的直播源")
-        return
-
-    save_playlist(filtered, "playlist.m3u")
-    print(f"成功写入 {len(filtered)} 条直播源到 playlist.m3u")
+    save_playlist(playlist, "playlist.m3u")
+    print(f"共写入 {len(playlist)} 条直播源到 playlist.m3u")
 
 if __name__ == '__main__':
     main()
