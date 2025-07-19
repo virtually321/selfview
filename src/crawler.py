@@ -59,9 +59,9 @@ def parse_channels(text):
                     print(f"过滤地址包含禁止词: {stream_url}")
                     continue
 
-                # 检查流地址是否是 .m3u8 格式
-                if not stream_url.endswith('.m3u8'):
-                    print(f"过滤非 .m3u8 地址: {stream_url}")
+                # 检查流地址是否是 .m3u8 格式，且不以 tvbus:// 开头
+                if not stream_url.endswith('.m3u8') or stream_url.startswith('tvbus://'):
+                    print(f"过滤非 .m3u8 或以 tvbus:// 地址: {stream_url}")
                     continue
 
                 # 只在频道名有效时才添加
