@@ -33,6 +33,7 @@ def parse_channels(text):
     parts = text.split('\n')
     for part in parts:
         part = part.strip()
+        # 检查是否包含内容并且有逗号
         if not part or ',' not in part:
             continue
         
@@ -50,9 +51,13 @@ def parse_channels(text):
 
         # 检查频道名是否在有效频道列表中
         if any(valid_channel in channel_name for valid_channel in valid_channels):
-            # 使用频道名作为分组名
-            group_name = channel_name  # 分组名可以直接用频道名，也可以进行进一步处理
-            groups.setdefault(group_name, []).append((channel_name, stream_url))  # 添加到当前分组
+            # 提取分组名
+            if "#" in channel_name:
+                group_name = channel_name.split('#')[0].strip()  # 从频道名中提取分组名
+            else:
+                group_name = "其他"  # 如果没有分组名，给它一个默认分组
+            
+            groups.setdefault(group_name, []).append((channel_name, stream_url))  # 添加到对应分组
 
     return groups
 
