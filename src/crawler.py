@@ -18,6 +18,7 @@ def fetch_webpage(url):
 def parse_channels(text):
     """
     解析输入文本，根据组名和节目链接归类频道。
+    只保留 .m3u8 格式的节目源。
     """
     filter_keywords = ['肥羊', '咪咕']  # 需过滤的关键字
     valid_channels = [
@@ -36,7 +37,7 @@ def parse_channels(text):
         if not line:
             continue
         
-        # 检查是否是分组名行，格式如"央卫咪咕,#genre#"
+        # 检查是否是分组名行，格式如 "央卫咪咕,#genre#"
         if ',' in line and '#genre#' in line:
             current_group = line.split(',')[0].strip()  # 获取分组名
             if current_group not in groups:
@@ -58,10 +59,18 @@ def parse_channels(text):
                     print(f"过滤地址包含禁止词: {stream_url}")
                     continue
 
-                # 只有在频道名有效时才添加
+                # 检查流地址是否是 .m3u8 格式
+                if not stream_url.endswith('.m3u8'):
+                    print(f"过滤非 .m3u8 地址: {stream_url}")
+                    continue
+
+                # 只在频道名有效时才添加
                 if any(valid_channel in channel_name for valid_channel in valid_channels):
                     # 将频道添加到当前分组中
                     groups[current_group].append((channel_name, stream_url))
+
+    # 删除空节目组，只有在没有有效节目的时候才会被删除
+    groups = {group: channels for group, channels in groups.items() if channels}
 
     return groups
 
@@ -83,11 +92,11 @@ def main():
         return
 
     groups = parse_channels(html)
-    if not groups or all(not v for v in groups.values()):
+    if not groups:
         print("解析后无有效节目，退出。")
         return
 
-    save_m3u(groups, "playlist.m3u")
+    save_m3u(groups, "playlist.m3u8")
 
 if __name__ == '__main__':
     main()
