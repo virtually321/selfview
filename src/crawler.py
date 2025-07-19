@@ -19,7 +19,12 @@ def parse_channels(text):
     """
     解析输入文本，根据组名和节目链接归类频道。
     """
-    filter_keywords = ['肥羊', '咪咕']
+    filter_keywords = ['肥羊', '咪咕']  # 需过滤的关键字
+    valid_channels = [
+        "CCTV", "凤凰", "中天", "寰宇", "东森", "无线",
+        "RTHK", "TVBS", "江苏卫视", "东方卫视", "浙江卫视",
+        "上海新闻", "财经", "新闻", "综艺", "娱乐"  # 你可添加更多的频道名称
+    ]
     
     groups = {}
     current_group = None
@@ -53,8 +58,10 @@ def parse_channels(text):
                     print(f"过滤地址包含禁止词: {stream_url}")
                     continue
 
-                # 将频道添加到当前分组中
-                groups[current_group].append((channel_name, stream_url))
+                # 只有在频道名有效时才添加
+                if any(valid_channel in channel_name for valid_channel in valid_channels):
+                    # 将频道添加到当前分组中
+                    groups[current_group].append((channel_name, stream_url))
 
     return groups
 
