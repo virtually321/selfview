@@ -3,17 +3,26 @@ name: Build playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */2 * *'
+    - cron: '0 0 */2 * *'   # 每隔2天的0点运行
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 获取完整历史记录而不是浅克隆
+          fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Cache pip
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -21,25 +30,27 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: python -m pip install -r requirements.txt
+        run: python -m pip install --upgrade pip && pip install -r requirements.txt
 
       - name: Run crawler
         run: python src/crawler.py
 
-      - name: Commit and push changes
+      - name: Commit and push changes if playlist.m3u changed
         run: |
-          # 配置 Git 用户
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          
-          # 添加修改的文件
+
+          # 查看文件改动
+          if git diff --quiet playlist.m3u; then
+            echo "No changes in playlist.m3u, skipping commit."
+            exit 0
+          fi
+
           git add playlist.m3u
-          
-          # 提交更改
-          git commit -m "chore: update playlist $(date -u '+%Y-%m-%d %H:%M')" || echo "Nothing to commit"
-          
-          # 拉取最新更改并尝试合并
-          git pull origin main --no-rebase --no-edit
-          
-          # 强制推送更改
-          git push origin main --force
+          git commit -m "chore: update playlist $(date -u '+%Y-%m-%d %H:%M')"
+
+          # 先同步远程最新，避免冲突
+          git pull --no-rebase origin main
+
+          # 推送改动
+          git push origin main
