@@ -1,10 +1,13 @@
-url = "http://rihou.cc:555/gggg.nzk/"
+url = "http://rihou.cc:555/gggg.nzk/"  # 请确保这个网址是有效的
 
 import requests
 
 def fetch_webpage(url):
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+    }
     try:
-        r = requests.get(url, timeout=15)
+        r = requests.get(url, headers=headers, timeout=15)
         r.encoding = r.apparent_encoding
         r.raise_for_status()
         return r.text
@@ -14,43 +17,52 @@ def fetch_webpage(url):
 
 def parse_channels(text):
     """
-    解析你提供的格式：
-    - 以空格分割多个频道信息
-    - 每个频道信息以逗号分割为频道名和地址
-    - 过滤频道名或地址中含“肥羊”“咪咕”的内容
-    - 由于无明显分组，全部放一个默认分组“默认分组”
+    解析输入文本，根据节目源动态提取分组名。
+    仅保留特定的频道。
     """
     filter_keywords = ['肥羊', '咪咕']
-    text = text.strip()
-    # 先去掉可能的 #genre# 这类开头
-    if text.startswith('#'):
-        idx = text.find(' ')
-        if idx != -1:
-            text = text[idx:].strip()
+    # 仅保留的频道名称
+    valid_channels = [
+        "CCTV", "凤凰", "中天", "寰宇", "东森",
+        "无线", "RTHK", "TVBS", "江苏卫视",
+        "东方卫视", "浙江卫视", "上海新闻", "财经"
+    ]
 
-    parts = text.split(' ')
-    groups = {"默认分组": []}
+    groups = {}
 
+    parts = text.split('\n')
     for part in parts:
-        if ',' not in part:
+        part = part.strip()
+        if not part or ',' not in part:
             continue
+        
         channel_name, stream_url = part.split(',', 1)
+        channel_name = channel_name.strip()
+        stream_url = stream_url.strip()
+
+        # 过滤掉包含禁止词的频道名和流地址
         if any(k in channel_name for k in filter_keywords):
             print(f"过滤频道名包含禁止词: {channel_name}")
             continue
         if any(k in stream_url for k in filter_keywords):
             print(f"过滤地址包含禁止词: {stream_url}")
             continue
-        groups["默认分组"].append((channel_name.strip(), stream_url.strip()))
+
+        # 检查频道名是否在有效频道列表中
+        if any(valid_channel in channel_name for valid_channel in valid_channels):
+            # 使用频道名作为分组名
+            group_name = channel_name  # 分组名可以直接用频道名，也可以进行进一步处理
+            groups.setdefault(group_name, []).append((channel_name, stream_url))  # 添加到当前分组
+
     return groups
 
 def save_m3u(groups, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n\n")
         for group_name, channels in groups.items():
-            f.write(f"#{group_name}\n")
+            f.write(f"#{group_name}\n")  # 使用动态提取的分组名
             for channel_name, stream_url in channels:
-                f.write(f'#EXTINF:-1 group-title="{group_name}",{channel_name}\n')
+                f.write(f'#EXTINF:-1 group-title="{group_name}", {channel_name}\n')
                 f.write(stream_url + "\n")
     print(f"写入文件 {filename} 完成，{sum(len(v) for v in groups.values())} 条节目。")
 
