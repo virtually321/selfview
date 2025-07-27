@@ -1,11 +1,13 @@
 #EXTM3U
 
 #欣赏频道
-#EXTINF:-1 group-title="欣赏频道", 无线新闻频高
+#EXTINF:-1 group-title="欣赏频道", 有线新闻频道
+http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+#EXTINF:-1 group-title="欣赏频道", 无线新闻频道
 http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-#EXTINF:-1 group-title="欣赏频道", 无线翡翠频高
+#EXTINF:-1 group-title="欣赏频道", 无线翡翠频道
 http://erp.giihgtidg.com:8080/live/jade01.m3u8
-#EXTINF:-1 group-title="欣赏频道", 凤凰电影频标
+#EXTINF:-1 group-title="欣赏频道", 凤凰电影频道
 http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 #特闽AKtv
 #EXTINF:-1 group-title="特闽AKtv", 凤凰中文AKtv
@@ -110,6 +112,115 @@ http://live.sxrtv.com/iptv/fhzw.m3u8
 http://live.sxrtv.com/iptv/fhzx.m3u8
 #EXTINF:-1 group-title="央卫湖北", 凤凰香港宜昌
 http://live.sxrtv.com/iptv/fhhk.m3u8
+#央卫频斯
+#EXTINF:-1 group-title="央卫频斯", CCTV-01频斯
+http://free.cnlive.club/channel/47cdbb52.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-02频斯
+http://free.cnlive.club/channel/47d01112.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-03频斯
+http://free.cnlive.club/channel/47ced282.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-04频斯
+http://free.cnlive.club/channel/7a879c85.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-05频斯
+http://free.cnlive.club/channel/47c9f401.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV 5+频斯
+http://free.cnlive.club/channel/n374503fe.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-06频斯
+http://free.cnlive.club/channel/47cedd7d.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-07频斯
+http://free.cnlive.club/channel/n7ba2911b.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-08频斯
+http://free.cnlive.club/channel/n4dd18c29.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-09频斯
+http://free.cnlive.club/channel/47d2f363.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-10频斯
+http://free.cnlive.club/channel/n4fe64a4e.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-11频斯
+http://free.cnlive.club/channel/n4fe8b4d4.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-12频斯
+http://free.cnlive.club/channel/13604deb.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-13频斯
+http://free.cnlive.club/channel/n4fe72c8e.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-14频斯
+http://free.cnlive.club/channel/n4fe8272c.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-15频斯
+http://free.cnlive.club/channel/n4fe0755e.m3u8
+#EXTINF:-1 group-title="央卫频斯", CCTV-17频斯
+http://free.cnlive.club/channel/9e11396.m3u8
+#EXTINF:-1 group-title="央卫频斯", 东方卫视频斯
+http://free.cnlive.club/channel/5bdef3ac.m3u8
+#EXTINF:-1 group-title="央卫频斯", 浙江卫视频斯
+http://free.cnlive.club/channel/6a2b2475.m3u8
+#EXTINF:-1 group-title="央卫频斯", 江苏卫视频斯
+http://free.cnlive.club/channel/6a0dba1f.m3u8
+#特区频斯
+#EXTINF:-1 group-title="特区频斯", 凤凰卫视频斯
+http://free.cnlive.club/channel/n496e6eec.m3u8
+#EXTINF:-1 group-title="特区频斯", 凤凰资讯频斯
+http://free.cnlive.club/channel/n4966a4fb.m3u8
+#EXTINF:-1 group-title="特区频斯", 凤凰香港频斯
+http://free.cnlive.club/channel/n49654430.m3u8
+#EXTINF:-1 group-title="特区频斯", 中天新闻频斯
+http://free.cnlive.club/channel/41d8a09d.m3u8
+#EXTINF:-1 group-title="特区频斯", 有线新闻频斯
+http://free.cnlive.club/channel/7289243e.m3u8
+#EXTINF:-1 group-title="特区频斯", 无线新闻频斯
+http://free.cnlive.club/channel/n3fad9608.m3u8
+#EXTINF:-1 group-title="特区频斯", 无线翡翠频斯
+http://free.cnlive.club/channel/n7549189d.m3u8
+#EXTINF:-1 group-title="特区频斯", 无线华丽频斯
+http://free.cnlive.club/channel/n177a7044.m3u8
+#EXTINF:-1 group-title="特区频斯", 无线明珠频斯
+http://free.cnlive.club/channel/n75ab7db0.m3u8
+#EXTINF:-1 group-title="特区频斯", 无线娱乐频斯
+http://free.cnlive.club/channel/nac85e88.m3u8
+#EXTINF:-1 group-title="特区频斯", RTHK-31频斯
+http://free.cnlive.club/channel/n8badbb5.m3u8
+#EXTINF:-1 group-title="特区频斯", RTHK-32频斯
+http://free.cnlive.club/channel/n8badbb4.m3u8
+#闽南频斯
+#EXTINF:-1 group-title="闽南频斯", 中天新闻频斯
+http://free.cnlive.club/channel/41d8a09d.m3u8
+#EXTINF:-1 group-title="闽南频斯", 寰宇新闻频斯
+http://free.cnlive.club/channel/n43c34be8.m3u8
+#EXTINF:-1 group-title="闽南频斯", 东森新闻频斯
+http://free.cnlive.club/channel/n88aa83.m3u8
+#EXTINF:-1 group-title="闽南频斯", tvbs新闻频斯
+http://free.cnlive.club/channel/n69ccce92.m3u8
+#EXTINF:-1 group-title="闽南频斯", 年代新闻频斯
+http://free.cnlive.club/channel/49184630.m3u8
+#EXTINF:-1 group-title="闽南频斯", 非凡新闻频斯
+http://free.cnlive.club/channel/6302a884.m3u8
+#EXTINF:-1 group-title="闽南频斯", 民视新闻频斯
+http://free.cnlive.club/channel/n4b747ee6.m3u8
+#EXTINF:-1 group-title="闽南频斯", 中视新闻频斯
+http://free.cnlive.club/channel/428f1dfa.m3u8
+#EXTINF:-1 group-title="闽南频斯", 台视新闻频斯
+http://free.cnlive.club/channel/452d9d57.m3u8
+#EXTINF:-1 group-title="闽南频斯", 中天娱乐频斯
+http://free.cnlive.club/channel/41d6f491.m3u8
+#EXTINF:-1 group-title="闽南频斯", 中天综合频斯
+http://free.cnlive.club/channel/41db6ede.m3u8
+#EXTINF:-1 group-title="闽南频斯", 中天亚洲频斯
+http://free.cnlive.club/channel/41d5ac2a.m3u8
+#EXTINF:-1 group-title="闽南频斯", 八大娱乐频斯
+http://free.cnlive.club/channel/26b73cff.m3u8
+#EXTINF:-1 group-title="闽南频斯", 东森综合频斯
+http://free.cnlive.club/channel/n31b0a4.m3u8
+#EXTINF:-1 group-title="闽南频斯", 东森戏剧频斯
+http://free.cnlive.club/channel/n9e78d0.m3u8
+#EXTINF:-1 group-title="闽南频斯", 东森洋片频斯
+http://free.cnlive.club/channel/n7160b4.m3u8
+#EXTINF:-1 group-title="闽南频斯", 东森电影频斯
+http://free.cnlive.club/channel/n5502f4.m3u8
+#EXTINF:-1 group-title="闽南频斯", 东森幼幼频斯
+http://free.cnlive.club/channel/naa6d18.m3u8
+#EXTINF:-1 group-title="闽南频斯", 东森超视频斯
+http://free.cnlive.club/channel/4210df69.m3u8
+#EXTINF:-1 group-title="闽南频斯", 东森财经频斯
+http://free.cnlive.club/channel/209f9e70.m3u8
+#EXTINF:-1 group-title="闽南频斯", 寰宇财经频斯
+http://free.cnlive.club/channel/n4332074a.m3u8
 #特区频道
 #EXTINF:-1 group-title="特区频道", 凤凰中文频高
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -262,3 +373,21 @@ http://1b6467f415.iok.la:9931/tsfile/live/1060_1.m3u8
 http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8
 #EXTINF:-1 group-title="梅州移动", 河源新闻梅州
 http://1b6467f415.iok.la:9931/tsfile/live/1121_1.m3u8
+#体育频斯
+#EXTINF:-1 group-title="体育频斯", CCTV-5 体育频道
+http://free.cnlive.club/channel/n5d959a6c.m3u8
+#EXTINF:-1 group-title="体育频斯", CCTV-5+ 体育赛事 HD
+http://free.cnlive.club/channel/n4fd60eb5.m3u8
+#影视频斯
+#EXTINF:-1 group-title="影视频斯", CCTV-6
+http://free.cnlive.club/channel/63f18811.m3u8
+#EXTINF:-1 group-title="影视频斯", 东森电影
+http://free.cnlive.club/channel/7cb9a434.m3u8
+#EXTINF:-1 group-title="影视频斯", 东森洋片
+http://free.cnlive.club/channel/7cb8b9f4.m3u8
+#新闻频斯
+#EXTINF:-1 group-title="新闻频斯", 东森财经新闻
+http://free.cnlive.club/channel/n5392563f.m3u8
+#儿童频斯
+#EXTINF:-1 group-title="儿童频斯", 东森幼幼
+http://free.cnlive.club/channel/798aeeee.m3u8
