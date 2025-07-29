@@ -63,55 +63,6 @@ http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
 http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
 #EXTINF:-1 group-title="特区频推", RTHK-32频推
 http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3u8
-#央卫湖北
-#EXTINF:-1 group-title="央卫湖北", CCTV-01宜昌
-http://live.sxrtv.com/iptv/cctv1.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-02宜昌
-http://live.sxrtv.com/iptv/cctv2.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-03宜昌
-http://live.sxrtv.com/iptv/cctv3.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-04宜昌
-http://live.sxrtv.com/iptv/cctv4.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-05宜昌
-http://live.sxrtv.com/iptv/cctv5.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-5+宜昌
-http://live.sxrtv.com/iptv/cctv5p.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-06宜昌
-http://live.sxrtv.com/iptv/cctv6.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-07宜昌
-http://live.sxrtv.com/iptv/cctv7.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-08宜昌
-http://live.sxrtv.com/iptv/cctv8.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-09宜昌
-http://live.sxrtv.com/iptv/cctv9.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-10宜昌
-http://live.sxrtv.com/iptv/cctv10.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-11宜昌
-http://live.sxrtv.com/iptv/cctv11.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-12宜昌
-http://live.sxrtv.com/iptv/cctv12.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-13宜昌
-http://live.sxrtv.com/iptv/cctv13.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-14宜昌
-http://live.sxrtv.com/iptv/cctv14.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-15宜昌
-http://live.sxrtv.com/iptv/cctv15.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-16宜昌
-http://live.sxrtv.com/iptv/cctv16.m3u8
-#EXTINF:-1 group-title="央卫湖北", CCTV-17宜昌
-http://live.sxrtv.com/iptv/cctv17.m3u8
-#EXTINF:-1 group-title="央卫湖北", 东方卫视宜昌
-http://live.sxrtv.com/iptv/dfws.m3u8
-#EXTINF:-1 group-title="央卫湖北", 浙江卫视宜昌
-http://live.sxrtv.com/iptv/zjws.m3u8
-#EXTINF:-1 group-title="央卫湖北", 江苏卫视宜昌
-http://live.sxrtv.com/iptv/jsws.m3u8
-#EXTINF:-1 group-title="央卫湖北", 凤凰中文宜昌
-http://live.sxrtv.com/iptv/fhzw.m3u8
-#EXTINF:-1 group-title="央卫湖北", 凤凰资讯宜昌
-http://live.sxrtv.com/iptv/fhzx.m3u8
-#EXTINF:-1 group-title="央卫湖北", 凤凰香港宜昌
-http://live.sxrtv.com/iptv/fhhk.m3u8
 #央卫频斯
 #EXTINF:-1 group-title="央卫频斯", CCTV-01频斯
 http://free.cnlive.club/channel/47cdbb52.m3u8
