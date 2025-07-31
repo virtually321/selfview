@@ -1,4 +1,5 @@
 import requests
+import time
 
 url = "http://rihou.cc:555/gggg.nzk/"  # 请确保这个网址是有效的
 
@@ -15,14 +16,40 @@ def fetch_webpage(url):
         print("请求失败：", e)
         return ""
 
+
+def get_real_url_from_php(php_url):
+    try:
+        resp = requests.get(php_url, timeout=10)
+        resp.raise_for_status()
+        content = resp.text.strip()
+        if content.startswith('#EXTM3U'):
+            # 返回m3u8内容的链接，直接用php地址
+            return php_url
+        if content.startswith('http') and '.m3u8' in content:
+            return content
+        return php_url
+    except Exception as e:
+        print(f"请求PHP地址失败 {php_url} 错误: {e}")
+        return php_url
+
+def convert_tvbus_to_http(tvbus_url):
+    # 这里需要实际的转链实现，这里仅返回原地址示例
+    print(f"[警告] tvbus链接未转换: {tvbus_url}")
+    return tvbus_url
+
+def convert_link(url):
+    url = url.strip()
+    if url.startswith('http') and '.php?id=' in url:
+        return get_real_url_from_php(url)
+    elif url.startswith('tvbus://'):
+        return convert_tvbus_to_http(url)
+    else:
+        return url
+
+
 def parse_channels(text):
-    """
-    解析输入文本，保留所有频道和节目链接。
-    """
     groups = {}
     current_group = None
-
-    # 按行解析文本
     for line in text.splitlines():
         line = line.strip()
         if not line:
@@ -38,10 +65,17 @@ def parse_channels(text):
             channel_name, stream_url = line.split(',', 1)
             channel_name = channel_name.strip()
             stream_url = stream_url.strip()
-            # 不做任何过滤，直接添加所有节目
-            groups[current_group].append((channel_name, stream_url))
 
+            # 调用转换函数获取真实播放链接
+            real_url = convert_link(stream_url)
+
+            groups[current_group].append((channel_name, real_url))
+            # 为了防止请求过快，可以在这里sleep一下
+            if real_url != stream_url:
+                time.sleep(1)  # 1秒延时
+                
     return groups
+
 
 def save_m3u(groups, filename):
     with open(filename, 'w', encoding='utf-8') as f:
@@ -53,6 +87,7 @@ def save_m3u(groups, filename):
                     f.write(f'#EXTINF:-1 group-title="{group_name}", {channel_name}\n')
                     f.write(stream_url + "\n")
     print(f"写入文件 {filename} 完成，{sum(len(v) for v in groups.values())} 条节目。")
+
 
 def main():
     print(f"开始抓取 URL: {url}")
@@ -67,6 +102,7 @@ def main():
         return
 
     save_m3u(groups, "playlist.m3u")
+
 
 if __name__ == '__main__':
     main()
