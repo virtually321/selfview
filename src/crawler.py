@@ -17,57 +17,29 @@ def fetch_webpage(url):
 
 def parse_channels(text):
     """
-    解析输入文本，根据组名和节目链接归类频道。
-    只保留 .m3u8 格式的节目源。
+    解析输入文本，保留所有频道和节目链接。
     """
-    filter_keywords = ['肥羊', '咪咕']  # 需过滤的关键字
-    valid_channels = [
-        "CCTV", "凤凰", "中天", "寰宇", "东森", "无线",
-        "RTHK", "TVBS", "江苏卫视", "东方卫视", "浙江卫视",
-        "上海新闻", "财经", "新闻", "综艺", "娱乐"  # 你可添加更多的频道名称
-    ]
-    
     groups = {}
     current_group = None
 
     # 按行解析文本
     for line in text.splitlines():
         line = line.strip()
-        # 跳过空行
         if not line:
             continue
         
-        # 检查是否是分组名行，格式如 "央卫咪咕,#genre#"
         if ',' in line and '#genre#' in line:
-            current_group = line.split(',')[0].strip()  # 获取分组名
+            current_group = line.split(',', 1)[0].strip()
             if current_group not in groups:
-                groups[current_group] = []  # 初始化分组
+                groups[current_group] = []
             continue
         
-        # 检查是否是节目行
-        if current_group is not None:  # 有分组时才处理节目行
-            if ',' in line:
-                channel_name, stream_url = line.split(',', 1)
-                channel_name = channel_name.strip()
-                stream_url = stream_url.strip()
-                
-                # 过滤掉包含禁止词的频道名和流地址
-                if any(k in channel_name for k in filter_keywords):
-                    print(f"过滤频道名包含禁止词: {channel_name}")
-                    continue
-                if any(k in stream_url for k in filter_keywords):
-                    print(f"过滤地址包含禁止词: {stream_url}")
-                    continue
-
-                # 检查流地址是否是 .m3u8 格式，且不以 tvbus:// 开头
-                if not stream_url.endswith('.m3u8') or stream_url.startswith('tvbus://'):
-                    print(f"过滤非 .m3u8 或以 tvbus:// 地址: {stream_url}")
-                    continue
-
-                # 只在频道名有效时才添加
-                if any(valid_channel in channel_name for valid_channel in valid_channels):
-                    # 将频道添加到当前分组中
-                    groups[current_group].append((channel_name, stream_url))
+        if current_group is not None and ',' in line:
+            channel_name, stream_url = line.split(',', 1)
+            channel_name = channel_name.strip()
+            stream_url = stream_url.strip()
+            # 不做任何过滤，直接添加所有节目
+            groups[current_group].append((channel_name, stream_url))
 
     return groups
 
@@ -75,8 +47,8 @@ def save_m3u(groups, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n\n")
         for group_name, channels in groups.items():
-            if channels:  # 只在分组不为空时写入
-                f.write(f"#{group_name}\n")  # 输出分组名
+            if channels:
+                f.write(f"#{group_name}\n")
                 for channel_name, stream_url in channels:
                     f.write(f'#EXTINF:-1 group-title="{group_name}", {channel_name}\n')
                     f.write(stream_url + "\n")
