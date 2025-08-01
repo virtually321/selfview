@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 from difflib import get_close_matches
 
 url = "http://rihou.cc:555/gggg.nzk/"  # 节目源地址
-url_epg = "https://live.fanmingming.cn/e.xml"  # EPG地址
+url_epg = "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"  # EPG地址
 
 def fetch_webpage(url):
     headers = {
