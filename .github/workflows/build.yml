@@ -35,20 +35,15 @@ jobs:
       - name: Run crawler
         run: python src/crawler.py
 
-      - name: Commit and push changes if playlist.m3u changed
+      - name: Commit and push changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-
+          
           # 先同步远程最新，避免冲突
           git pull --no-rebase origin main
 
-          # 检查文件内容是否有变更
-          if git diff --quiet playlist.m3u; then
-            echo "No changes in playlist.m3u, skipping commit."
-            exit 0
-          fi
-
+          # 强制添加并提交 `playlist.m3u`
           git add playlist.m3u
-          git commit -m "chore: update playlist $(date -u '+%Y-%m-%d %H:%M')"
+          git commit -m "chore: update playlist $(date -u '+%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push origin main
