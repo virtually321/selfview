@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 from difflib import get_close_matches
 
 url = "http://rihou.cc:555/gggg.nzk/"  # 节目源地址
-url_epg = "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"  # EPG地址
+# url_epg = "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"  # EPG地址（取消使用）
 
 def fetch_webpage(url):
     headers = {
@@ -47,23 +47,6 @@ def parse_channels(text):
     groups = {g: chs for g, chs in groups.items() if chs}
     return groups
 
-def parse_epg_channels(epg_xml_text):
-    """
-    解析EPG xml，返回 dict {频道显示名: channel_id}
-    """
-    try:
-        root = ET.fromstring(epg_xml_text)
-    except Exception as e:
-        print("EPG XML解析失败：", e)
-        return {}
-    channels = {}
-    for channel in root.findall("channel"):
-        cid = channel.attrib.get("id")
-        dn = channel.findtext("display-name")
-        if cid and dn:
-            channels[dn.strip()] = cid.strip()
-    return channels
-
 def flatten_groups(groups):
     """把分组字典扁平化为列表 [(频道名, url, 组名), ...]"""
     flat = []
@@ -72,31 +55,16 @@ def flatten_groups(groups):
             flat.append((name, url, group))
     return flat
 
-def find_best_match(name, epg_names):
-    """
-    用difflib模糊匹配，返回EPG中最接近的频道名
-    """
-    matches = get_close_matches(name, epg_names, n=1, cutoff=0.6)
-    return matches[0] if matches else None
-
-def save_m3u_with_epg(groups, epg_map, filename):
-    """
-    生成带tvig-id的m3u文件，组名保留，组内写频道
-    """
+def save_m3u_without_epg(groups, filename):
+    """生成不带tvig-id的m3u文件，组名保留，组内写频道"""
     with open(filename, 'w', encoding='utf-8') as f:
-        f.write(f'#EXTM3U x-tvg-url="{url_epg}"\n\n')
+        f.write('#EXTM3U\n\n')
         for group, channels in groups.items():
             if not channels:
                 continue
             f.write(f"#{group}\n")
             for channel_name, stream_url in channels:
-                # 找对应EPG的频道id
-                matched_epg_name = find_best_match(channel_name, epg_map.keys())
-                tvg_id_str = ''
-                if matched_epg_name:
-                    tvg_id = epg_map[matched_epg_name]
-                    tvg_id_str = f' tvg-id="{tvg_id}"'
-                f.write(f'#EXTINF:-1{tvg_id_str} group-title="{group}", {channel_name}\n')
+                f.write(f'#EXTINF:-1 group-title="{group}", {channel_name}\n')
                 f.write(stream_url + "\n")
     total = sum(len(ch) for ch in groups.values())
     print(f"写入文件 {filename} 完成，节目总数：{total} 条。")
@@ -108,26 +76,14 @@ def main():
         print("节目源抓取失败，退出")
         return
 
-    print(f"开始抓取EPG数据：{url_epg}")
-    epg_text = fetch_webpage(url_epg)
-    if not epg_text:
-        print("EPG数据抓取失败，退出")
-        return
-
     print("解析节目源频道……")
     groups = parse_channels(m3u_text)
     if not groups:
         print("无有效频道，退出")
         return
 
-    print("解析EPG频道……")
-    epg_map = parse_epg_channels(epg_text)
-    if not epg_map:
-        print("EPG频道为空，退出")
-        return
-
-    print("生成带tvig-id的M3U文件……")
-    save_m3u_with_epg(groups, epg_map, "playlist_with_epg.m3u")
+    print("生成M3U文件……")
+    save_m3u_without_epg(groups, "playlist.m3u")
 
 if __name__ == '__main__':
     main()
