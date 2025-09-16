@@ -5,6 +5,7 @@ import requests
 import os
 import subprocess
 import logging
+import socket
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -41,28 +42,35 @@ def create_session_with_retries():
     session.mount("https://", adapter)
     return session
 
-def fetch_webpage(url):
+def fetch_webpage_ipv4(url):
+    # 解析出主机名与路径
+    from urllib.parse import urlparse
+    parsed = urlparse(url)
+    hostname = parsed.hostname
+    path = parsed.path or '/'
+    if parsed.query:
+        path += '?' + parsed.query
+    ip = None
+    try:
+        ip = socket.gethostbyname(hostname)  # 获取 IPv4 地址
+    except Exception as e:
+        logging.error("IPv4 DNS 解析失败：%s", e)
+        return ""
+
+    new_url = f"http://{ip}{path}"
     headers = {
-        "User-Agent": USER_AGENT
+        "User-Agent": USER_AGENT,
+        "Host": hostname  # 保留 Host 头，服务器仍按域名分流
     }
     session = create_session_with_retries()
     try:
-        # 连接超时 10s，读取超时 30s
-        r = session.get(url, headers=headers, timeout=(10, 30))
+        r = session.get(new_url, headers=headers, timeout=(10, 30))
         r.encoding = r.apparent_encoding
         r.raise_for_status()
         return r.text
-    except requests.exceptions.ConnectTimeout as e:
-        logging.error("连接超时：%s", e)
-    except requests.exceptions.ReadTimeout as e:
-        logging.error("读取超时：%s", e)
-    except requests.exceptions.Timeout as e:
-        logging.error("请求超时：%s", e)
-    except requests.exceptions.HTTPError as e:
-        logging.error("HTTP 错误：%s", e)
-    except requests.exceptions.RequestException as e:
-        logging.error("请求失败：%s", e)
-    return ""
+    except Exception as e:
+        logging.error("IPv4 直连请求失败：%s", e)
+        return ""
 
 def parse_channels(text):
     groups = {}
