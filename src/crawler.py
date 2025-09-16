@@ -6,6 +6,7 @@ import os
 import subprocess
 import logging
 import socket
+from urllib.parse import urlparse
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -42,14 +43,40 @@ def create_session_with_retries():
     session.mount("https://", adapter)
     return session
 
+def fetch_webpage(url):
+    headers = {
+        "User-Agent": USER_AGENT
+    }
+    session = create_session_with_retries()
+    try:
+        # 连接超时 10s，读取超时 30s
+        r = session.get(url, headers=headers, timeout=(10, 30))
+        r.encoding = r.apparent_encoding
+        r.raise_for_status()
+        return r.text
+    except requests.exceptions.ConnectTimeout as e:
+        logging.error("连接超时：%s", e)
+    except requests.exceptions.ReadTimeout as e:
+        logging.error("读取超时：%s", e)
+    except requests.exceptions.Timeout as e:
+        logging.error("请求超时：%s", e)
+    except requests.exceptions.HTTPError as e:
+        logging.error("HTTP 错误：%s", e)
+    except requests.exceptions.RequestException as e:
+        logging.error("请求失败：%s", e)
+    return ""
+
 def fetch_webpage_ipv4(url):
-    # 解析出主机名与路径
-    from urllib.parse import urlparse
+    """
+    使用目标主机的 IPv4 地址直连，请求仍保留原域名的 Host 头。
+    用于快速验证是否为 IPv6/双栈问题导致的请求失败。
+    """
     parsed = urlparse(url)
     hostname = parsed.hostname
     path = parsed.path or '/'
     if parsed.query:
         path += '?' + parsed.query
+
     ip = None
     try:
         ip = socket.gethostbyname(hostname)  # 获取 IPv4 地址
@@ -60,7 +87,7 @@ def fetch_webpage_ipv4(url):
     new_url = f"http://{ip}{path}"
     headers = {
         "User-Agent": USER_AGENT,
-        "Host": hostname  # 保留 Host 头，服务器仍按域名分流
+        "Host": hostname  # 仍按原域名分流
     }
     session = create_session_with_retries()
     try:
@@ -129,6 +156,9 @@ def main():
 
     filename = FILENAME
 
+    # 检查是否启用 IPv4 测试（GitHub Actions 中通过 ENV 设置）
+    enable_ipv4_test = os.environ.get("ENABLE_IPV4_TEST", "0").lower() in ("1", "true", "yes")
+
     # 每次运行前，删除旧的 playlist.m3u 文件（如果存在）
     if os.path.exists(filename):
         try:
@@ -137,7 +167,19 @@ def main():
             logging.warning("删除旧文件失败：%s", e)
 
     logging.info("开始抓取节目源：%s", URL)
-    m3u_text = fetch_webpage(URL)
+
+    m3u_text = ""
+    if enable_ipv4_test:
+        logging.info("启用 IPv4 测试，尝试通过 IPv4 直连获取内容...")
+        m3u_text = fetch_webpage_ipv4(URL)
+        if m3u_text:
+            logging.info("IPv4 测试成功获取内容，长度：%d", len(m3u_text))
+        else:
+            logging.info("IPv4 测试未获取内容，回退到常规抓取方式（可能是 IPv6/双栈相关问题）")
+
+    if not m3u_text:
+        m3u_text = fetch_webpage(URL)
+
     if not m3u_text:
         logging.error("节目源抓取失败，退出")
         return
