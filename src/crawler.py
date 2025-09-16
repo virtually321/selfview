@@ -103,6 +103,10 @@ def save_m3u(groups, filename):
 
 def git_commit_and_push(filename):
     """将文件添加到 Git，并提交和推送更改"""
+    # 只有当文件实际存在时才执行 Git 操作
+    if not os.path.exists(filename):
+        logging.warning("跳过 Git 提交，因为文件不存在：%s", filename)
+        return
     try:
         subprocess.run(["git", "add", filename], check=True)
         subprocess.run(["git", "commit", "-m", "更新 playlist.m3u"], check=True)
@@ -139,8 +143,11 @@ def main():
     logging.info("生成M3U文件……")
     save_m3u(groups, filename)
 
-    # 提交并推送更改
-    git_commit_and_push(filename)
+    # 提交并推送更改（前提是确实生成了文件）
+    if os.path.exists(filename):
+        git_commit_and_push(filename)
+    else:
+        logging.info("未生成有效的 %s，跳过 Git 提交。", filename)
 
 if __name__ == '__main__':
     main()
