@@ -64,8 +64,8 @@ def main():
     filename = "playlist.m3u"
     
     # 每次运行前，删除旧的 playlist.m3u 文件（如果存在）
-    if os.path.exists(filename):
-        os.remove(filename)
+    # if os.path.exists(filename):
+    #     os.remove(filename)
     
     print(f"开始抓取节目源：{url}")
     m3u_text = fetch_webpage(url)
