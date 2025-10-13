@@ -1,64 +1,38 @@
 #EXTM3U
 
-#NBA粤评
-#EXTINF:-1 group-title="NBA粤评", 10-11NBA季前赛🏀📡
+#NBA赛评
+#EXTINF:-1 group-title="NBA赛评", 10-13NBA季前赛🏀📡
 http://81.70.10.196:35455/douyu/11531165
-#EXTINF:-1 group-title="NBA粤评", 07:00魔术🆚76人
+#EXTINF:-1 group-title="NBA赛评", 06:00热火🆚魔术
 https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 国🔊腾讯评述
-https://play1nm.hnyongshun.cn/live/e2664a2f618877ec6f4516a9393ba9a3.m3u8?txSecret=7f91ed60ee0488239951d420bb11832c&txTime=68e9906b
-#EXTINF:-1 group-title="NBA粤评", 国🔊咪咕评述
-https://live.bh6taiye.com/live/62862631_f4300cfe5d3c02c2989e1a3b0006a3f2_h1080p.m3u8
-#EXTINF:-1 group-title="NBA粤评", 国🔊球搬评述
-https://pullhw1.zhaoyangyang.cn/live/8838058.flv?auth_info=3vojx87XsPGhDIxlaYjL9Ju3oIJDG7D7ww5%2BE02lx7Y%3D.5a4472566a764f31346a47427332724d
-#EXTINF:-1 group-title="NBA粤评", 07:00猛龙🆚凯尔特人
+#EXTINF:-1 group-title="NBA赛评", 国🔊赛事旁述
+https://migu.188766.xyz/play?migutoken=88ff266e5d90713090cbbdcec3ab3844&id=0tD6PV2zOGxOhbqthsxNkjRpRzchbE1blgep1NURGQicz4o%2F2Plyorb6pGLStsaiRV3OukRRNPxjumwRfBdzwNFkZy6VKsIBgYjjBELQykvlJq28N9uAfrZdWi%2FNAzJPNZ7fZyxuhLm4QJZcz%2BEVuDUFIv5Q5eSHkZW72nG1mk3IdZ%2FK3bNJP2RgbqekWualp0gJZu8IO%2B6Qlo%2BFlxUvjjVjQ7%2BbZEoCHLo4bquYmIhmHLiTAhkiBPHF0SSeEsHLMXz6vqX%2FuLNNPSWgjtCosi%2FKpGQnekntecVkrZjSINyyDC%2F4vVdU9kDJVViPVJXZ&name=tqNDj9FtEgiL3swfmYuXEvjyDTTyh%2FJq%2BfZVtnmgQFvLYKLgD2pjUKdBTaZai59hHH3FNC6BOk9ma6tks25M3YG1CnQ0RWfAznCrQzsuPKI%3D
+#EXTINF:-1 group-title="NBA赛评", 英🔊原声旁述
+https://migu.188766.xyz/play?migutoken=9c112d7fa7d70e140230350261e2f987&id=OyI8NdA3FLPwLkv%2Bn9cYhmuG6UK7O0jtCVT3gi0x3zHkxLwqPntepbAL6yukQKWqiF0D8714CjNi76%2B3Z2WPI4PQN7BBwEyzCp%2BbT3WOoYzm4NQVgiwGteJ6AFent6Mh4W08PJPKaz1sMFWTw3jX88dqzqI2U5RHGu%2Behwn7VVHlI%2BnlYVD4zWXdirUxtYazbxz8DXIei0OZf0FutIYTFr3otMLGX%2FoI5DMPaJHO%2Fq2JbHJXuiRMEXXK%2BFO4MsGBPqR1VQHOFkuyCfmsYNxGlT8kz26LbhRmaLgmAZO1CE9XYq4reuLXQZS5KjBv1aSGHlM%2Fruyqqgg9KpDO2ziQfg%3D%3D&name=GkrjwQBATfrOwDdov8KoZWk4HGzrjuGG6Q7Z3O8J%2FgNaRWBuUhw7si%2BsgQ%2Fqp7zteBP1fiaWCkBDW8NLJVXxDo5K36xmRBYBtSz8TD1WvjA%3D
+#EXTINF:-1 group-title="NBA赛评", 07:00雄鹿🆚公牛
 https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 国🔊腾讯述评
-https://play1nm.hnyongshun.cn/live/4ea7e0df09c4f88806b0c75cbf57c50c.m3u8?txSecret=c5680b27e89aa11ce98a2a242047204b&txTime=68e9907b
-#EXTINF:-1 group-title="NBA粤评", 国🔊库里评述
-https://pullhw1.zhaoyangyang.cn/live/8838056.flv?auth_info=jYwE0Zuz7EZjZ32VsCnuOGfU1K%2BuSFCln37wFxZ7rvE%3D.567a7874506b78776e39665736514b5a
-#EXTINF:-1 group-title="NBA粤评", 国🔊星海评述
-https://live.bbapcall.com/live/sd-2-3872681.m3u8?txSecret=ed2fdb7f689a87c11f063516b186ebc3&txTime=68E9CCED
-#EXTINF:-1 group-title="NBA粤评", 08:00爵士🆚马刺
+#EXTINF:-1 group-title="NBA赛评", 国🔊赛事评述
+https://migu.188766.xyz/play?migutoken=3d148226208cec14c3093f43e76065c5&id=U%2FQvxpEBE3jGHOYH6sYOPFyAAy3DRv6VA9DMMgi8id3E9n80KKKnivKGQ0216zUIpYJO0WJLYC1D%2F9T4mQGp4%2F%2FF68i3QTsG6YkF%2Bw32sKbxjARiMxP2OvVbD%2BB%2BnQs2h330L0Cyv5C311BdzGZDCUlO1vDdextDz6NHJ%2Fv2sZhvw3eIy0X8hLpxObwf3ODH9wR2KX%2FEdAfnx6kV1a1NkaRz34HbI8EzRcgg%2BAALlbJ4af18cVvR0gtshCwqxQFAa8Y8QMFYqaYnaPfe56WU6wwi%2FBZ5rviMOxZ596TPJgtViPyhU2OiVTCVuEr01Eic&name=yYH8%2FKaVsacxjTzl%2FfKCEkrhISeRMr%2B5xJsnXNVwd7a2V8ZbNSGfrjtGmaHKvd6Mv38FnQyZw2Rudo2PPcw%2FVyuCaCvZ0jgVholraoKfQaA%3D
+#EXTINF:-1 group-title="NBA赛评", 英🔊原声评述
+https://migu.188766.xyz/play?migutoken=703ecb584de0b71fcc2c6ae6dc290c29&id=824oUKRCQN%2BIdZiqApsoIA7LfWp8SKLNeodOdqPMr9ph%2FH9BGKGir4ThaLrbS5uuVkHqQFl4Ruc3tEANrs2jejbDO0%2BPPNyJ%2FYpGs0BbXyHg3KVjle76t9qp94zLmim%2FecbgMnB0q%2FDkHfZtOWZOYDPvbJnaQQFcay8uuQHLesaMIiBlz79GsNrA4EjbN8SHnAQS%2Bk4qBRN%2Fu9d5x0ZtJlzqNz%2FWjJ6UfCE3o42hqVZxtr59UMM%2BpfmzXnjBUUAts4fi%2FmX16OwGq2irYJVvrgh7M297VkCjk6Vf91vYPkgS5WPPfMHkgHch9mZPpQEkssgUVFG18%2FJ4nmc85khEZw%3D%3D&name=l%2Fre8EPvStF1UYIqpihNepS7TOK0BziRY4q8qsG%2FP9kNMRVI8zez4khXe0woHIXlF0AD9nC7Vc6%2BQyUg0wL232g%2FHIsWVUdqjeVCbBUxmpE%3D
+#EXTINF:-1 group-title="NBA赛评", 07:00骑士🆚凯尔特人
 https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 国🔊东北评述
-https://pullhw1.zhaoyangyang.cn/live/8838068.flv?auth_info=QdfQLCWITwx0DybzYB2MLXNLbELyE66Px7q2V0oO0Rs%3D.73784f4c594c56775773506148363458
-#EXTINF:-1 group-title="NBA粤评", 国🔊老詹评述
-https://pullhw1.zhaoyangyang.cn/live/8838050.flv?auth_info=eTraaJm6yrpyB%2B82i28xBcn9NmtSyp5HhjJ4HIHVTzQ%3D.6e686250487a5a7841626a324d466153
-#EXTINF:-1 group-title="NBA粤评", 国🔊星球评述
-https://pullhw1.zhaoyangyang.cn/live/8838084.flv?auth_info=%2Fl7CmFKThsr%2F6pFqxIffcQPDcapI3j4BVMpu2z9PMx8%3D.507a577352663773636568545a4b4465
-#EXTINF:-1 group-title="NBA粤评", 10:00国王🆚开拓者
+#EXTINF:-1 group-title="NBA赛评", 国🔊赛事述评
+https://migu.188766.xyz/play?migutoken=5260fe471916e0861a0ea235a5efb1e3&id=bkMQ3LIVpTAW69gP%2FPz6bm%2BnHjg2JqegkV7wXPAaHOn8E5AlSF5xz5kr9EGZUxIf3Xzr2UXEd1W4797SF27y3HHSCwXl6G4sTczMhfLHZsWqeoavskQlFpsHBwIJEoA%2FtHQNhhntPGGGbMCD1tBhqfyJ7sketODiVbBvCDviwHG8Tgl5iYhrTOlRFRzONr18BfAjDdA6sciqkQ5rpyD57HSK2N4NIn%2FNXBb7IQmzTL4CZqj9RHaR16OV9M1lFIfvUYk8517UCZrThoZo%2FDX5CbAUv95Uz2173BkG0G6UO%2BboTH3VrV3NfyjkbM1j%2FX5aoi5p0ORsk5bZM%2BLWaPDH1w%3D%3D&name=UMH46Wxc%2BvypQRMPHAoApgtpJKhRYQjKrIoGALvpqiMtreMqga%2F6snp8L5JHUoJIjExnVKu5ld%2BxLfuVn2ZaHGU%2BAutPlXthefA%2B6i1gYTc%3D
+#EXTINF:-1 group-title="NBA赛评", 英🔊原声述评
+https://migu.188766.xyz/play?migutoken=692e8caadd4c0401ce01ddd28fef1210&id=SXyme83014uLBUzQuL9An2tGMQkbLrWM6ZO3cUMh5yb23PGKlcEn60faMLYtD3x4110MAeRqzTLjkMVJQGQ7COiefEtfGQrglapLSN2VSct4XmEub%2FSmi2wU1tuI%2B49CABjphrpgn5yBZxUzC0FKec32LQvC4YQfpXHi1uvXkkk59I3lmg2c5PQWxxiaTKVasM9b7KrR3kmnKo0woBg1e0uXMDyKDjJq6AgRe2wKxFmJ3lIGYlPEjKMKeWkRcFSVjnU1tbvsDsyzWYdDBkuKHp%2FpkP5KK3mlY3IVwtI8NB4LPO2kiCsi4PE7CmF%2Fr4N3ytGBc3NeQdP1dhX7xuw%2Fb%2BjLQ17YIL63uoJAqmkewbw%3D&name=xOHlH6W98gyaSk0N%2FOyrOn%2B9xEa%2FvvKstytyBZb06xsrXzPh1G%2F5cC4dW9LviYP90jCIMci56AVPU4N0q9tbchJ06hiWnOQbLuRq0hvoGlY%3D
+#EXTINF:-1 group-title="NBA赛评", 09:30勇士🆚湖人
 https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 粤🔊旁述
+#EXTINF:-1 group-title="NBA赛评", 国🔊赛事评评
+https://migu.188766.xyz/play?migutoken=89eb07533c70e2993fc5a93100199b45&id=l1QBhohl4lahNDLhKUCd7UA1hX1fkFr8ExJ4baK5MFADxZSamvqo1WUFWw29SyRrSakrXFfIu5euMwJfC9gBlTriS2thbiMSiVhUpXUfyxuQGlWXS16UgHxKv8hP4tTMY%2B6yVkL7FpapY4YvbfyRo2MXr%2FZMs31HQoEJAr4qThfJz%2B2o%2BZvmEMf3El7wcGMwaJZSLLyWOKtXtwp1TGZJUmQ3tE1HPlZom5u5%2BoIa5FufjNBg91rqZDGzTUpcsG93jGT86EjJ9L3l7ylrnkyxfFblbZd668VEokce9V9xN0l4ysh%2BoxnSBwyO%2F1BC3CXkDcrxVf2BmktXEtfPBVc3%2BeM0rtXgeYxCuQKkAgvr9ANhFICj49N1vM63aKIo7FZtk99Nb3YrGIhlc5mYurzLbQ%3D%3D&name=RoR3vN1KLIKJlFSZ%2FcROOP5K6iE1ooPbrqH%2BrvcaIW7g1Pu7HUohu7fP6HeZYi7si%2B8EE3VSj%2Fq67Tm2h3UJhYCVgi7eSMZ1XzAxITIuTVcbI0aY0w21F0IxTfEvgGP%2B
+#EXTINF:-1 group-title="NBA赛评", 英🔊原声评评
+https://migu.188766.xyz/play?migutoken=592d3c1f30d3d3e73ba0534eec17cb27&id=UVUyM8mzS44UgIpZ1%2F8y4D5q5zKhSIcto9SMBhpp86P7Tv2%2F2iEZEFlDuDsOJi2W%2BtSsv7CsE7T7tSrqs78TcVySfST4%2BUPiHZ7l%2F0LT6cxDsf4UVg%2FTyimysuq8TYY3iY0p3d3rgBu7y0xgflflw4zyzCNkS7SGj%2FTe7fD%2BxzGdGe%2BZ0rT5rhNw9CEg2GDAaOoznIQKrhINhV9OTLh18fkk3Xz7ljjtrNB%2FdupJ0nqWwl6OstNKUmMGiV%2BV02u%2FdL2zDme1jr2runuF2rk0PbUCJPIYB0PFpsQ8yujPJ7XnbKkL8KzNzTCC1RWVWDjyTqIz2X97XgQvsQqlq20PYA%3D%3D&name=JbERMoSjmZsJSIUBeEQkW8DJK6bNSQB7ZeaDf%2BuexJEl2SuzyVEjBvu4vp9MUe5Y2iwPv2ZXLOFwMzTMq0jz43RpsrCeQNY1LjcpvByqpyk%3D
+#EXTINF:-1 group-title="NBA赛评", 09:30掘金🆚快船
 https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 国🔊评述
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 10-12NBA季前赛🏀📡
-http://81.70.10.196:35455/douyu/11531165
-#EXTINF:-1 group-title="NBA粤评", 07:00雷霆🆚步行者
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 粤🔊1旁述
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 国🔊1评述
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 08:00老鹰🆚灰熊
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 粤🔊2旁述
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 国🔊2评述
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 08:30黄蜂🆚独行侠
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 粤🔊3旁述
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 国🔊3评述
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 19:00篮网🆚太阳
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 粤🔊4旁述
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="NBA粤评", 国🔊4评述
-https://suo.yt/a3xFctm
+#EXTINF:-1 group-title="NBA赛评", 国🔊赛事述述
+https://migu.188766.xyz/play?migutoken=c1e56fa6e6b0c32d2e2b168a2ef4f48a&id=INs4tk9hPZdjunCvOIY92Xsv4jQo4I1vWOMPIkOssaZKdlGDjs2%2Fq9jHoR6cLAwYdMLUorTAjN7P%2Bv9G6rykvELBjB6Rmq4qXM8k8A%2BNvY%2Bh4OKLYC0Sm3Fj7icHvha%2Fv51qB5OZJYk10M9ojLvSHrfMhCFPlJLc9wo3IP8wV9ONb0tX%2B9%2FtKURFHIbgALlndN6W13TF73pjne5QmLi4HAAIJJMt4mf7MTXdgbDvG9HSXgeP94I%2FPWKGq%2B9fi11PoLX%2FZL5CkGFCSMjOsz6XXJfqtwEHxDkVRMTe89vY5jZxcdcs6urQystnO3XND4s2&name=JxWvwKwDvbEsKS74F4cs6Fr0KpphcexXOlDZiyAnK0VlInQ2IRmTW4XnJBUY9XktfGJxo0wdQnSkYe4nTgq745FySMxCZiKYRD4DEAtaKIs%3D
+#EXTINF:-1 group-title="NBA赛评", 英🔊原声述述
+https://migu.188766.xyz/play?migutoken=958c131123ac43a69df08921f890a1ed&id=vNxgJNnMbtE7bdNaRLXo%2Bjbaks%2FeRCXMOV4U3Egp3eGfJvRtas0Gxd3URkgAmk1Q9Fx7Yigcxw8f4DKHYTW8KdjYEBjii2vuRDgQlZWbqWpTJXzuacoABPDM998yeilkQAfNE9LCVE1p40YzWIcEGb7uSnsKzkKaolBMo%2F%2F3iNsiNmQsJ2fNqnA7xdnJz1Kz2ww42bfSIMW1VRiYMFyojeb4yIMZMzW12kAx17XpKM6a0GFclWnn6Ikkt5XnBcqf%2BFa8eaRQGiq2Lsr0UzNzfn6VUWXN5exAJedwAYjDwfKpKHyURoEbjzw8k2%2Fx0Et30M3I9Pcsa%2BRBpbCMe6JaGA%3D%3D&name=YzH9XVe0lU0w6rxjhtk7%2Fls11ynR%2BNdMGhERndtFZEIuZ03mDsODvFYSwISLQsicHYD2uw2CgiIrA1Lj6NwlxGHYUD7jNwFBKiIuA08RB1o%3D
 #赛事咪咕
 #EXTINF:-1 group-title="赛事咪咕", 抖姐舞陪你看
 http://81.70.10.196:35455/douyu/11531165
@@ -706,6 +680,24 @@ http://iptv.4666888.xyz/iptv2A.php?id=重温经典
 http://iptv.4666888.xyz/iptv2A.php?id=八度空间
 #EXTINF:-1 group-title="欣赏频道", 爱奇艺频风云
 http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
+#EXTINF:-1 group-title="欣赏频道", ⬇️限时推流⬇️
+https://suo.yt/a3xFctm
+#EXTINF:-1 group-title="欣赏频道", 十方法界限推
+http://stream-ali1.csslcloud.net/live/hktv-09ali19.flv
+#EXTINF:-1 group-title="欣赏频道", Now爆谷限推
+http://stream-ali1.csslcloud.net/live/hktv-09ali20.flv
+#EXTINF:-1 group-title="欣赏频道", Now星影国推
+http://stream-ali1.csslcloud.net/live/hktv-09ali21.flv
+#EXTINF:-1 group-title="欣赏频道", pₒₚc电影限推
+http://stream-ali1.csslcloud.net/live/hktv-09ali22.flv
+#EXTINF:-1 group-title="欣赏频道", 无线新闻限推
+http://stream-ali1.csslcloud.net/live/hktv-09ali23.flv
+#EXTINF:-1 group-title="欣赏频道", HUB如意限推
+http://stream-ali1.csslcloud.net/live/hktv-10ali2.flv
+#EXTINF:-1 group-title="欣赏频道", HUB娱家限推
+http://stream-ali1.csslcloud.net/live/hktv-10ali3.flv
+#EXTINF:-1 group-title="欣赏频道", HUB都会限推
+http://stream-ali1.csslcloud.net/live/hktv-10ali4.flv
 #EXTINF:-1 group-title="欣赏频道", ⬇️欣赏频道⬇️
 https://suo.yt/a3xFctm
 #EXTINF:-1 group-title="欣赏频道", 凤凰中文频高
@@ -1133,6 +1125,14 @@ http://jx.999315.xyz/yzzy/20251010/1908_65699726/index.m3u8
 http://jx.999315.xyz/yzzy/20251010/1937_136f9513/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 宴遇永安07集
 http://jx.999315.xyz/yzzy/20251010/2028_d860edd1/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 宴遇永安08集
+http://jx.999315.xyz/yzzy/20251011/2079_654ad60e/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 宴遇永安09集
+http://jx.999315.xyz/ffzy/20251011/28408_c8d8f71d/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 宴遇永安10集
+http://jx.999315.xyz/ffzy/20251012/28466_8e3460e1/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 宴遇永安11集
+http://jx.999315.xyz/yzzy/20251012/2184_00a03ec6/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️入青云36⬇️
 https://suo.yt/a3xFctm
 #EXTINF:-1 group-title="新剧追更", 入青云第01集
@@ -1151,6 +1151,14 @@ http://jx.999315.xyz/yzzy/20251009/1836_f26dab9b/index.m3u8
 http://jx.999315.xyz/yzzy/20251010/1923_414e773d/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 入青云第08集
 http://jx.999315.xyz/yzzy/20251010/1928_5bce843d/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 入青云第09集
+http://jx.999315.xyz/yzzy/20251011/19274_9a78493f/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 入青云第10集
+http://jx.999315.xyz/yzzy/20251011/19275_ffa8c1fb/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 入青云第11集
+http://jx.999315.xyz/yzzy/20251012/2127_5227b6aa/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 入青云第12集
+http://jx.999315.xyz/yzzy/20251012/2128_bd5af7cd/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️一笑随歌38⬇️
 https://suo.yt/a3xFctm
 #EXTINF:-1 group-title="新剧追更", 一笑随歌01集
@@ -1197,6 +1205,14 @@ http://jx.999315.xyz/yzzy/20251009/1857_a3545bd7/index.m3u8
 http://jx.999315.xyz/yzzy/20251010/1938_ad4cc1fb/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 一笑随歌22集
 http://jx.999315.xyz/yzzy/20251010/1939_f22e4747/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 一笑随歌23集
+http://jx.999315.xyz/yzzy/20251011/5081_a4bd4d2b/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 一笑随歌24集
+http://jx.999315.xyz/yzzy/20251011/5082_fe663a72/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 一笑随歌25集
+http://jx.999315.xyz/yzzy/20251012/2181_100d9f30/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 一笑随歌26集
+http://jx.999315.xyz/yzzy/20251012/2182_d51b4167/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️沉默的荣耀39⬇️
 https://suo.yt/a3xFctm
 #EXTINF:-1 group-title="新剧追更", 沉默的荣耀01
@@ -1247,62 +1263,14 @@ http://jx.999315.xyz/yzzy/20251009/1866_19de10ad/index.m3u8
 http://jx.999315.xyz/yzzy/20251010/1946_1f71e393/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 沉默的荣耀24
 http://jx.999315.xyz/yzzy/20251010/1947_de03beff/index.m3u8
-#EXTINF:-1 group-title="新剧追更", ⬇️许我耀眼32⬇️
-https://suo.yt/a3xFctm
-#EXTINF:-1 group-title="新剧追更", 许我耀眼01集
-http://jx.999315.xyz/yzzy/20250926/16647_b338e58b/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼02集
-http://jx.999315.xyz/yzzy/20250926/16648_8b43e1b8/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼03集
-http://jx.999315.xyz/yzzy/20250926/16649_bd896f3d/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼04集
-http://jx.999315.xyz/yzzy/20250926/208_091d584f/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼05集
-http://jx.999315.xyz/yzzy/20250927/3431_84c2d486/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼06集
-http://jx.999315.xyz/yzzy/20250927/308_a8c88a00/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼07集
-http://jx.999315.xyz/yzzy/20250928/17211_cd6bc4ee/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼08集
-http://jx.999315.xyz/yzzy/20250928/535_33e8075e/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼09集
-http://jx.999315.xyz/yzzy/20250929/3666_1ea97de8/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼10集
-http://jx.999315.xyz/yzzy/20250929/17424_b8495c24/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼11集
-http://jx.999315.xyz/yzzy/20250930/3748_aaaccd27/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼12集
-http://jx.999315.xyz/yzzy/20250930/748_e49b8b40/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼13集
-http://jx.999315.xyz/yzzy/20251001/850_1efa39bc/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼14集
-http://jx.999315.xyz/yzzy/20251001/851_92fb0c6d/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼15集
-http://jx.999315.xyz/ffzy/20251002/27835_f1fe81fa/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼16集
-http://jx.999315.xyz/yzzy/20251002/3997_abec16f4/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼17集
-http://jx.999315.xyz/yzzy/20251003/18222_b043fb07/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼18集
-http://jx.999315.xyz/yzzy/20251003/1149_09c6c378/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼19集
-http://jx.999315.xyz/yzzy/20251004/1276_fb60d411/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼20集
-http://jx.999315.xyz/yzzy/20251004/1283_018b59ce/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼21集
-http://jx.999315.xyz/yzzy/20251005/4382_9bab7341/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼22集
-http://jx.999315.xyz/yzzy/20251005/18404_94858b31/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼23集
-http://jx.999315.xyz/yzzy/20251006/18449_32535578/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼24集
-http://jx.999315.xyz/yzzy/20251007/4525_9f1f64b5/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼25集
-http://jx.999315.xyz/yzzy/20251008/18812_ff5f900b/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼26集
-http://jx.999315.xyz/yzzy/20251009/1864_d072677d/index.m3u8
-#EXTINF:-1 group-title="新剧追更", 许我耀眼27集
-http://jx.999315.xyz/yzzy/20251010/19166_7cb3c7c2/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 沉默的荣耀25
+http://jx.999315.xyz/yzzy/20251011/5084_a714ec67/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 沉默的荣耀26
+http://jx.999315.xyz/yzzy/20251011/5085_9ce3c52f/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 沉默的荣耀27
+http://jx.999315.xyz/yzzy/20251012/19441_c273330b/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 沉默的荣耀28
+http://jx.999315.xyz/yzzy/20251012/19442_9f6baa1a/index.m3u8
 #特闽频晴
 #EXTINF:-1 group-title="特闽频晴", Now新闻频晴
 P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
@@ -4532,6 +4500,8 @@ https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c0461f072ec10103700199
 https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bfa076bc7f7f4f037001992c8c570d_258.mp4
 #EXTINF:-1 group-title="欣赏音乐", 似水流年现场
 https://sns-video-default.xhscdn.com/stream/79/110/258/01e8bfa14dbc75c74f037001992c906e6c_258.mp4
+#EXTINF:-1 group-title="欣赏音乐", [没出息]_二创
+https://sns-video-default.xhscdn.com/stream/1/110/258/01e8e9a72ae7d9e80103700199d0b76e2b_258.mp4
 #EXTINF:-1 group-title="欣赏音乐", 粤语劲爆串烧
 https://sns-video-default.xhscdn.com/stream/1/110/258/01e8ccfd682b29e5010370019960c10c99_258.mp4
 #EXTINF:-1 group-title="欣赏音乐", 粤语精选串烧
@@ -4759,6 +4729,72 @@ http://jx.999315.xyz/ffzy/20230225/16373_172efda8/index.m3u8
 #EXTINF:-1 group-title="欣赏音乐", 731-杀人工厂
 http://jx.999315.xyz/yzzy/20220701/2070_7de21992/index.m3u8
 #追剧全集
+#EXTINF:-1 group-title="追剧全集", ⬇️许我耀眼32⬇️
+https://suo.yt/a3xFctm
+#EXTINF:-1 group-title="追剧全集", 许我耀眼01集
+http://jx.999315.xyz/yzzy/20250926/16647_b338e58b/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼02集
+http://jx.999315.xyz/yzzy/20250926/16648_8b43e1b8/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼03集
+http://jx.999315.xyz/yzzy/20250926/16649_bd896f3d/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼04集
+http://jx.999315.xyz/yzzy/20250926/208_091d584f/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼05集
+http://jx.999315.xyz/yzzy/20250927/3431_84c2d486/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼06集
+http://jx.999315.xyz/yzzy/20250927/308_a8c88a00/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼07集
+http://jx.999315.xyz/yzzy/20250928/17211_cd6bc4ee/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼08集
+http://jx.999315.xyz/yzzy/20250928/535_33e8075e/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼09集
+http://jx.999315.xyz/yzzy/20250929/3666_1ea97de8/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼10集
+http://jx.999315.xyz/yzzy/20250929/17424_b8495c24/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼11集
+http://jx.999315.xyz/yzzy/20250930/3748_aaaccd27/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼12集
+http://jx.999315.xyz/yzzy/20250930/748_e49b8b40/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼13集
+http://jx.999315.xyz/yzzy/20251001/850_1efa39bc/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼14集
+http://jx.999315.xyz/yzzy/20251001/851_92fb0c6d/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼15集
+http://jx.999315.xyz/ffzy/20251002/27835_f1fe81fa/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼16集
+http://jx.999315.xyz/yzzy/20251002/3997_abec16f4/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼17集
+http://jx.999315.xyz/yzzy/20251003/18222_b043fb07/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼18集
+http://jx.999315.xyz/yzzy/20251003/1149_09c6c378/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼19集
+http://jx.999315.xyz/yzzy/20251004/1276_fb60d411/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼20集
+http://jx.999315.xyz/yzzy/20251004/1283_018b59ce/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼21集
+http://jx.999315.xyz/yzzy/20251005/4382_9bab7341/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼22集
+http://jx.999315.xyz/yzzy/20251005/18404_94858b31/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼23集
+http://jx.999315.xyz/yzzy/20251006/18449_32535578/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼24集
+http://jx.999315.xyz/yzzy/20251007/4525_9f1f64b5/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼25集
+http://jx.999315.xyz/yzzy/20251008/18812_ff5f900b/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼26集
+http://jx.999315.xyz/yzzy/20251009/1864_d072677d/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼27集
+http://jx.999315.xyz/yzzy/20251010/19166_7cb3c7c2/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼28集
+http://jx.999315.xyz/yzzy/20251011/2085_e0a20953/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼29集
+http://jx.999315.xyz/yzzy/20251011/2088_d3a7f48c/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼30集
+http://jx.999315.xyz/yzzy/20251011/2092_801272ee/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼31集
+http://jx.999315.xyz/yzzy/20251011/2093_b2ab0019/index.m3u8
+#EXTINF:-1 group-title="追剧全集", 许我耀眼32集
+http://jx.999315.xyz/yzzy/20251011/2094_cf2226dd/index.m3u8
 #EXTINF:-1 group-title="追剧全集", ⬇️吴邪私家笔记18⬇️
 https://suo.yt/a3xFctm
 #EXTINF:-1 group-title="追剧全集", 吴邪私笔记01
