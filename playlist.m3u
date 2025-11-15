@@ -1,220 +1,331 @@
 #EXTM3U
 
-#全运赛场
-#EXTINF:-1 group-title="全运赛场", ➡️羽毛球🏸⬅️
+#NBA赛评
+#EXTINF:-1 group-title="NBA赛评", 11-15NBA常规赛🏀📡
 http://81.70.10.196:35455/douyu/11531165
-#EXTINF:-1 group-title="全运赛场", 原🔊原声赛事
-https://flvyxpull2mgsplive.miguvideo.com/mglive/mgss159_51.flv?msisdn=a7d375b75bf66d34c584ef6aa59513be&mdspid=&spid=800033&netType=0&sid=7510404043&pid=2028597139&timestamp=20251112160539&Channel_ID=0132_10010001005&ProgramID=960147603&ParentNodeID=-99&assertID=7510404043&client_ip=14.117.153.14&SecurityKey=20251112160539&promotionId=&mvid=7510201709&mcid=500020&mpid=120000559000&playurlVersion=WX-A1-8.10.1-RELEASE&userid=1817673217&jmhm=a7d375b75bf66d34c584ef6aa59513be&videocodec=h264&bean=mgspwww&tid=www&conFee=0&encrypt=afdd4b19ea214b34948c4cd92fed41d4&sv=10010&pos=-1000
+#EXTINF:-1 group-title="NBA赛评", 08:00热火🆚尼克斯
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊徐秦威评
+https://mgev.188766.xyz/play?migutoken=cf52358d49376db27d63d2d4604ba68e&id=HXx4R9nUGgt3oQdp6bvuKhTKCb13jR8F70%2FdHadiQ3c7DQBEPWhkzop2RqDcSI9kZtvLW%2FCWRXULYZDJ%2Btbl0w4ZQDvsEshJGts27Oic08smfrDj%2BwELnTDmRLc6oZuHPhq%2BGExQU5097LYN4n9XHrHAjQCtgREqjH4kmF91jNJWr0Q7RHcdgsJ1PjF%2BAvdyDAFKv2wge1KjBPYPKiT3sTlAh3z%2FD3iJ5GpWUFvo7vU%3D&name=fP2AW5MT%2BHgLsmCcVHWRzBEBAl1METc%2BPaLef2AIBK9Oc%2BjsYEf1uOlyMIJytDoQjwpUpD76%2BLc91%2BBwJ3kQcmdmdK%2Badt%2F87WWDn84njQU%3D
+#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声
+https://mgev.188766.xyz/play?migutoken=1f45c7420d9d0b93585f1177005dc25a&id=OkHHY%2BxPRhebGqWmN0wR9VhS%2BmSsbZg5eYKB3VS51KlQHzTN3iweVjZcniVdnKtZ%2FMWRyZamXRQ2NAtsFACHe40%2BoDvd3cIQTrqG56u%2FHCZTCJE9OOPBpEXHOPgYNtS1kznuaQdCBoib53%2Bju6949NXB326g9euwI53aNU5GC3%2FHRd18UoD%2BkivvKMjVKaFTZGSS%2FnfoVRelXCKtA1gCU7h5%2BJYYLDARrZpSDTkFJMQ%3D&name=YNw7P2jD5bGZqYmoMn9m7bMG5OvjI%2FFWwJv%2FohD%2BDRRXBLtLUgHIn3rtyAqlBJ8fQX796KIIsbinFWAPnYbAeBocX5JrvFHaJqcDkqmyUCs%3D
+#EXTINF:-1 group-title="NBA赛评", 08:00魔术🆚篮网
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊张泽欣评
+https://mgev.188766.xyz/play?migutoken=1cb9fb71ddf71076f74313f195a9b491&id=R6RwtDBg77h9YQ%2BzzVWBX5Q26BP29nFirCiv3X9XEiivBZOrDtUhsOarGc%2BXIdmEhnMLvWgSlPHN3KJqkmYFES3pso7N%2FM09ikW7ZqFjjOcUQShteKmPsiS3RU1ZDDU32vkC4UGKCBZffpCWmra3dIIvJ5nffMDDTsVtkZTUom9Y6nJvyqgRk%2FBoWZBo7iCPuypxI1H2gX7AlUsz91WN8qjrGsQMxmFmlvJrPsHLZMk%3D&name=bIDJtnokSalrNskYyY7KrIFk%2FN%2FAZJci5iPs1r5kc2xVnrYEYPNjq3Fg1pdwb%2FW%2BdMSJRPEYfNyPMVHX%2Baz%2Buw%3D%3D
+#EXTINF:-1 group-title="NBA赛评", 原🔊原声赛场
+https://mgev.188766.xyz/play?migutoken=4f094e2a132cc4287a4e7b364a38793e&id=8h9vLNLAV3zy6dra44JXDmp2N%2FjKUp5DVPKg0Cw2e0LJfGtsQw4IPsrtSJ2gLVofxHd08RkS7T6O0bgwg4QP4RowITY7pWDVzGJza6y75%2F8qtyzeP15%2BROUMFkkfvvnZo9t4mBrZPRQKmrRVYZxeovoCbuybh1B45jbeeJ44Gmg0jyvY6Bu01T4kPfYzqXOrATWinCgQEaoa2g47PtTHYJY0W9D2cvaIXFdH9Kobqn0%3D&name=EOr4U6jfCA4agYT2eHlwrpILl0zb7JB1Nh9Spt3oox8e6suQdI1HUv%2BTAmjS5Po5JiafoUA6ye%2Bp71qNF44dn2hn0lEeo4kuDzkiZmuNjNY%3D
+#EXTINF:-1 group-title="NBA赛评", 08:30活塞🆚76人
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊王晓晨评
+https://mgev.188766.xyz/play?migutoken=475eb8aa0777c2076dc206abfe93164c&id=mt%2Belf41DdcLrQnBodgXAqVdzbWHh%2FdvQPeciX05qMZFJ3AiBvZtfo4ux8B7miTOrw3hv6dIqI8JNFaCt9Bp%2FFHoaHxPaz1ydwFnM5AAYg62tBrFpeOYRepBNOJosiGOoXCqQjhx6UUhfSfmIQY%2BZMqG2T%2FxjnzxoHL4Y9nxpSGu9j50JO8h%2Bm6zD0jB7oxtc1YKczrAzi%2Bxl3HYQFSMBp6uoJZdDJGBr%2BcfdlCGQ1E%3D&name=tCoP3%2BYwBiyecZ%2BPkiiRL2KpxaOvm%2FtVquCRtkyOs4HiTUy7y8PTkyQpXZo8oMgCv2lEzrb2vuZXkPkJq7XKjA%3D%3D
+#EXTINF:-1 group-title="NBA赛评", 原🔊赛事原声
+https://mgev.188766.xyz/play?migutoken=5ed89fd7093465842fa956609eb86c91&id=zbuNMhd4i8F2RBiS%2B0B2PpxKvMQmv37r%2Fig76BILebXTTEv%2BW1z3Uwd%2BWYisOQexgNX6wnAm6e4eSY2ARvec1D8dgNZ%2BZ7eSwnAT%2F8%2Fof8wfNbYaLRgKPA89ugeJl85HGi5UNdeqvClPZTn3RrhZ%2B%2FdJZJxpRTeBKszJ87v9u4nkTBBOl9IO4Fp6M9q1HuQU%2B2dg615JMnV00KdkrCnWVmVv5Q%2BWlsyZmOjGTnssWik%3D&name=1yXK8gc%2FOKnVXfrSBf9%2BSlpo6o65THRPODzAl3VZM1LR41c3DYkQQYFkkux%2BNf%2FlimH1%2BJHoO6JyIjjtliNJJuHIIWDtVVPSyfpZsFDwLbY%3D
+#EXTINF:-1 group-title="NBA赛评", 09:00火箭🆚开拓者
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊4k周鹏评
+https://mgev.188766.xyz/play?migutoken=fa46f185b660f6867558782f8c93dbe2&id=tUkR1TJbVVDC%2BORXwqFrxIp56xGtZmyaKCyVP09oZLKqQfFaMg4TjLNc%2F893HKAJGA314zPzjN0txCSQKUHszuipVvFB%2Bt%2B4P2w%2BRCfBsFAGqBy2fXtV8HQMqRs5kKlQFkDvvqzj04AhFheiTa8qRbl6FkBD4zQYUFyZTTCRs7vvg%2Bqy2karumuEPNrRMpJJ8DEdGCjVVJlwOz5JuKPEVILI5ebVi9TKKgfEqQgl%2Fjo%3D&name=BT%2FEHTMZvMS36bT73%2BxKXn8Dz2o2iVTFJBnDOj6qgsWhOlTWiV28rRP1091u69s4dePnq01pbGlAoByZhgrxaCsVwORq78585NDW20k02JY%3D
+#EXTINF:-1 group-title="NBA赛评", 国🔊邢晨评述
+https://mgev.188766.xyz/play?migutoken=abcc10a5cb56aa34eac008564aec576d&id=F29L94rgxScB%2FdWMP2scaaL1gtJ3CtHPHyof8DTXmNQ3kzLBRtJfE2JvciT5Iz6mqJRjg3rLuU6wWps125RDzxUMkMj5fljk0ORNBWluksEigv%2FhTm0LxJkr%2BYN20CxQCkx2mtSWmB8P9867SsbWiL0btzp%2BiP4qIt%2FW12GQLrLzx7lrVCsoAa0KW6631HEEQjpFGWpzVuVO%2BT9NXh1J6LuGhxJg1ZqBPQBJ6WrXvU0%3D&name=iyShYoOn83GsF6agiewi3qLbDzPB1ItWvUiCaz%2F4L%2BWHXOG0Wh%2Fo9pbaqdKi%2F8KLQziYpAcDMeNpv15NgipYuQ%3D%3D
+#EXTINF:-1 group-title="NBA赛评", 09:00雄鹿🆚黄蜂
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊刘沛元评
+https://mgev.188766.xyz/play?migutoken=a3e2b4de228ddbea7574a0d212c279c4&id=Ss5qkRTKz0USdGJpXtYJK%2FSJjPOHNgXXgan3mbcSHtzCinwpI8tBC1atbayyK4pw%2BOF8UgIuqO1KOmZU%2Fub2D9Z2Go9kYwB2yD27Q%2B7JZaV2EdR519Cm%2FcpgK7pr3x9TaSvIhQFDMEe5GDS5tZc6z5hBxrDWssoiXkkIA37irjoXe5hJb09v38hFkDs%2Be17tZqa6WLm0QCX9RKxEDQ9h7%2F1Z%2FqiFZ20Y8%2BxIgpMwlV8%3D&name=ZzPWz3YYGKRqXJmYukiWSvq84bben6oDIxR3fB80ZGcy3D257i8E2A%2FL2oiReLt0gw%2Bh0SYZWnQdBQjZjwGBYA%3D%3D
+#EXTINF:-1 group-title="NBA赛评", 原🔊原声赛事
+https://mgev.188766.xyz/play?migutoken=222b10319a0958b587852d513de49d8a&id=K3S2jk8t7CQbEfXXYNCWA5mYuU69iMiAcEc9B3INGPQi4zI2ME%2FFO2MXn17lDlGs86Jh5t4FAToYyaJvBjd0PFf4Q3lan7BVTN2iAx%2FpZso3kUyyOYxLuval0dQfQo40tresWnMMxJPA6dIrr8ftObF6QUaP9C%2BnlwVrv7L5joXKPN332qjQxuafqIy0M6gyA6nlpR791KYIA%2FYeUgjE%2FBLoFrYrZG0Rek4Kv5N2w8w%3D&name=pcLR7PvdO%2FV4D5GH8oa30ULPNeUy53GC6rxBprvWGFSg8tnRuOnz%2BJ6vJSQnTMLespkNRfyI%2FFgZBSnviBUNfIsI3EMjDK2mLHsizW0Zn4I%3D
+#EXTINF:-1 group-title="NBA赛评", 09:00木狼🆚国王
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊陈鑫隆评
+https://mgev.188766.xyz/play?migutoken=991a9892c538d65f01216b723115066c&id=NnKWeWwx4gyoHP%2FoAOScxGy982xhs5nydqFhmkoFi5uZ9fiMD3uVI4ZsoXr2GjY1x8C4xLgI2W1hzo%2Fk%2FYYKyf8SvopxeiM5xVDUF5hg0Jn5vW1wZlWOsXVITKSPTiprrHHqWAH3YSQWVLwrf51LerbPplQ%2Bvx2jks3152AuLvFE3Po7HIyPOJ7jxyn7wz9JZNxCfCglLtTHJ0R6lySj5pyQPdeH8UJk%2BsqVVHpu1xg%3D&name=VGP6xlrW23uBrRMABDa3cfMMQqZBd5KNe0Ac5XVhaGRr8UQ7HFSW5l58TUsfLyVVwIHqTKlgmw1N%2F2VAGZmbU0uj%2Bu7IlxG0Q14Hy8u1n8o%3D
+#EXTINF:-1 group-title="NBA赛评", 原🔊现场原声
+https://mgev.188766.xyz/play?migutoken=a853d43414c0cdae6402af716a6b4845&id=YSlUhXpvxYsjxfjGOv9tNYijj28zXyr6Keo2IVJl0sgdwRaWpmtDCSdsDwOk7JqAx1u3F8SlnBVe7qJb68QqjVzJYIFuo9DKmsTYS5kBSY9bO0z9Gv5b5rUJhJIbsouNaV8u19yVGiThacbtcWeBg24s01jI8RA0jwZTXCuVm4B9QlcyN1Om7RX8r9yggbSSbNNrcCbd03pWOh82hmKtwZlgM9TAcCwPo3YEV1CoWlQ%3D&name=nqCtbvxpg%2Fy5w3B%2BrGKQ353EILH2wPUFPYjmYfySO%2F0RgmdCgkJ9abrbgNMUzymdgzqUQbQsYvLuhAkoZDrufLok2sRNgFAhwRWAy2R72RM%3D
+#EXTINF:-1 group-title="NBA赛评", 09:00鹈鹕🆚湖人
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊4k陈正昊
+https://mgev.188766.xyz/play?migutoken=5b736f5f4734c54bf3917ba1ed4567c5&id=Hxo3cz3Wpt%2Fl%2FqfjvAJlLyH351noCUTmUbKngKnykpTOKcYF3UHqCaeCD20UpE1MIuBMnpGzqOQG1Ie089SE8rp9v6Mo%2B3Mhy57oV4n6nw46GHk14y%2Byxt4nSg4Q34MMQ4BPTzfmSVbUfljv8ErCCZcK0JnO75m0wRIkX21%2FISpEfxogX4RM4p5yn%2Bt7vaqnaWEVF6H78L7%2F6ZkdIWrbSFMPQcoVK%2FG4lPR2pFgt3C4%3D&name=W3Kgpx1QfzgdCPE4xnk77vIGjmM%2FcXijU4AtIMv6O9%2B6MF0qaCTDiggpOnF61TLJFPPLK9YoYz5ZnqdObLHiLinJHPMVLn7e9BwIYRw87ArksIfTBY0y8ulqjuKc%2FVXX
+#EXTINF:-1 group-title="NBA赛评", 国🔊郑泽鹏评
+https://mgev.188766.xyz/play?migutoken=a0a06840322e57fb66a703f20d713abf&id=1FHCAeUZG6Rg%2FzTXOLetNkPKJKWCpFwqeezVnN5hbdOCZEmrgn6eO6QLuAJAJgdj9oHMocgRNaxIc6iwZcMdy0D5EgKdl%2BTK5XjR9Nt%2BFsmY0hJCLKIkZk6iyM34vo2qC%2F%2B8IzcRHPx0mB5Y0Xtf8KGq7iP8GRJVVhqswfZ3Y3ykGcT9AhgfFE0uNeIX76aYW9KKxTmZ9hKUhRsxYkqH5UFFgr%2FU95r9bZ%2FR5rh7YzA%3D&name=rnWTZzJdgdfE%2FJuy9k6JuMiBw60pnh4e7hO8Un8SIyo3xE25XaPL8KfBB74wWGvHZoVHbIyi8w2%2Fzcm4hmPFtw%3D%3D
+#EXTINF:-1 group-title="NBA赛评", 09:30快船🆚独行侠
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊4k季孟年
+https://mgev.188766.xyz/play?migutoken=db708fbe73aa02b5c2e88cefe926569b&id=cXho244pAt8ww2eKbvd3wluVq%2B%2FOsZN7%2FdLGsKfM7REJnjp0xSD%2FBDSR2dh2SwC5eZnKI2rIGjJp6%2FrNPrmlQgK3yKBDMe0Z5yFAbk1TEe5QhtISeAJ8u%2B3ECfi2UWPxyH4KM60S5x%2FpvtjFiVo%2B8zI6qKUTaZFOM9uem1Wl4A7ekOYrFnW6zIsDL6a3t4lGG7iA6aPi9q71R04u26l1Cg0Zijm128NjqSKUwWMILh0%3D&name=vc3WjsXd%2BVgWFat33bFGlRODUUu0DPyDSVFNk9Kzc25S1TS%2FSLOG4QT%2BmXysIY6A6bWizHUFjrT%2BPAjr1SkGb8q93skJ7PohH9e%2BNOzDe38%3D
+#EXTINF:-1 group-title="NBA赛评", 国🔊大史评述
+https://mgev.188766.xyz/play?migutoken=05c62d490b354d8e31091a376e0662bf&id=F3UeMNEVZMoRsq7OzRGM%2FWr5yM9Ne9xnEJWH142AO25HWdfnwco9qTyCh8EJXHgXjwsrApQ3hePYKEtFfzDh549SrU8lRv2ySXWnp5aCzIeqx5%2FXZnJp%2Fbp61RVEPKVbBYGU%2B7nw5ueJffddZl%2FGelboXvJJ64XCFlKz14G%2FX%2B6q5NJQsX48HTWEKaDMUVAgeM7SRqju7mZEvlmd735po0pEkYWePA3BPYfo3xd1axc%3D&name=%2FzgShSHQU6c19EozcG73UYXzQfrk%2BFabX%2FGut8gnObUySF1wJRF9KFbnDXx%2Fxiy3xFlaewuQiRxy19sC6%2FMxqQ%3D%3D
+#EXTINF:-1 group-title="NBA赛评", 10:30马刺🆚勇士
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="NBA赛评", 国🔊曾令旭评
+https://mgev.188766.xyz/play?migutoken=37ec8341b9ec1ba626d6aba106b3f9e0&id=x97zs%2B8iY%2FX8qrREp6FaO9otA74bMU8d0AhW4hlUBEbN483S%2B4fMWvYvSDwWjgI3XnousI1UZNt5CQcuRHPygMViLC%2BrLkyPH2u9rygTeUeBybUxxFMqSKlmjGw3wkkCImmX0pvAEXb5VCnADBXJrzX7hW%2BvZqQgMdMSotyUxLQjdKysYBSRZHtd5P8hOg%2FimGnqln96NV1N3Bmf5ZaaFeZsXXzI%2Fzx7VbGCPuJDfhg%3D&name=8HJkBwMcwVgZ2FWYPMQWY4IfBJqM55YJlk4Jt02RkmrRDYp3JPU301uWFH8jucLZSLhitB5CuuhxTmKknWR2sMA4j5wvRyx0u%2FWWSpSjQhQ%3D
+#EXTINF:-1 group-title="NBA赛评", 原🔊原声现场
+https://mgev.188766.xyz/play?migutoken=de0cbab0d23f1f47aa98d008140c423c&id=LSY%2BkyT1M1DTNbaC%2FWaPEikDUZ253qFaDuWfpSru6l0zGKx8HrBXEmOOUU%2FyAdOueXM4hazCLl3UzmPCF42BudAUFBItarkXXIL3Qq6CoxiDdqZiT5WsZCDaTwWGfPrO1YLEHwm96lavguYyXER2laKD%2BkEjapSqlFqTE4RYml85JKabq661TOEXdCAOwZCbDikJE0mJmE3yfAdL1nzVjVIFGLDzCs4POTwSzstnLYw%3D&name=OpIWrMrBmEFlOrET614bT%2B%2F8HrJ9xG8XibW1b6xJ22ynN%2BoXW%2BnzAluOFcNEdtGYc0JrHSBN1c%2FOtD0KCj8yMqch8puShp3UrHLNRvY9ttk%3D
+#赛车直播
+#EXTINF:-1 group-title="赛车直播", ⬇️澳门13-16格兰披治⬇️
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="赛车直播", 粤🔊格兰披治
+video://https://live.douyin.com/334939583532
+#EXTINF:-1 group-title="赛车直播", 原🔊赛事直播
+video://https://live.douyin.com/605883004278
+#EXTINF:-1 group-title="赛车直播", 粤🔊澳视澳门
+http://iptv.4666888.xyz/iptv2A.php?id=澳視澳門
+#全运赛场
+#EXTINF:-1 group-title="全运赛场", ⬇️全运赛直播⬇️
+http://81.70.10.196:35455/douyu/11531165
 #EXTINF:-1 group-title="全运赛场", ➡️网球🎾⬅️
 http://81.70.10.196:35455/douyu/11531165
-#EXTINF:-1 group-title="全运赛场", 国🔊咪咕述评
-https://msj.188766.xyz/play?id=3000000001000007218&token=3e6900193e6900193e6900193e690019
-#EXTINF:-1 group-title="全运赛场", ➡️全运开幕式翡翠高清⬅️
+#EXTINF:-1 group-title="全运赛场", ⬇️群众第1比赛日⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊8点半赛
+https://flvalipull2mgsplive.miguvideo.com/mglive/mgss148_51.flv?msisdn=a7d375b75bf66d34c584ef6aa59513be&mdspid=&spid=800033&netType=0&sid=7510406365&pid=2028597139&timestamp=20251115082501&Channel_ID=0132_10010001005&ProgramID=960302027&ParentNodeID=-99&assertID=7510406365&client_ip=14.117.156.132&SecurityKey=20251115082501&promotionId=&mvid=7510202870&mcid=500020&mpid=120000561475&playurlVersion=WX-A1-8.10.1-RELEASE&userid=1817673217&jmhm=a7d375b75bf66d34c584ef6aa59513be&videocodec=h264&bean=mgspwww&tid=www&conFee=0&encrypt=ec49c8e0c369194c9723fd307ad9725f&sv=10010&pos=-1000
+#EXTINF:-1 group-title="全运赛场", ⬇️男女单打-双打⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊10点原声
+
+#EXTINF:-1 group-title="全运赛场", ➡️游泳🏊⬅️
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="全运赛场", ⬇️多项预赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊09点赛场
+
+#EXTINF:-1 group-title="全运赛场", ➡️赛艇🚣⬅️
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="全运赛场", ⬇️第4比赛日⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊09点半赛
+
+#EXTINF:-1 group-title="全运赛场", ➡️田径🏃⬅️
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="全运赛场", ⬇️多项及格赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊09点半场
+
+#EXTINF:-1 group-title="全运赛场", ➡️篮球🏀⬅️
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♀️成年组9-10名⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 10:00新壃🆚浙江
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊赛场原声
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♀️成年组5-6名⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 13:30上海🆚湖北
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊原声赛场
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♀️成年组7-8名⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 13:30北京🆚山东
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊赛事原声
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♂️U22小组赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 14:00河南🆚福建
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊原声赛事
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♀️成年组铜牌赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 16:00辽宁🆚江苏
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊现场原声
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♀️U22组半决赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 16:00四川🆚江苏
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊原声现场
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♂️U22小'组赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 17:00北京🆚上海
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊比赛原声
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♀️成年组金牌赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 19:30广东🆚四川
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊原声比赛
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♀️U22组'半决赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 19:30浙江🆚北京
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊赛场原述
+
+#EXTINF:-1 group-title="全运赛场", ⬇️⛹️‍♂️U22小组'赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 20:00香港🆚四川
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊原述赛场
+
+#EXTINF:-1 group-title="全运赛场", ➡️三人篮球🏀⬅️
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="全运赛场", ⬇️男女半决赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊16点原声
+
+#EXTINF:-1 group-title="全运赛场", 原🔊19点半场
+
+#EXTINF:-1 group-title="全运赛场", ➡️兵乓球🏓⬅️
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="全运赛场", ⬇️男女多项决赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 国🔊10点比赛
+
+#EXTINF:-1 group-title="全运赛场", 国🔊18点比赛
+
+#EXTINF:-1 group-title="全运赛场", ➡️羽毛球🏸⬅️
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="全运赛场", ⬇️单-双打1/16决赛⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="全运赛场", 原🔊12点赛场
+
+#国谊赛评
+#EXTINF:-1 group-title="国谊赛评", 11-15国际友谊赛⚽📡
+http://81.70.10.196:35455/douyu/11531165
+#EXTINF:-1 group-title="国谊赛评", 19:35中国U22🆚韩国U22
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="国谊赛评", 国🔊咪咕评述
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="国谊赛评", 原🔊赛场原声
+https://suo.yt/R6oJbv0
+#赛事全运
+#EXTINF:-1 group-title="赛事全运", ➡️开幕式翡翠⬇️
 http://dd.rihou.cc:567/mp4?id=2026c1.mp4
-#EXTINF:-1 group-title="全运赛场", ➡️全运开幕式咪咕标清⬅️
-http://dd.rihou.cc:567/mp4?id=2026b.mp4
-#EXTINF:-1 group-title="全运赛场", ➡️全运会各项赛事直播⬅️
-http://81.70.10.196:35455/douyu/11531165
-#EXTINF:-1 group-title="全运赛场", 国🔊CCTV-05
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-05
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
-#EXTINF:-1 group-title="全运赛场", 国🔊CCTV-05
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-05
 http://vallest.uk/livehttpplay?channel_id=10107
-#EXTINF:-1 group-title="全运赛场", 国🔊CCTV-5+
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-5+
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
-#EXTINF:-1 group-title="全运赛场", 国🔊CCTV-5+
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-5+
 http://vallest.uk/livehttpplay?channel_id=20006
-#EXTINF:-1 group-title="全运赛场", 国🔊CCTV-16
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
-#EXTINF:-1 group-title="全运赛场", 国🔊CCTV-16
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-16
 http://iptv.4666888.xyz/iptv2A.php?id=MYTV黃金翡翠
-#EXTINF:-1 group-title="全运赛场", 国🔊CCTV-16
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-16
+http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-16
 http://vallest.uk/livehttpplay?channel_id=20039
-#EXTINF:-1 group-title="全运赛场", 国🔊CCTV-4K
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-4K
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=lg
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-4K
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=cq
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-4K
+http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4k&q=gq
+#EXTINF:-1 group-title="赛事全运", 国🔊CCTV-4K
 http://vallest.uk/livehttpplay?channel_id=30029
-#EXTINF:-1 group-title="全运赛场", 粤🔊广东体育
-http://vallest.uk/livehttpplay?channel_id=12028
-#EXTINF:-1 group-title="全运赛场", 粤🔊广东体育
-http://m.061899.xyz/mg/gdty
-#EXTINF:-1 group-title="全运赛场", 粤🔊广东体育
-http://tcl33.xrk.top:8086/hls/42/index.m3u8
-#EXTINF:-1 group-title="全运赛场", 粤🔊广东体育
-http://go.bkpcp.top/mg/gdty
-#EXTINF:-1 group-title="全运赛场", 粤🔊有线综合
-http://vallest.uk/livehttpplay?channel_id=20152
-#EXTINF:-1 group-title="全运赛场", 粤🔊VIUTV'粤
-https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 group-title="全运赛场", 粤🔊VIUTV'粤
-http://vallest.uk/livehttpplay?channel_id=30032
-#EXTINF:-1 group-title="全运赛场", 粤🔊RTHK-32
-http://vallest.uk/livehttpplay?channel_id=30067
-#EXTINF:-1 group-title="全运赛场", 原🔊Now直播
+#EXTINF:-1 group-title="赛事全运", 原🔊Now直播
 http://hls.168.us.kg/u/331/master.m3u8
-#NBA赛评
-#EXTINF:-1 group-title="NBA赛评", 11-13NBA常规赛🏀📡
-http://81.70.10.196:35455/douyu/11531165
-#EXTINF:-1 group-title="NBA赛评", 08:00魔术🆚尼克斯
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述01
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声01
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 08:00黄蜂🆚雄鹿
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述02
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声02
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 08:00活塞🆚公牛
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述03
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声03
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 08:30热火🆚骑士
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述04
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声04
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 08:30灰熊🆚凯尔特人
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述05
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声05
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 09:00火箭🆚奇才
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述06
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声06
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 09:00鹈鹕🆚开拓者
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述07
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声07
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 09:00马刺🆚勇士
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述08
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声08
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 09:30太阳🆚独行侠
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述09
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声09
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 10:30雷霆🆚湖人
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述10
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声10
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 11:00国王🆚老鹰
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述11
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声11
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 11:30快船🆚掘金
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 国🔊咪咕评述12
-https://suo.yt/R6oJbv0
-#EXTINF:-1 group-title="NBA赛评", 原🔊赛场原声12
-https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="赛事全运", 粤🔊VIUTV'粤
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 group-title="赛事全运", 粤🔊VIUTV'粤
+http://vallest.uk/livehttpplay?channel_id=30032
+#EXTINF:-1 group-title="赛事全运", 粤🔊RTHK-32
+http://vallest.uk/livehttpplay?channel_id=30067
+#EXTINF:-1 group-title="赛事全运", 粤🔊有线综合
+http://vallest.uk/livehttpplay?channel_id=20152
+#EXTINF:-1 group-title="赛事全运", 粤🔊广东体育
+http://m.061899.xyz/mg/gdty
+#EXTINF:-1 group-title="赛事全运", 粤🔊广东体育
+http://tcl33.xrk.top:8086/hls/42/index.m3u8
+#EXTINF:-1 group-title="赛事全运", 粤🔊广东体育
+http://go.bkpcp.top/mg/gdty
+#EXTINF:-1 group-title="赛事全运", 粤🔊广东体育
+http://vallest.uk/livehttpplay?channel_id=12028
+#EXTINF:-1 group-title="赛事全运", ➡️开幕式咪咕⬆️
+http://dd.rihou.cc:567/mp4?id=2026b.mp4
 #赛事咪咕
 #EXTINF:-1 group-title="赛事咪咕", 抖姐舞陪你看
 http://81.70.10.196:35455/douyu/11531165
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
-https://msj.188766.xyz/play?id=3000000020000011528&token=73f45d2573f45d2573f45d2573f45d25
+https://msj.188766.xyz/play?id=3000000020000011528&token=4c0b8b3d4c0b8b3d4c0b8b3d4c0b8b3d
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
-https://msj.188766.xyz/play?id=3000000010000004193&token=df02e1d0df02e1d0df02e1d0df02e1d0
+https://msj.188766.xyz/play?id=3000000010000004193&token=b71a0fe8b71a0fe8b71a0fe8b71a0fe8
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩篮球
-https://msj.188766.xyz/play?id=3000000020000011529&token=73f45d2673f45d2673f45d2673f45d26
+https://msj.188766.xyz/play?id=3000000020000011529&token=4c0b8b3e4c0b8b3e4c0b8b3e4c0b8b3e
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩篮球
-https://msj.188766.xyz/play?id=3000000010000021904&token=df1dd0a7df1dd0a7df1dd0a7df1dd0a7
+https://msj.188766.xyz/play?id=3000000010000021904&token=b734febfb734febfb734febfb734febf
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩青少
-https://msj.188766.xyz/play?id=3000000020000011525&token=73f45d2273f45d2273f45d2273f45d22
+https://msj.188766.xyz/play?id=3000000020000011525&token=4c0b8b3a4c0b8b3a4c0b8b3a4c0b8b3a
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩青少
-https://msj.188766.xyz/play?id=3000000010000011297&token=df0f9ff9df0f9ff9df0f9ff9df0f9ff9
+https://msj.188766.xyz/play?id=3000000010000011297&token=b726ce11b726ce11b726ce11b726ce11
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩广场
-https://msj.188766.xyz/play?id=3000000020000011523&token=73f45d2073f45d2073f45d2073f45d20
+https://msj.188766.xyz/play?id=3000000020000011523&token=4c0b8b384c0b8b384c0b8b384c0b8b38
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩广场
-https://msj.188766.xyz/play?id=3000000010000006658&token=df03dcdcdf03dcdcdf03dcdcdf03dcdc
+https://msj.188766.xyz/play?id=3000000010000006658&token=b71b0af4b71b0af4b71b0af4b71b0af4
 #EXTINF:-1 group-title="赛事咪咕", 军事国防央七
-https://msj.188766.xyz/play?id=3000000010000011518&token=df0faa45df0faa45df0faa45df0faa45
+https://msj.188766.xyz/play?id=3000000010000011518&token=b726d85db726d85db726d85db726d85d
 #EXTINF:-1 group-title="赛事咪咕", 军事国防央七
-https://msj.188766.xyz/play?id=3000000020000011522&token=73f45d1f73f45d1f73f45d1f73f45d1f
+https://msj.188766.xyz/play?id=3000000020000011522&token=4c0b8b374c0b8b374c0b8b374c0b8b37
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播01
-https://msj.188766.xyz/play?id=3000000001000005308&token=3e681afd3e681afd3e681afd3e681afd
+https://msj.188766.xyz/play?id=3000000001000005308&token=167f4915167f4915167f4915167f4915
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播02
-https://msj.188766.xyz/play?id=3000000001000005969&token=3e68323e3e68323e3e68323e3e68323e
+https://msj.188766.xyz/play?id=3000000001000005969&token=167f6056167f6056167f6056167f6056
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播03
-https://msj.188766.xyz/play?id=3000000001000007218&token=3e6900193e6900193e6900193e690019
+https://msj.188766.xyz/play?id=3000000001000007218&token=16802e3116802e3116802e3116802e31
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播04
-https://msj.188766.xyz/play?id=3000000001000008001&token=3e696cd03e696cd03e696cd03e696cd0
+https://msj.188766.xyz/play?id=3000000001000008001&token=16809ae816809ae816809ae816809ae8
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播05
-https://msj.188766.xyz/play?id=3000000001000008176&token=3e69716f3e69716f3e69716f3e69716f
+https://msj.188766.xyz/play?id=3000000001000008176&token=16809f8716809f8716809f8716809f87
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播06
-https://msj.188766.xyz/play?id=3000000001000008379&token=3e6978f43e6978f43e6978f43e6978f4
+https://msj.188766.xyz/play?id=3000000001000008379&token=1680a70c1680a70c1680a70c1680a70c
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播07
-https://msj.188766.xyz/play?id=3000000001000010129&token=3e73e5603e73e5603e73e5603e73e560
+https://msj.188766.xyz/play?id=3000000001000010129&token=168b1378168b1378168b1378168b1378
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播08
-https://msj.188766.xyz/play?id=3000000001000010948&token=3e7403a53e7403a53e7403a53e7403a5
+https://msj.188766.xyz/play?id=3000000001000010948&token=168b31bd168b31bd168b31bd168b31bd
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播09
-https://msj.188766.xyz/play?id=3000000001000028638&token=3e85b2bc3e85b2bc3e85b2bc3e85b2bc
+https://msj.188766.xyz/play?id=3000000001000028638&token=169ce0d4169ce0d4169ce0d4169ce0d4
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播10
-https://msj.188766.xyz/play?id=3000000001000031494&token=3e9094d83e9094d83e9094d83e9094d8
+https://msj.188766.xyz/play?id=3000000001000031494&token=16a7c2f016a7c2f016a7c2f016a7c2f0
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播11
-https://msj.188766.xyz/play?id=3000000010000000097&token=df010c97df010c97df010c97df010c97
+https://msj.188766.xyz/play?id=3000000010000000097&token=b7183aafb7183aafb7183aafb7183aaf
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播12
-https://msj.188766.xyz/play?id=3000000010000002019&token=df01f45fdf01f45fdf01f45fdf01f45f
+https://msj.188766.xyz/play?id=3000000010000002019&token=b7192277b7192277b7192277b7192277
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播13
-https://msj.188766.xyz/play?id=3000000010000002809&token=df021248df021248df021248df021248
+https://msj.188766.xyz/play?id=3000000010000002809&token=b7194060b7194060b7194060b7194060
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播14
-https://msj.188766.xyz/play?id=3000000010000003915&token=df028a83df028a83df028a83df028a83
+https://msj.188766.xyz/play?id=3000000010000003915&token=b719b89bb719b89bb719b89bb719b89b
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播15
-https://msj.188766.xyz/play?id=3000000010000005837&token=df036fc0df036fc0df036fc0df036fc0
+https://msj.188766.xyz/play?id=3000000010000005837&token=b71a9dd8b71a9dd8b71a9dd8b71a9dd8
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播16
-https://msj.188766.xyz/play?id=3000000010000006077&token=df03c693df03c693df03c693df03c693
+https://msj.188766.xyz/play?id=3000000010000006077&token=b71af4abb71af4abb71af4abb71af4ab
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播17
-https://msj.188766.xyz/play?id=3000000010000009788&token=df053e17df053e17df053e17df053e17
+https://msj.188766.xyz/play?id=3000000010000009788&token=b71c6c2fb71c6c2fb71c6c2fb71c6c2f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播18
-https://msj.188766.xyz/play?id=3000000010000010833&token=df0f4162df0f4162df0f4162df0f4162
+https://msj.188766.xyz/play?id=3000000010000010833&token=b7266f7ab7266f7ab7266f7ab7266f7a
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播19
-https://msj.188766.xyz/play?id=3000000010000012558&token=df101f20df101f20df101f20df101f20
+https://msj.188766.xyz/play?id=3000000010000012558&token=b7274d38b7274d38b7274d38b7274d38
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播20
-https://msj.188766.xyz/play?id=3000000010000012616&token=df102263df102263df102263df102263
+https://msj.188766.xyz/play?id=3000000010000012616&token=b727507bb727507bb727507bb727507b
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播21
-https://msj.188766.xyz/play?id=3000000010000015470&token=df1178b2df1178b2df1178b2df1178b2
+https://msj.188766.xyz/play?id=3000000010000015470&token=b728a6cab728a6cab728a6cab728a6ca
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播22
-https://msj.188766.xyz/play?id=3000000010000015560&token=df117c54df117c54df117c54df117c54
+https://msj.188766.xyz/play?id=3000000010000015560&token=b728aa6cb728aa6cb728aa6cb728aa6c
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播23
-https://msj.188766.xyz/play?id=3000000010000017678&token=df1268fadf1268fadf1268fadf1268fa
+https://msj.188766.xyz/play?id=3000000010000017678&token=b7299712b7299712b7299712b7299712
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播24
-https://msj.188766.xyz/play?id=3000000010000019839&token=df1358bfdf1358bfdf1358bfdf1358bf
+https://msj.188766.xyz/play?id=3000000010000019839&token=b72a86d7b72a86d7b72a86d7b72a86d7
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播25
-https://msj.188766.xyz/play?id=3000000010000023434&token=df1ea6fddf1ea6fddf1ea6fddf1ea6fd
+https://msj.188766.xyz/play?id=3000000010000023434&token=b735d515b735d515b735d515b735d515
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播26
-https://msj.188766.xyz/play?id=3000000010000025380&token=df1f8c91df1f8c91df1f8c91df1f8c91
+https://msj.188766.xyz/play?id=3000000010000025380&token=b736baa9b736baa9b736baa9b736baa9
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播27
-https://msj.188766.xyz/play?id=3000000010000027691&token=df2080b2df2080b2df2080b2df2080b2
+https://msj.188766.xyz/play?id=3000000010000027691&token=b737aecab737aecab737aecab737aeca
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播28
-https://msj.188766.xyz/play?id=3000000010000031669&token=df2bdda4df2bdda4df2bdda4df2bdda4
+https://msj.188766.xyz/play?id=3000000010000031669&token=b7430bbcb7430bbcb7430bbcb7430bbc
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播29
-https://msj.188766.xyz/play?id=3000000020000011518&token=73f45d0673f45d0673f45d0673f45d06
+https://msj.188766.xyz/play?id=3000000020000011518&token=4c0b8b1e4c0b8b1e4c0b8b1e4c0b8b1e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播30
-https://msj.188766.xyz/play?id=3000000020000011519&token=73f45d0773f45d0773f45d0773f45d07
+https://msj.188766.xyz/play?id=3000000020000011519&token=4c0b8b1f4c0b8b1f4c0b8b1f4c0b8b1f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播31
-https://msj.188766.xyz/play?id=3000000020000011520&token=73f45d1d73f45d1d73f45d1d73f45d1d
+https://msj.188766.xyz/play?id=3000000020000011520&token=4c0b8b354c0b8b354c0b8b354c0b8b35
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播32
-https://msj.188766.xyz/play?id=3000000020000011521&token=73f45d1e73f45d1e73f45d1e73f45d1e
+https://msj.188766.xyz/play?id=3000000020000011521&token=4c0b8b364c0b8b364c0b8b364c0b8b36
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播4k
-https://msj.188766.xyz/play?id=3000000010000005180&token=df03560ddf03560ddf03560ddf03560d
+https://msj.188766.xyz/play?id=3000000010000005180&token=b71a8425b71a8425b71a8425b71a8425
 #EXTINF:-1 group-title="赛事咪咕", 赛事至臻视界
-https://msj.188766.xyz/play?id=3000000010000015686&token=df118059df118059df118059df118059
+https://msj.188766.xyz/play?id=3000000010000015686&token=b728ae71b728ae71b728ae71b728ae71
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
@@ -580,15 +691,15 @@ http://vallest.uk/livehttpplay?channel_id=30015
 #EXTINF:-1 group-title="欣赏频道", 凤凰香港实时
 http://vallest.uk/livehttpplay?channel_id=30016
 #EXTINF:-1 group-title="欣赏频道", 中天新闻实时
-https://live.catvod.com/live.php?id=ctinews&token=abf0ceb25b6cfacfca970e4dbb00be8becb9158cfa59b1ddebeefc96c7994ce7%3A1762837665%3AMTQuMTE3LjE1My4xNA%3D%3D
+https://live.catvod.com/live.php?id=ctinews&token=a5cdf3837d63d2adebf53d0564d3d29dd890aa3946874802fad2ba82ed91cc9d%3A1763094344%3AMTQuMTE3LjE0OS4xNg%3D%3D
 #EXTINF:-1 group-title="欣赏频道", 中天新闻实时
 http://test-al-livepull.migucloud.com/live/hktv-jfhslkdjngnlkdkgjdlkgjrkltjggrtlmagztxwkks.flv
 #EXTINF:-1 group-title="欣赏频道", 有线新闻实时
-https://live.catvod.com/live.php?id=hoycaijing_twn&token=f04be5b178b7e500c321ecc5359fe27ee03de03eadf58ca0933eb75ae2e3b33e%3A1762837665%3AMTQuMTE3LjE1My4xNA%3D%3D
+http://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 group-title="欣赏频道", 有线新闻实时
 http://iptv.4666888.xyz/iptv2A.php?id=HOY78
 #EXTINF:-1 group-title="欣赏频道", 有线新闻实时
-http://hls.168.us.kg/u/78/master.m3u8
+https://live.catvod.com/live.php?id=hoycaijing_twn&token=3c01929a64e65aa2c08533dc81c22db225aa0f339b2d0a8f5175321b1b05ed7a%3A1763094344%3AMTQuMTE3LjE0OS4xNg%3D%3D
 #EXTINF:-1 group-title="欣赏频道", 无线新闻实时
 http://vallest.uk/livehttpplay?channel_id=30024
 #EXTINF:-1 group-title="欣赏频道", 有线综合实时
@@ -1076,6 +1187,16 @@ http://120.76.248.139/live/bfgd/4200000635.m3u8
 #EXTINF:-1 group-title="欣赏频道", 邵氏影院频视
 http://81.70.10.196:35455/douyu/4246519
 #新剧追更
+#EXTINF:-1 group-title="新剧追更", ⬇️凤凰台上35⬇️
+https://suo.yt/R6oJbv0
+#EXTINF:-1 group-title="新剧追更", 凤凰台上01集
+http://cjx.999315.xyz/yzzy/20251114/6452_2fcd5cf1/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 凤凰台上02集
+http://cjx.999315.xyz/yzzy/20251114/6453_a160a01c/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 凤凰台上03集
+http://cjx.999315.xyz/yzzy/20251114/6454_595373f0/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 凤凰台上04集
+http://cjx.999315.xyz/yzzy/20251114/6462_dca49d1a/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️山河枕40⬇️
 https://suo.yt/R6oJbv0
 #EXTINF:-1 group-title="新剧追更", 山河枕第01集
@@ -1134,6 +1255,14 @@ http://cjx.999315.xyz/yzzy/20251110/6049_fe45e322/index.m3u8
 http://cjx.999315.xyz/yzzy/20251111/6157_26d4b431/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 山河枕第28集
 http://cjx.999315.xyz/yzzy/20251112/22963_712711c4/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 山河枕第29集
+http://cjx.999315.xyz/yzzy/20251113/8617_4e681ae9/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 山河枕第30集
+http://cjx.999315.xyz/yzzy/20251113/8632_5c8cb735/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 山河枕第31集
+http://cjx.999315.xyz/yzzy/20251114/6443_c03afab5/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 山河枕第32集
+http://cjx.999315.xyz/yzzy/20251114/6460_5fd0245f/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️水龙吟40⬇️
 https://suo.yt/R6oJbv0
 #EXTINF:-1 group-title="新剧追更", 水龙吟第01集
@@ -1181,7 +1310,7 @@ http://cjx.999315.xyz/yzzy/20251105/7775_412decf7/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 水龙吟第22集
 http://cjx.999315.xyz/yzzy/20251106/7865_4d1a65f1/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 水龙吟第23集
-https://cdn.yzzy29-play.com/20251106/7866_1963bd51/index.m3u8
+http://cjx.999315.xyz/yzzy/20251106/7866_1963bd51/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 水龙吟第24集
 http://cjx.999315.xyz/yzzy/20251107/7972_b5507f51/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 水龙吟第25集
@@ -1198,6 +1327,24 @@ http://cjx.999315.xyz/yzzy/20251110/8336_32b683d9/index.m3u8
 http://cjx.999315.xyz/yzzy/20251111/8452_a1ada994/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 水龙吟第31集
 http://cjx.999315.xyz/yzzy/20251112/8548_832688ff/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第32集
+http://cjx.999315.xyz/yzzy/20251113/23016_5c9dc137/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第33集
+http://cjx.999315.xyz/yzzy/20251113/23017_1a3bdfab/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第34集
+http://cjx.999315.xyz/yzzy/20251114/8717_9fb2c3bd/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第35集
+http://cjx.999315.xyz/yzzy/20251114/8718_e7a561a2/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第36集
+http://cjx.999315.xyz/yzzy/20251114/8719_9b1fc5df/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第37集
+http://cjx.999315.xyz/yzzy/20251114/8720_39d6530e/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第38集
+http://cjx.999315.xyz/yzzy/20251114/23158_321f53d2/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第39集
+http://cjx.999315.xyz/yzzy/20251114/23159_089d388e/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 水龙吟第40集
+http://cjx.999315.xyz/yzzy/20251114/23160_74d14200/index.m3u8
 #特闽频晴
 #EXTINF:-1 group-title="特闽频晴", Now新闻频晴
 P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
