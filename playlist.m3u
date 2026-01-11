@@ -19,249 +19,349 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视", ➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
+#NBA赛评
+#EXTINF:-1 group-title="NBA赛评", 01-11⬇️NBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="NBA赛评", 08:00热火🆚步行者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊11咪述评
+http://rihou.cc:555/tv/11NBA咪述评
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾述评
+http://rihou.cc:555/tv/11NBA腾述评
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾嘉琦
+https://txycdn7.video.qq.com/1777208923.m3u8?time=1768089953&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIO1le953yjFH5eYl-mGvWLqeMD6jLMEWLiVNvFRFYsnwEBAgEuRoOsGEU6RSVC3G3rUBcJfajxBGRG1z1abZfd7Wcma44i1u-rtJZgPpkQw7DW7_U8v2KJJ7FT8wm7vTiq91dQSKxL799B6HMHryvJNAV79nLBjhGBxZL2LD0AAux_lYLGOdKiIzC-WysdKRaLriNb_2bdtuiWqXxxFSl1y6IkE4QGh-B1D6G2x-gIc9jpZ6W-7LdzdffEtrf4X3usIw6wEb53HoQHR47z6zq6mjWmuzYTaxpNa__BAwkxrXO4i2SrvnkKvDVYAMwg3ar7bru6Hl50vKXHTZZ9b07RuM-pG9XtF6iDEBjvf6kZXSL4Z0R9xRXan84Y-JrMAaWbqRMExJW7Y1ggDu3kpUxuCVfJZEvMyLZS5Zu6wSYTrAJPf_li1HgmMAucCubJuZJyHF8ALZl1WC9qr1a-JL7uIsZ3N4dLS34CyllBpykHCqKHH_Ar3vrDPJ3XcLOhJSmhu0_bKrFIzlpnRpxiSMZ4I0U8Fgl-Nk3s8ii2y-yt9bsOPk&drmtype=0
+#EXTINF:-1 group-title="NBA赛评", 08:30快船🆚活塞
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊11咪评评
+http://rihou.cc:555/tv/11NBA咪评评
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾评评
+http://rihou.cc:555/tv/11NBA腾评评
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾彭磊
+https://txycdn5.video.qq.com/1777209023.m3u8?time=1768091588&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgILsM-7EhK15zcdQFpGAp3Lm-fj99Vj4ph-vR7bOULl9sEOMYpqAWQx1nicrqyWKG4tEBcO9TwrUXiN82miDFpBuLSqH0D7l6rtdLI-wX9tnSB2GM-CL0q0MOPIaEhn2jbhmnwng3NgNdocsSEI0YvB70zz6c3pL0hPlH9i6MBhcnsdz7o4o3xwSp2Y4ghvJuAB5A0R0fcEnG4w6B6DcI5DrpwcnKDa27GLUHDc8iD6kfCWTIoPDq0y3mW1jICEw6n0O6ZAkCjuAYAbgSReFhZ8-1VoCdek03ll3_FAny2JTqIUYCCqhl2jsg9Q-LN7SJP_pNrB9ZMvydX2chexFTgY_KzCX3_Kc4NKTijtoYqpK0WYARyghidL7ZmbveqxNHBOclxVRDS3h8oy2Q2GHoze1YlYFCXzdLdUvMW788TSaQuByebktKAG6mhtL4W4tfeFu9sJ4bAVo_OtuGk6SRfNx9H9eh9IgcYwl51P9xkH-usa_DasZlvAh9c2XGeqUDv-sW8Jic-B24TgzFF46D8nIbUoSUdi_TaULRKRMStTP2RfdE&drmtype=0
+#EXTINF:-1 group-title="NBA赛评", 09:00马刺🆚凯尔特人
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊11咪述述
+http://rihou.cc:555/tv/11NBA咪述述
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾述述
+http://rihou.cc:555/tv/11NBA腾述述
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾兆丰
+https://mgev.188766.xyz/play?migutoken=cdbf1f6aa2f11f2637ad5d2bfd701a0c&id=VLBHG0Zq9DXOdo%2Fk72A2j%2F0APEgJP0Ips%2FJrFLRIMxbj1AXN8T%2Fp9RkfC0WTBJ9Ge5beM%2FsqUPt5xErkR8Rrah2Q1WBVIPzOQomB1ZcdK2Jp6MXGO5yoKE8rNobfA1vqo2ciiNWWM%2Fjo7M2H4CgMPk7KpJLKO0C%2F20qBK%2BjhrTl%2F9p4%2Bl0AqIna8SP%2FVugoBZ73BnPsA77Axr%2FmiIaEc%2FWwMEHICqSsxKrEeijz82uJcMnSChy9uvf2mEERBRaWi1e0Lq7O32n4DfuAfXUrCar%2FZ0eQ2rYn%2BwYLL0EjWLbs1Ru6iNFhmuL7K4jTRKF2LB8dQDj78k6JQSdc5pP4nTg%3D%3D&name=efmhUclfcyDkZKi5PYYKo2px7zYXsjP7Z3cl4IWzIyhJEM0ufJ0GkPl4HA9os879ZE9jQ5D2q%2B5ov%2BcksZZN3g9N48%2B28dC2maDrOb7sqls%3D
+#EXTINF:-1 group-title="NBA赛评", 09:00公牛🆚独行侠
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊11咪旁述
+http://rihou.cc:555/tv/11NBA咪旁述
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾旁述
+http://rihou.cc:555/tv/11NBA腾旁述
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾子星
+https://mgev.188766.xyz/play?migutoken=e841f8b8a5a2b2d195566a09c17e431e&id=4eShZWKBjdGVH8SsLJHGkax2USGvscMXrTe2zwxiwM%2FDFahaXVZszLrxsxjNS8QwtNgnqGUoYOvPBT0qRW7AQT8cU0oc9RTlAz6VlAp8jDLBKAXkGUmD4037cAKpVun3eJ3Xt0%2BgAnEUBg3hNMkRAivqoGpRsn6PDE5WmSHcSK5Y8OAHIAejIhpkJRvE56l%2BCDI1M15PVwLFKHAv2inWjlpy4z%2Bf75CwIHfOoViylZAXRSdpBkSGTAM6fenxrFOjXMwqys02FgbSaEOJYmToUHETtrKCRGioL%2F8my83ecm9r9GyvGn7CxZpr8rAqedQrz7ZWidfUh%2BQvY1WWW6a4Jw%3D%3D&name=brrVSp7ENdlSHiy5wLTRLY3AjPZVAakwdUTwE42nursWeKWxsxlzKNfD3CyuYlS1FEM4HvgSTkq6P4ea46zUmYppP4OiwhfwQgxQldhp5uQ%3D
+#EXTINF:-1 group-title="NBA赛评", 10:30黄蜂🆚爵士
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊11咪述旁
+http://rihou.cc:555/tv/11NBA咪述旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾述旁
+http://rihou.cc:555/tv/11NBA腾述旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊11腾德昕
+https://mgev.188766.xyz/play?migutoken=5fe7bb13bcb03f4d911dacfb180e4de1&id=gzKALd%2B63K61dhTAYa%2BW%2B00EychfEJHm2KUWi5uJ77VmJK%2FWqyDlYlpJOT2kXbqt1chh4qFsyK%2BJG%2B24EXm0C74%2FCj3b6TOdizjPLaQcXilo6Yr5XmSh8O1o5FMhfCrSEto10Nzuq%2BZAGtRR5e9Xpj87Qzsm7jLqkekuSjNt5nueUBqOOJ1noOavi6Sf0uLZVVVqtE4K%2BbmdmaCdvpSVISlf2YxM60q5uib8dsbLSMaDJ6ZQ%2BiOD3VqAKymWjV6PjrOqCEooyF7GV5%2FLgcVj4ixvmohzsXJ81iLfA8mXjAFXAR%2BtcaCnwG54yj4lwFR%2FfklzAlkd75V8ME%2BXUhj01w%3D%3D&name=Z5nF1TrFeQVFxOzpDIKrv0LLrI02zlWHr6BMsZF%2BbFiyXYThNhGnb2dDHuUciaY1YVuSkdXnGFXHKKhqG%2BtijuQKZnA9OSR0TJo7V33RLSM%3D
+#EXTINF:-1 group-title="NBA赛评", 01-12⬇️NBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="NBA赛评", 04:00鹈鹕🆚魔术
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪评述
+http://rihou.cc:555/tv/12NBA咪评述
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾评述
+http://rihou.cc:555/tv/12NBA腾评述
+#EXTINF:-1 group-title="NBA赛评", 04:30篮网🆚灰熊
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪述评
+http://rihou.cc:555/tv/12NBA咪述评
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾述评
+http://rihou.cc:555/tv/12NBA腾述评
+#EXTINF:-1 group-title="NBA赛评", 07:00猛龙🆚76人
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪评评
+http://rihou.cc:555/tv/12NBA咪评评
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾评评
+http://rihou.cc:555/tv/12NBA腾评评
+#EXTINF:-1 group-title="NBA赛评", 07:00尼克斯🆚开拓者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪述述
+http://rihou.cc:555/tv/12NBA咪述述
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾述述
+http://rihou.cc:555/tv/12NBA腾述述
+#EXTINF:-1 group-title="NBA赛评", 08:00热火🆚雷霆
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪旁述
+http://rihou.cc:555/tv/12NBA咪旁述
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾旁述
+http://rihou.cc:555/tv/12NBA腾旁述
+#EXTINF:-1 group-title="NBA赛评", 08:00马刺🆚木狼
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪述旁
+http://rihou.cc:555/tv/12NBA咪述旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾述旁
+http://rihou.cc:555/tv/12NBA腾述旁
+#EXTINF:-1 group-title="NBA赛评", 09:00雄鹿🆚掘金
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪旁旁
+http://rihou.cc:555/tv/12NBA咪旁旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾旁旁
+http://rihou.cc:555/tv/12NBA腾旁旁
+#EXTINF:-1 group-title="NBA赛评", 09:00奇才🆚太阳
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪旁评
+http://rihou.cc:555/tv/12NBA咪旁评
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾旁评
+http://rihou.cc:555/tv/12NBA腾旁评
+#EXTINF:-1 group-title="NBA赛评", 09:30老鹰🆚勇士
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪评旁
+http://rihou.cc:555/tv/12NBA咪评旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾评旁
+http://rihou.cc:555/tv/12NBA腾评旁
+#EXTINF:-1 group-title="NBA赛评", 10:00火箭🆚国王
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊12咪解评
+http://rihou.cc:555/tv/12NBA咪解评
+#EXTINF:-1 group-title="NBA赛评", 国🔊12腾解评
+http://rihou.cc:555/tv/12NBA腾解评
+#渝超赛评
+#EXTINF:-1 group-title="渝超赛评", 01-11⬇️重庆城市足球超级联赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="渝超赛评", 15:00南岸万和医药队🆚沙坪坝陈昌银队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="渝超赛评", 国🔊11咪评述
+http://rihou.cc:555/tv/11渝超咪评述
+#EXTINF:-1 group-title="渝超赛评", 15:00九龙蠢源熊猫队🆚巴南生物城队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="渝超赛评", 国🔊11咪述评
+http://rihou.cc:555/tv/11渝超咪述评
+#EXTINF:-1 group-title="渝超赛评", 15:00两江深蓝汽车队🆚科学城高芯猛虎队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="渝超赛评", 国🔊11咪评评
+http://rihou.cc:555/tv/11渝超咪评评
+#EXTINF:-1 group-title="渝超赛评", 15:00大渡口馨田战队🆚北碚缙云鼎久队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="渝超赛评", 国🔊11咪述述
+http://rihou.cc:555/tv/11渝超咪述述
+#EXTINF:-1 group-title="渝超赛评", 15:00开州汉丰湖队🆚奉节诗橙队
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="渝超赛评", 国🔊11咪旁述
+http://rihou.cc:555/tv/11渝超咪旁述
+#CBA赛评
+#EXTINF:-1 group-title="CBA赛评", 01-11⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评", 19:35广东阳光🆚辽宁本钢
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 粤🔊丁伟杰述
+http://rihou.cc:555/tv/11CBA丁伟杰
+#EXTINF:-1 group-title="CBA赛评", 粤🔊广东体育
+http://rihou.cc:555/tv/[Cx]广东体育
+#EXTINF:-1 group-title="CBA赛评", 国🔊11抖评述
+http://rihou.cc:555/tv/11CBA抖评述
+#EXTINF:-1 group-title="CBA赛评", 19:35长白山恩🆚青岛崂山
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 国🔊11抖述评
+http://rihou.cc:555/tv/11CBA抖述评
+#EXTINF:-1 group-title="CBA赛评", 19:35山东高速🆚南京天蓝
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 国🔊11抖评评
+http://rihou.cc:555/tv/11CBA抖评评
+#EXTINF:-1 group-title="CBA赛评", 19:35上海久事🆚山西汾酒
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 国🔊11抖述述
+http://rihou.cc:555/tv/11CBA抖述述
+#EXTINF:-1 group-title="CBA赛评", 19:35深圳马可🆚北京北汽
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 国🔊11抖旁述
+http://rihou.cc:555/tv/11CBA抖旁述
+#EXTINF:-1 group-title="CBA赛评", 19:35宁波町渥🆚浙江方兴
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 国🔊11抖述旁
+http://rihou.cc:555/tv/11CBA抖述旁
+#EXTINF:-1 group-title="CBA赛评", 20:00新疆伊力🆚江苏肯帝
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 国🔊11抖旁旁
+http://rihou.cc:555/tv/11CBA抖旁旁
+#EXTINF:-1 group-title="CBA赛评", 01-12⬇️CBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="CBA赛评", 19:35广州朗肽🆚天津行者
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 粤'🔊丁伟杰述
+http://rihou.cc:555/tv/12CBA丁伟杰
+#EXTINF:-1 group-title="CBA赛评", 粤'🔊广东体育
+http://rihou.cc:555/tv/[Cx]广东体育
+#EXTINF:-1 group-title="CBA赛评", 国🔊12抖评述
+http://rihou.cc:555/tv/12CBA抖评述
+#EXTINF:-1 group-title="CBA赛评", 19:35北京控股🆚福建晋江
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 国🔊12抖述评
+http://rihou.cc:555/tv/12CBA抖述评
+#EXTINF:-1 group-title="CBA赛评", 19:35浙江稠州🆚四川丰谷
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="CBA赛评", 国🔊12抖评评
+http://rihou.cc:555/tv/12CBA抖评评
+#WCBA赛
+#EXTINF:-1 group-title="WCBA赛", 01-11⬇️WCBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="WCBA赛", 19:30江西赣星🆚辽宁大连体产
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="WCBA赛", 国🔊11咪评述
+http://rihou.cc:555/tv/11WCBA咪评述
+#EXTINF:-1 group-title="WCBA赛", 19:30新疆天山🆚石家庄英励
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="WCBA赛", 国🔊11咪述评
+http://rihou.cc:555/tv/11WCBA咪述评
+#EXTINF:-1 group-title="WCBA赛", 19:30合肥文旅🆚河南豫光金铅
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="WCBA赛", 国🔊11咪评评
+http://rihou.cc:555/tv/11WCBA咪评评
+#EXTINF:-1 group-title="WCBA赛", 01-12⬇️WCBA常规赛⬇️🏀📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="WCBA赛", 19:30上海浦发银行🆚北京首钢园
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="WCBA赛", 国🔊12咪评述
+http://rihou.cc:555/tv/12WCBA咪评述
+#EXTINF:-1 group-title="WCBA赛", 19:30四川蜀道远达🆚浙江稠州银行
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="WCBA赛", 国🔊12咪述评
+http://rihou.cc:555/tv/12WCBA咪述评
+#EXTINF:-1 group-title="WCBA赛", 19:30武汉盛帆黄鹤🆚江苏南钢
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="WCBA赛", 国🔊12咪评评
+http://rihou.cc:555/tv/12WCBA咪评评
+#EXTINF:-1 group-title="WCBA赛", 19:30陕西榆林天泽🆚山西竹叶青酒
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="WCBA赛", 国🔊12咪述述
+http://rihou.cc:555/tv/12WCBA咪述述
+#EXTINF:-1 group-title="WCBA赛", 19:30山东赤水河酒🆚东莞新彤盛
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="WCBA赛", 国🔊12咪旁述
+http://rihou.cc:555/tv/12WCBA咪旁述
+#亚杯赛评
+#EXTINF:-1 group-title="亚杯赛评", 01-11⬇️U23亚洲杯小组赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="亚杯赛评", 19:30中国U23🆚澳大利亚U23
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="亚杯赛评", 国🔊11咪评述
+http://rihou.cc:555/tv/11亚杯咪评述
+#EXTINF:-1 group-title="亚杯赛评", 01-14⬇️U23亚洲杯小组赛⬇️⚽📡
+http://rihou.cc:555/tv/t
+#EXTINF:-1 group-title="亚杯赛评", 19:30中国U23🆚泰国U23
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="亚杯赛评", 国🔊14咪评述
+http://rihou.cc:555/tv/14亚杯咪评述
 #赛事精锦
 #EXTINF:-1 group-title="赛事精锦", ⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦", 联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛09
+http://rihou.cc:555/tv/联赛回放赛11
 #EXTINF:-1 group-title="赛事精锦", NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛09
+http://rihou.cc:555/tv/NBA回放赛11
 #EXTINF:-1 group-title="赛事精锦", 羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛09
+http://rihou.cc:555/tv/羽球回放赛11
 #EXTINF:-1 group-title="赛事精锦", 橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛09
+http://rihou.cc:555/tv/橄球回放赛11
 #EXTINF:-1 group-title="赛事精锦", 乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛09
+http://rihou.cc:555/tv/乒球回放赛11
 #EXTINF:-1 group-title="赛事精锦", 网球赛事回放
-http://rihou.cc:555/tv/网球回放赛09
+http://rihou.cc:555/tv/网球回放赛11
 #EXTINF:-1 group-title="赛事精锦", 排球赛事回放
-http://rihou.cc:555/tv/排球回放赛09
+http://rihou.cc:555/tv/排球回放赛11
 #EXTINF:-1 group-title="赛事精锦", 格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛09
+http://rihou.cc:555/tv/格斗回放赛11
 #EXTINF:-1 group-title="赛事精锦", 斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛09
-#NBA赛评
-#EXTINF:-1 group-title="NBA赛评", 01-09⬇️NBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评", 08:00黄蜂🆚步行者
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊09咪评述
-http://rihou.cc:555/tv/09NBA咪评述
-#EXTINF:-1 group-title="NBA赛评", 国🔊09腾评述
-http://rihou.cc:555/tv/09NBA腾评述
-#EXTINF:-1 group-title="NBA赛评", 国🔊09腾浩霆
-https://mgev.188766.xyz/play?migutoken=dd70b47d7cd6eae75d0a94a08dc87a89&id=wKHhbUg7xnzx%2B2MX0VGJGJYtNvtwPe%2FmCdDujzSi%2FezRGx7%2FeF9%2BdsvIoIkTmgCfzWIzPeTB4M7XDuKNLBT2UPMcy2B1LKEpS9y5yWxdgfDfY5EuCYnLbGGKTHVfPvTDpCw1ZIJ4rrCYsdK6XPIuFXYxwAqgLKIiSGAm%2FMfid1kSx%2B5ScZLaqt6ciUJboBaqKabdI8WqcAuCkhpu6bIQ3PKtSlOect5frxxLHzhZWXqSfuGjqcXL0hit8rIKL0HqQ68U1p9fG8lCXk3dFSrqoEfPYYx0FOeEpoxOeuB3kAgR1u8gTBVTvOjFnZw%2BtBUNumefzGvqcSV30c2kt4zirQ%3D%3D&name=ZOL6B2OKqpRnDh99PYDwqvDkaoKCEr39SaS2ylGRVWFiyGDEbDlUALdbglXzlrKROXOMFJGaQbI29qScY%2FkqZ2CymOTG%2FRPjelbZhWxGho0%3D
-#EXTINF:-1 group-title="NBA赛评", 09:00热火🆚公牛
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊09咪述评
-http://rihou.cc:555/tv/09NBA咪述评
-#EXTINF:-1 group-title="NBA赛评", 国🔊09腾述评
-http://rihou.cc:555/tv/09NBA腾述评
-#EXTINF:-1 group-title="NBA赛评", 国🔊09腾子星
-https://mgev.188766.xyz/play?migutoken=048694816876290bb3093ee665bccd03&id=N573fy2V31kP%2FPQBMz3HkmpADrNYr9AwpzpGfd3uBOvx4cIQCE32RGcwnvnseXwSABAwhaIKVz01IcDo7VmaVt87jo4T3u53Ajg1UoOEqxpwBWva3BCy%2F7p7f8dEwCz125xtVhpYAl7X%2Fk05k15dNF38d5D%2BH0DMH0IbF7ukwtD7FzQPTbRwQBOcaNHgqNzotoJaC%2FCsNYR4X6FX3DWlxpptWVl9gCFpcK%2FLgfX%2Bu%2BRixa41dkEPqDwdxDI1FkXcEYqna1vPkTFCdx2PZjJ3Nj7k4WR1hLp9j9YJKTdCkrKgRmNI8fM%2F0wPi%2B9IIHflM7eM72L8NzQyFlZY%2F2Zxouw%3D%3D&name=w%2BoB2fY96Gzo9B5ax%2FtIv5cVCXqbw3IMsqd83t3QZy8yzcXeDw4T%2B%2BIVa7pIQcs5dxfXAwfqaMJ0LoOnIF21aHU3nxuxgJ3qQjYYeba8d%2BM%3D
-#EXTINF:-1 group-title="NBA赛评", 09:00骑士🆚木狼
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊09咪评评
-http://rihou.cc:555/tv/09NBA咪评评
-#EXTINF:-1 group-title="NBA赛评", 国🔊09腾评评
-http://rihou.cc:555/tv/09NBA腾评评
-#EXTINF:-1 group-title="NBA赛评", 国🔊09腾段冉
-https://mgev.188766.xyz/play?migutoken=930370cb0ef591e1dcab05f031864ceb&id=ERldEBY2ybjBrNgZKvvwv68HJ5P1lzPkZ24id7ewpzz%2FVaQDUc58u7ll%2FZq8XHYFzlVSYnRfbB%2FQXobH5rCL4Qa%2FsJLj129F3lcGTP5shQ6JM3O5Dz0kyEurOLVfcm6CuSaH74SlZDf%2FVWymGASoLWBNWcX6ilnO8I8YBixxqmQnt65TiXnx0UF4brmFNFNg2nLl3lCnOfFsGyAHouQylYosngzzJqGMpDrC%2BW9SjvWq4EH83TFz1dkHDXeDB%2B3yrxrrb72cHSUfp8lWteQGPNjtRSQ7dMP76AZ4ELUvMVny%2FIdLCb0vvbKD3ZImFoojOkYNKdrIg76QDT5LZ7Tyww%3D%3D&name=ML%2BVbvlihd1iVpo3vsMhXLGEZTX%2F2ZPYWJ5mELZrPYvJ3Mnrs5f0lzMQHPCb0S%2B7WcZBa5iv2gjZrPg9Lpur2h8TRFjMOlRjqszxj4d9yuD1n%2FvjM3iVGa5yBxDytvVn
-#EXTINF:-1 group-title="NBA赛评", 10:00爵士🆚独行侠
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊09咪述述
-http://rihou.cc:555/tv/09NBA咪述述
-#EXTINF:-1 group-title="NBA赛评", 国🔊09腾述述
-http://rihou.cc:555/tv/09NBA腾述述
-#EXTINF:-1 group-title="NBA赛评", 国🔊09腾祥宇
-https://mgev.188766.xyz/play?migutoken=0f8ccfa00bfdc9a428fc8527ff14bb8c&id=PH86ES2325B%2BMftQt%2FzXR%2B%2Bk9EyFrYDDpIDBDe9gzp6J43xGXqYgRRsnopuhUMQ890OSm%2Fu3SsgCJj%2Bd4SbzQAHIdjIt0qYZid80HW%2BJK4bArq%2BXn%2BW1zA8%2BItGTED1jPVQGC0LBfrOxj7K0OJCoMu6na6ZIzL2IGCRsFpqz9Gl3Indbm1tCq0Px5xpZ91OFbI8TqltRHWOaqe41xtpsoZZrwmsPt8xnzg1TsexknQHMx3BZrUuzxzjqwrVem5s3Z0CZIbf5gvGoojLrzY3tmEGj%2BZr1fdyfjuhPvdr8VRY5YnnGfp71VsMZVEKHLGL8aELiRHB9d0msDx9iqDIE5w%3D%3D&name=Hco68ZQu7qZ6S2NwTRReB%2BpFEQ2oaCK8jfLber5vc0Uc2tj5apdeaoGksG18vX03pgX3DIPC%2FsW95p2xNo0DVxhKN4BRdOM%2B4afJ%2FIXH%2BXU%3D
-#EXTINF:-1 group-title="NBA赛评", 01-10⬇️NBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评", 08:00魔术🆚76人
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪评述
-http://rihou.cc:555/tv/10NBA咪评述
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾评述
-http://rihou.cc:555/tv/10NBA腾评述
-#EXTINF:-1 group-title="NBA赛评", 08:00猛龙🆚凯尔特人
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪述评
-http://rihou.cc:555/tv/10NBA咪述评
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾述评
-http://rihou.cc:555/tv/10NBA腾述评
-#EXTINF:-1 group-title="NBA赛评", 08:00鹈鹕🆚奇才
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪评评
-http://rihou.cc:555/tv/10NBA咪评评
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾评评
-http://rihou.cc:555/tv/10NBA腾评评
-#EXTINF:-1 group-title="NBA赛评", 08:30快船🆚篮网
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪述述
-http://rihou.cc:555/tv/10NBA咪述述
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾述述
-http://rihou.cc:555/tv/10NBA腾述述
-#EXTINF:-1 group-title="NBA赛评", 09:00雷霆🆚灰熊
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪旁述
-http://rihou.cc:555/tv/10NBA咪旁述
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾旁述
-http://rihou.cc:555/tv/10NBA腾旁述
-#EXTINF:-1 group-title="NBA赛评", 10:00老鹰🆚掘金
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪述旁
-http://rihou.cc:555/tv/10NBA咪述旁
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾述旁
-http://rihou.cc:555/tv/10NBA腾述旁
-#EXTINF:-1 group-title="NBA赛评", 10:00太阳🆚尼克斯
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪旁旁
-http://rihou.cc:555/tv/10NBA咪旁旁
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾旁旁
-http://rihou.cc:555/tv/10NBA腾旁旁
-#EXTINF:-1 group-title="NBA赛评", 11:00国王🆚勇士
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪旁评
-http://rihou.cc:555/tv/10NBA咪旁评
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾旁评
-http://rihou.cc:555/tv/10NBA腾旁评
-#EXTINF:-1 group-title="NBA赛评", 11:00火箭🆚开拓者
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪评旁
-http://rihou.cc:555/tv/10NBA咪评旁
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾评旁
-http://rihou.cc:555/tv/10NBA腾评旁
-#EXTINF:-1 group-title="NBA赛评", 11:30雄鹿🆚湖人
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊10咪解评
-http://rihou.cc:555/tv/10NBA咪解评
-#EXTINF:-1 group-title="NBA赛评", 国🔊10腾解评
-http://rihou.cc:555/tv/10NBA腾解评
-#CBA赛评
-#EXTINF:-1 group-title="CBA赛评", 01-09⬇️CBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评", 19:35宁波町渥🆚南京天蓝
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊09抖评述
-http://rihou.cc:555/tv/09CBA抖评述
-#EXTINF:-1 group-title="CBA赛评", 19:35江苏肯帝🆚辽宁本钢
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊09抖述评
-http://rihou.cc:555/tv/09CBA抖述评
-#EXTINF:-1 group-title="CBA赛评", 19:35北京北汽🆚山东高速
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊09抖评评
-http://rihou.cc:555/tv/09CBA抖评评
-#EXTINF:-1 group-title="CBA赛评", 19:35浙江方兴🆚新疆伊力
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊09抖述述
-http://rihou.cc:555/tv/09CBA抖述述
-#WCBA赛
-#EXTINF:-1 group-title="WCBA赛", 01-09⬇️WCBA常规赛⬇️🏀📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="WCBA赛", 19:30山西竹叶青酒🆚新疆天山
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊09咪评述
-http://rihou.cc:555/tv/09WCBA咪评述
-#EXTINF:-1 group-title="WCBA赛", 19:30武汉盛帆黄鹤🆚石家庄英励
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊09咪述评
-http://rihou.cc:555/tv/09WCBA咪述评
-#EXTINF:-1 group-title="WCBA赛", 19:30浙江稠州银行🆚东莞新彤盛
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊09咪评评
-http://rihou.cc:555/tv/09WCBA咪评评
+http://rihou.cc:555/tv/斯赛回放赛11
 #赛事咪咕
 #EXTINF:-1 group-title="赛事咪咕", 抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
-https://msj.188766.xyz/play?id=3000000020000011528&token=054fd3e1054fd3e1054fd3e1054fd3e1
+https://msj.188766.xyz/play?id=3000000020000011528&token=6052b9a46052b9a46052b9a46052b9a4
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩篮球
-https://msj.188766.xyz/play?id=3000000020000011529&token=054fd3e2054fd3e2054fd3e2054fd3e2
+https://msj.188766.xyz/play?id=3000000020000011529&token=6052b9a56052b9a56052b9a56052b9a5
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩青少
-https://msj.188766.xyz/play?id=3000000020000011525&token=054fd3de054fd3de054fd3de054fd3de
+https://msj.188766.xyz/play?id=3000000020000011525&token=6052b9a16052b9a16052b9a16052b9a1
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩广场
-https://msj.188766.xyz/play?id=3000000020000011523&token=054fd3dc054fd3dc054fd3dc054fd3dc
+https://msj.188766.xyz/play?id=3000000020000011523&token=6052b99f6052b99f6052b99f6052b99f
 #EXTINF:-1 group-title="赛事咪咕", 军事国防央七
-https://msj.188766.xyz/play?id=3000000010000011518&token=706b2101706b2101706b2101706b2101
+https://msj.188766.xyz/play?id=3000000010000011518&token=cb6e06c4cb6e06c4cb6e06c4cb6e06c4
 #EXTINF:-1 group-title="赛事咪咕", 军事国防央七
-https://msj.188766.xyz/play?id=3000000020000011522&token=054fd3db054fd3db054fd3db054fd3db
+https://msj.188766.xyz/play?id=3000000020000011522&token=6052b99e6052b99e6052b99e6052b99e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播01
-https://msj.188766.xyz/play?id=3000000001000005308&token=cfc391b9cfc391b9cfc391b9cfc391b9
+https://msj.188766.xyz/play?id=3000000001000005308&token=2ac6777c2ac6777c2ac6777c2ac6777c
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播02
-https://msj.188766.xyz/play?id=3000000001000005969&token=cfc3a8facfc3a8facfc3a8facfc3a8fa
+https://msj.188766.xyz/play?id=3000000001000005969&token=2ac68ebd2ac68ebd2ac68ebd2ac68ebd
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播03
-https://msj.188766.xyz/play?id=3000000001000007218&token=cfc476d5cfc476d5cfc476d5cfc476d5
+https://msj.188766.xyz/play?id=3000000001000007218&token=2ac75c982ac75c982ac75c982ac75c98
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播04
-https://msj.188766.xyz/play?id=3000000001000008001&token=cfc4e38ccfc4e38ccfc4e38ccfc4e38c
+https://msj.188766.xyz/play?id=3000000001000008001&token=2ac7c94f2ac7c94f2ac7c94f2ac7c94f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播05
-https://msj.188766.xyz/play?id=3000000001000008176&token=cfc4e82bcfc4e82bcfc4e82bcfc4e82b
+https://msj.188766.xyz/play?id=3000000001000008176&token=2ac7cdee2ac7cdee2ac7cdee2ac7cdee
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播06
-https://msj.188766.xyz/play?id=3000000001000008379&token=cfc4efb0cfc4efb0cfc4efb0cfc4efb0
+https://msj.188766.xyz/play?id=3000000001000008379&token=2ac7d5732ac7d5732ac7d5732ac7d573
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播07
-https://msj.188766.xyz/play?id=3000000001000010129&token=cfcf5c1ccfcf5c1ccfcf5c1ccfcf5c1c
+https://msj.188766.xyz/play?id=3000000001000010129&token=2ad241df2ad241df2ad241df2ad241df
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播08
-https://msj.188766.xyz/play?id=3000000001000010948&token=cfcf7a61cfcf7a61cfcf7a61cfcf7a61
+https://msj.188766.xyz/play?id=3000000001000010948&token=2ad260242ad260242ad260242ad26024
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播09
-https://msj.188766.xyz/play?id=3000000001000028638&token=cfe12978cfe12978cfe12978cfe12978
+https://msj.188766.xyz/play?id=3000000001000028638&token=2ae40f3b2ae40f3b2ae40f3b2ae40f3b
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播10
-https://msj.188766.xyz/play?id=3000000001000031494&token=cfec0b94cfec0b94cfec0b94cfec0b94
+https://msj.188766.xyz/play?id=3000000001000031494&token=2aeef1572aeef1572aeef1572aeef157
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播11
-https://msj.188766.xyz/play?id=3000000010000000097&token=705c8353705c8353705c8353705c8353
+https://msj.188766.xyz/play?id=3000000010000000097&token=cb5f6916cb5f6916cb5f6916cb5f6916
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播12
-https://msj.188766.xyz/play?id=3000000010000002019&token=705d6b1b705d6b1b705d6b1b705d6b1b
+https://msj.188766.xyz/play?id=3000000010000002019&token=cb6050decb6050decb6050decb6050de
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播13
-https://msj.188766.xyz/play?id=3000000010000002809&token=705d8904705d8904705d8904705d8904
+https://msj.188766.xyz/play?id=3000000010000002809&token=cb606ec7cb606ec7cb606ec7cb606ec7
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播14
-https://msj.188766.xyz/play?id=3000000010000003915&token=705e013f705e013f705e013f705e013f
+https://msj.188766.xyz/play?id=3000000010000003915&token=cb60e702cb60e702cb60e702cb60e702
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播15
-https://msj.188766.xyz/play?id=3000000010000004193&token=705e588c705e588c705e588c705e588c
+https://msj.188766.xyz/play?id=3000000010000004193&token=cb613e4fcb613e4fcb613e4fcb613e4f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播16
-https://msj.188766.xyz/play?id=3000000010000005837&token=705ee67c705ee67c705ee67c705ee67c
+https://msj.188766.xyz/play?id=3000000010000005837&token=cb61cc3fcb61cc3fcb61cc3fcb61cc3f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播17
-https://msj.188766.xyz/play?id=3000000010000006077&token=705f3d4f705f3d4f705f3d4f705f3d4f
+https://msj.188766.xyz/play?id=3000000010000006077&token=cb622312cb622312cb622312cb622312
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播18
-https://msj.188766.xyz/play?id=3000000010000006658&token=705f5398705f5398705f5398705f5398
+https://msj.188766.xyz/play?id=3000000010000006658&token=cb62395bcb62395bcb62395bcb62395b
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播19
-https://msj.188766.xyz/play?id=3000000010000009788&token=7060b4d37060b4d37060b4d37060b4d3
+https://msj.188766.xyz/play?id=3000000010000009788&token=cb639a96cb639a96cb639a96cb639a96
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播20
-https://msj.188766.xyz/play?id=3000000010000010833&token=706ab81e706ab81e706ab81e706ab81e
+https://msj.188766.xyz/play?id=3000000010000010833&token=cb6d9de1cb6d9de1cb6d9de1cb6d9de1
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播21
-https://msj.188766.xyz/play?id=3000000010000011297&token=706b16b5706b16b5706b16b5706b16b5
+https://msj.188766.xyz/play?id=3000000010000011297&token=cb6dfc78cb6dfc78cb6dfc78cb6dfc78
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播22
-https://msj.188766.xyz/play?id=3000000010000012558&token=706b95dc706b95dc706b95dc706b95dc
+https://msj.188766.xyz/play?id=3000000010000012558&token=cb6e7b9fcb6e7b9fcb6e7b9fcb6e7b9f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播23
-https://msj.188766.xyz/play?id=3000000010000012616&token=706b991f706b991f706b991f706b991f
+https://msj.188766.xyz/play?id=3000000010000012616&token=cb6e7ee2cb6e7ee2cb6e7ee2cb6e7ee2
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播24
-https://msj.188766.xyz/play?id=3000000010000015470&token=706cef6e706cef6e706cef6e706cef6e
+https://msj.188766.xyz/play?id=3000000010000015470&token=cb6fd531cb6fd531cb6fd531cb6fd531
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播25
-https://msj.188766.xyz/play?id=3000000010000015560&token=706cf310706cf310706cf310706cf310
+https://msj.188766.xyz/play?id=3000000010000015560&token=cb6fd8d3cb6fd8d3cb6fd8d3cb6fd8d3
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播26
-https://msj.188766.xyz/play?id=3000000010000017678&token=706ddfb6706ddfb6706ddfb6706ddfb6
+https://msj.188766.xyz/play?id=3000000010000017678&token=cb70c579cb70c579cb70c579cb70c579
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播27
-https://msj.188766.xyz/play?id=3000000010000019839&token=706ecf7b706ecf7b706ecf7b706ecf7b
+https://msj.188766.xyz/play?id=3000000010000019839&token=cb71b53ecb71b53ecb71b53ecb71b53e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播28
-https://msj.188766.xyz/play?id=3000000010000021904&token=70794763707947637079476370794763
+https://msj.188766.xyz/play?id=3000000010000021904&token=cb7c2d26cb7c2d26cb7c2d26cb7c2d26
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播29
-https://msj.188766.xyz/play?id=3000000010000023434&token=707a1db9707a1db9707a1db9707a1db9
+https://msj.188766.xyz/play?id=3000000010000023434&token=cb7d037ccb7d037ccb7d037ccb7d037c
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播30
-https://msj.188766.xyz/play?id=3000000010000025380&token=707b034d707b034d707b034d707b034d
+https://msj.188766.xyz/play?id=3000000010000025380&token=cb7de910cb7de910cb7de910cb7de910
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播31
-https://msj.188766.xyz/play?id=3000000010000027691&token=707bf76e707bf76e707bf76e707bf76e
+https://msj.188766.xyz/play?id=3000000010000027691&token=cb7edd31cb7edd31cb7edd31cb7edd31
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播32
-https://msj.188766.xyz/play?id=3000000010000031669&token=70875460708754607087546070875460
+https://msj.188766.xyz/play?id=3000000010000031669&token=cb8a3a23cb8a3a23cb8a3a23cb8a3a23
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播33
-https://msj.188766.xyz/play?id=3000000020000011518&token=054fd3c2054fd3c2054fd3c2054fd3c2
+https://msj.188766.xyz/play?id=3000000020000011518&token=6052b9856052b9856052b9856052b985
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播34
-https://msj.188766.xyz/play?id=3000000020000011519&token=054fd3c3054fd3c3054fd3c3054fd3c3
+https://msj.188766.xyz/play?id=3000000020000011519&token=6052b9866052b9866052b9866052b986
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播35
-https://msj.188766.xyz/play?id=3000000020000011520&token=054fd3d9054fd3d9054fd3d9054fd3d9
+https://msj.188766.xyz/play?id=3000000020000011520&token=6052b99c6052b99c6052b99c6052b99c
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播36
-https://msj.188766.xyz/play?id=3000000020000011521&token=054fd3da054fd3da054fd3da054fd3da
+https://msj.188766.xyz/play?id=3000000020000011521&token=6052b99d6052b99d6052b99d6052b99d
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播4k
-https://msj.188766.xyz/play?id=3000000010000005180&token=705eccc9705eccc9705eccc9705eccc9
+https://msj.188766.xyz/play?id=3000000010000005180&token=cb61b28ccb61b28ccb61b28ccb61b28c
 #EXTINF:-1 group-title="赛事咪咕", 赛事至臻视界
-https://msj.188766.xyz/play?id=3000000010000015686&token=706cf715706cf715706cf715706cf715
+https://msj.188766.xyz/play?id=3000000010000015686&token=cb6fdcd8cb6fdcd8cb6fdcd8cb6fdcd8
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
 http://rihou.cc:555/tv/[mg]睛彩竞技
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
@@ -687,29 +787,27 @@ http://t.061899.xyz/tl/tl.php?id=nmgws
 http://t.061899.xyz/tl/tl.php?id=hljws
 #欣赏频道
 #EXTINF:-1 group-title="欣赏频道", 粤语戏曲欣赏
+http://rihou.cc:555/tv/[Hk]粤语戏曲
+#EXTINF:-1 group-title="欣赏频道", 粤语戏曲欣赏
 http://tl.061833.xyz/tl/null-15
 #EXTINF:-1 group-title="欣赏频道", 粤语长片欣赏
+http://rihou.cc:555/tv/[Hk]粤语长片
+#EXTINF:-1 group-title="欣赏频道", 粤语长片欣赏
 http://tl.061833.xyz/tl/null-10
-#EXTINF:-1 group-title="欣赏频道", ⬇️万辉颁奖⬇️
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="欣赏频道", 万辉颁奖典礼
-http://rihou.cc:555/tv/[mv]颁奖典礼
-#EXTINF:-1 group-title="欣赏频道", 万辉礼红地毯
-http://rihou.cc:555/tv/[mv]礼红地毯
 #EXTINF:-1 group-title="欣赏频道", ⬇️特闽新闻⬇️
-video://http://rihou.cc:555/tv/m
-#EXTINF:-1 group-title="欣赏频道", 有线新闻欣赏
-http://rihou.cc:555/tv/[Hk]有线新闻
+video://http://rihou.cc:555/tv/mu10
 #EXTINF:-1 group-title="欣赏频道", 有线新闻欣赏
 http://rihou.cc:555/tv/[Mt]有线新闻
 #EXTINF:-1 group-title="欣赏频道", 有线新闻欣赏
+http://rihou.cc:555/tv/[Hk]有线新闻
+#EXTINF:-1 group-title="欣赏频道", 有线新闻欣赏
 http://rihou.cc:555/tv/[FY]有线新闻
-#EXTINF:-1 group-title="欣赏频道", 无线新闻欣赏
-http://rihou.cc:555/tv/[Hk]无线新闻
 #EXTINF:-1 group-title="欣赏频道", 无线新闻欣赏
 http://rihou.cc:555/tv/[Pd]无线新闻
 #EXTINF:-1 group-title="欣赏频道", 无线新闻欣赏
 http://rihou.cc:555/tv/[Mt]无线新闻
+#EXTINF:-1 group-title="欣赏频道", 无线新闻欣赏
+http://rihou.cc:555/tv/[Hk]无线新闻
 #EXTINF:-1 group-title="欣赏频道", 无线新闻欣赏
 http://rihou.cc:555/tv/[SZ]无线新闻
 #EXTINF:-1 group-title="欣赏频道", 无线新闻欣赏
@@ -717,13 +815,15 @@ http://rihou.cc:555/tv/[Bx]无线新闻
 #EXTINF:-1 group-title="欣赏频道", Now新闻欣赏
 http://rihou.cc:555/tv/[Cx]Now新闻
 #EXTINF:-1 group-title="欣赏频道", Now新闻欣赏
+http://rihou.cc:555/tv/[Hk]Now新闻
+#EXTINF:-1 group-title="欣赏频道", Now新闻欣赏
 http://rihou.cc:555/tv/[Mt]Now新闻
 #EXTINF:-1 group-title="欣赏频道", 中天新闻欣赏
-http://rihou.cc:555/tv/[Hk]中天新聞
+http://rihou.cc:555/tv/[Bx]中天新闻
 #EXTINF:-1 group-title="欣赏频道", 中天新闻欣赏
 http://rihou.cc:555/tv/[SZ]中天新闻
 #EXTINF:-1 group-title="欣赏频道", 中天新闻欣赏
-http://rihou.cc:555/tv/[Bx]中天新闻
+http://rihou.cc:555/tv/[Hk]中天新聞
 #EXTINF:-1 group-title="欣赏频道", 寰宇新闻欣赏
 http://rihou.cc:555/tv/[Hk]寰宇新闻
 #EXTINF:-1 group-title="欣赏频道", 东森新闻欣赏
@@ -866,6 +966,8 @@ http://rihou.cc:555/tv/[xsI]Now英超
 http://rihou.cc:555/tv/[XS]Now体育
 #EXTINF:-1 group-title="欣赏频道", Now体育欣赏
 http://rihou.cc:555/tv/[Mt]Now体育
+#EXTINF:-1 group-title="欣赏频道", 无线体育欣赏
+http://rihou.cc:555/tv/[Hk]无线体育
 #EXTINF:-1 group-title="欣赏频道", 纬来体育欣赏
 http://rihou.cc:555/tv/[Hk]纬来体育
 #EXTINF:-1 group-title="欣赏频道", VIUTV'壹欣赏
@@ -942,6 +1044,12 @@ http://rihou.cc:555/tv/v
 http://rihou.cc:555/tv/[mv]翡翠台庆
 #EXTINF:-1 group-title="欣赏频道", 万辉走红地毯
 http://rihou.cc:555/tv/[mv]走红地毯
+#EXTINF:-1 group-title="欣赏频道", ⬇️万辉颁奖⬇️
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="欣赏频道", 万辉颁奖典礼
+http://rihou.cc:555/tv/[mv]颁奖典礼
+#EXTINF:-1 group-title="欣赏频道", 万辉礼红地毯
+http://rihou.cc:555/tv/[mv]礼红地毯
 #EXTINF:-1 group-title="欣赏频道", ⬇️欣赏频道⬇️
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="欣赏频道", pₒₚc电影频道
@@ -1286,29 +1394,49 @@ https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="欣赏音乐", ⬇️凯乔电台⬇️
 video://http://rihou.cc:555/tv/dt
 #EXTINF:-1 group-title="欣赏音乐", [21-24]抖直播
-http://rihou.cc:555/tv/凯乔电台抖09
+http://rihou.cc:555/tv/凯乔电台抖11
 #EXTINF:-1 group-title="欣赏音乐", [21-24]抖直播
 video://http://rihou.cc:555/tv/dt
 #EXTINF:-1 group-title="欣赏音乐", ⬇️全天直播⬇️
-video://http://rihou.cc:555/tv/m
-#EXTINF:-1 group-title="欣赏音乐", 张国荣乐抖播
-http://rihou.cc:555/tv/张国荣乐抖09
+video://http://rihou.cc:555/tv/mu11
+#EXTINF:-1 group-title="欣赏音乐", 音乐库播抖播
+video://http://rihou.cc:555/tv/mu11
+#EXTINF:-1 group-title="欣赏音乐", 音乐仓库抖播
+http://rihou.cc:555/tv/音乐仓库抖11
+#EXTINF:-1 group-title="欣赏音乐", 粤语讲故抖播
+http://rihou.cc:555/tv/粤语讲故抖11
+#EXTINF:-1 group-title="欣赏音乐", 讲故粤语抖播
+http://rihou.cc:555/tv/讲故粤语抖11
+#EXTINF:-1 group-title="欣赏音乐", 经典音乐抖播
+http://rihou.cc:555/tv/经典音乐抖11
+#EXTINF:-1 group-title="欣赏音乐", 经典老歌抖播
+http://rihou.cc:555/tv/经典老歌抖11
+#EXTINF:-1 group-title="欣赏音乐", 经典旧歌抖播
+http://rihou.cc:555/tv/经典旧歌抖11
+#EXTINF:-1 group-title="欣赏音乐", 经典粤歌抖播
+http://rihou.cc:555/tv/经典粤歌抖11
 #EXTINF:-1 group-title="欣赏音乐", 谭咏麟乐抖播
-http://rihou.cc:555/tv/谭咏麟乐抖09
+http://rihou.cc:555/tv/谭咏麟乐抖11
 #EXTINF:-1 group-title="欣赏音乐", 张学友乐抖播
-http://rihou.cc:555/tv/张学友乐抖09
+http://rihou.cc:555/tv/张学友乐抖11
 #EXTINF:-1 group-title="欣赏音乐", 刘德华乐抖播
-http://rihou.cc:555/tv/刘德华乐抖09
+http://rihou.cc:555/tv/刘德华乐抖11
 #EXTINF:-1 group-title="欣赏音乐", 周杰伦乐抖播
-http://rihou.cc:555/tv/周杰伦乐抖09
+http://rihou.cc:555/tv/周杰伦乐抖11
 #EXTINF:-1 group-title="欣赏音乐", BEyonD2抖播
-http://rihou.cc:555/tv/BEyonD2抖09
-#EXTINF:-1 group-title="欣赏音乐", 怀旧粤语抖播
-http://rihou.cc:555/tv/怀旧粤语抖09
+http://rihou.cc:555/tv/BEyonD2抖11
+#EXTINF:-1 group-title="欣赏音乐", 翡翠音乐抖播
+http://rihou.cc:555/tv/翡翠音乐抖11
 #EXTINF:-1 group-title="欣赏音乐", 怀旧音乐抖播
-http://rihou.cc:555/tv/怀旧音乐抖09
+http://rihou.cc:555/tv/怀旧音乐抖11
+#EXTINF:-1 group-title="欣赏音乐", 怀旧粤语抖播
+http://rihou.cc:555/tv/怀旧粤语抖11
+#EXTINF:-1 group-title="欣赏音乐", 粤语经典抖播
+http://rihou.cc:555/tv/粤语经典抖11
+#EXTINF:-1 group-title="欣赏音乐", 音乐经典抖播
+http://rihou.cc:555/tv/音乐经典抖11
 #EXTINF:-1 group-title="欣赏音乐", 音乐汇乐抖播
-http://rihou.cc:555/tv/音乐汇乐抖09
+http://rihou.cc:555/tv/音乐汇乐抖11
 #EXTINF:-1 group-title="欣赏音乐", ⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐", 今日演唱会上
@@ -1570,6 +1698,20 @@ http://rihou.cc:555/tv/爆改版看预谋
 #EXTINF:-1 group-title="欣赏音乐", <我的好兄弟>
 https://sns-video-default.xhscdn.com/stream/1/110/258/01e8c171e907fbe0010370019933a69c19_258.mp4
 #新剧追更
+#EXTINF:-1 group-title="新剧追更", ⬇️轧戏28⬇️
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="新剧追更", 轧戏之第01集
+http://cjx.999315.xyz/yzzy/20260109/10939_5a678411/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第02集
+http://cjx.999315.xyz/yzzy/20260109/10940_4f3fcf17/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第03集
+http://cjx.999315.xyz/yzzy/20260109/4075_e3b21256/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第04集
+http://cjx.999315.xyz/yzzy/20260109/4076_a3147b88/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第05集
+http://cjx.999315.xyz/yzzy/20260110/11001_64254db8/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第06集
+http://cjx.999315.xyz/yzzy/20260110/11002_30777b47/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️玉茗茶骨36⬇️
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="新剧追更", 玉茗茶骨01集
@@ -1614,6 +1756,105 @@ http://cjx.999315.xyz/yzzy/20260107/13420_ae97cad2/index.m3u8
 http://cjx.999315.xyz/yzzy/20260108/13601_b7ead1d0/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 玉茗茶骨21集
 http://cjx.999315.xyz/yzzy/20260108/13602_d7419ae0/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 玉茗茶骨22集
+http://cjx.999315.xyz/yzzy/20260109/13635_e87152a7/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 玉茗茶骨23集
+http://cjx.999315.xyz/yzzy/20260110/4119_1b69ebed/index.m3u8
+#央卫JRtv
+#EXTINF:-1 group-title="央卫JRtv", CCTV-01JRtv
+http://rihou.cc:555/tv/[JR]CCTV-01
+#EXTINF:-1 group-title="央卫JRtv", CCTV-02JRtv
+http://rihou.cc:555/tv/[JR]CCTV-02
+#EXTINF:-1 group-title="央卫JRtv", CCTV-03JRtv
+http://rihou.cc:555/tv/[JR]CCTV-03
+#EXTINF:-1 group-title="央卫JRtv", CCTV-04JRtv
+http://rihou.cc:555/tv/[JR]CCTV-04
+#EXTINF:-1 group-title="央卫JRtv", CCTV-05JRtv
+http://rihou.cc:555/tv/[JR]CCTV-05
+#EXTINF:-1 group-title="央卫JRtv", CCTV-5+JRtv
+http://rihou.cc:555/tv/[JR]CCTV-5p
+#EXTINF:-1 group-title="央卫JRtv", CCTV-06JRtv
+http://rihou.cc:555/tv/[JR]CCTV-06
+#EXTINF:-1 group-title="央卫JRtv", CCTV-07JRtv
+http://rihou.cc:555/tv/[JR]CCTV-07
+#EXTINF:-1 group-title="央卫JRtv", CCTV-08JRtv
+http://rihou.cc:555/tv/[JR]CCTV-08
+#EXTINF:-1 group-title="央卫JRtv", CCTV-09JRtv
+http://rihou.cc:555/tv/[JR]CCTV-09
+#EXTINF:-1 group-title="央卫JRtv", CCTV-10JRtv
+http://rihou.cc:555/tv/[JR]CCTV-10
+#EXTINF:-1 group-title="央卫JRtv", CCTV-11JRtv
+http://rihou.cc:555/tv/[JR]CCTV-11
+#EXTINF:-1 group-title="央卫JRtv", CCTV-12JRtv
+http://rihou.cc:555/tv/[JR]CCTV-12
+#EXTINF:-1 group-title="央卫JRtv", CCTV-13JRtv
+http://rihou.cc:555/tv/[JR]CCTV-13
+#EXTINF:-1 group-title="央卫JRtv", CCTV-14JRtv
+http://rihou.cc:555/tv/[JR]CCTV-14
+#EXTINF:-1 group-title="央卫JRtv", CCTV-15JRtv
+http://rihou.cc:555/tv/[JR]CCTV-15
+#EXTINF:-1 group-title="央卫JRtv", CCTV-17JRtv
+http://rihou.cc:555/tv/[JR]CCTV-17
+#EXTINF:-1 group-title="央卫JRtv", CGTN-英JRtv
+http://rihou.cc:555/tv/[JR]CGTN-英
+#EXTINF:-1 group-title="央卫JRtv", 北京卫视JRtv
+http://rihou.cc:555/tv/[JR]北京卫视
+#EXTINF:-1 group-title="央卫JRtv", 东方卫视JRtv
+http://rihou.cc:555/tv/[JR]东方卫视
+#EXTINF:-1 group-title="央卫JRtv", 浙江卫视JRtv
+http://rihou.cc:555/tv/[JR]浙江卫视
+#EXTINF:-1 group-title="央卫JRtv", 江苏卫视JRtv
+http://rihou.cc:555/tv/[JR]江苏卫视
+#EXTINF:-1 group-title="央卫JRtv", 湖南卫视JRtv
+http://rihou.cc:555/tv/[JR]湖南卫视
+#EXTINF:-1 group-title="央卫JRtv", 广东卫视JRtv
+http://rihou.cc:555/tv/[JR]广东卫视
+#EXTINF:-1 group-title="央卫JRtv", 深圳卫视JRtv
+http://rihou.cc:555/tv/[JR]深圳卫视
+#EXTINF:-1 group-title="央卫JRtv", 天津卫视JRtv
+http://rihou.cc:555/tv/[JR]天津卫视
+#EXTINF:-1 group-title="央卫JRtv", 安徽卫视JRtv
+http://rihou.cc:555/tv/[JR]安徽卫视
+#EXTINF:-1 group-title="央卫JRtv", 山东卫视JRtv
+http://rihou.cc:555/tv/[JR]山东卫视
+#EXTINF:-1 group-title="央卫JRtv", 山西卫视JRtv
+http://rihou.cc:555/tv/[JR]山西卫视
+#EXTINF:-1 group-title="央卫JRtv", 辽宁卫视JRtv
+http://rihou.cc:555/tv/[JR]辽宁卫视
+#EXTINF:-1 group-title="央卫JRtv", 河北卫视JRtv
+http://rihou.cc:555/tv/[JR]河北卫视
+#EXTINF:-1 group-title="央卫JRtv", 河南卫视JRtv
+http://rihou.cc:555/tv/[JR]河南卫视
+#EXTINF:-1 group-title="央卫JRtv", 江西卫视JRtv
+http://rihou.cc:555/tv/[JR]江西卫视
+#EXTINF:-1 group-title="央卫JRtv", 四川卫视JRtv
+http://rihou.cc:555/tv/[JR]四川卫视
+#EXTINF:-1 group-title="央卫JRtv", 重庆卫视JRtv
+http://rihou.cc:555/tv/[JR]重庆卫视
+#EXTINF:-1 group-title="央卫JRtv", 贵州卫视JRtv
+http://rihou.cc:555/tv/[JR]贵州卫视
+#EXTINF:-1 group-title="央卫JRtv", 湖北卫视JRtv
+http://rihou.cc:555/tv/[JR]湖北卫视
+#EXTINF:-1 group-title="央卫JRtv", 广西卫视JRtv
+http://rihou.cc:555/tv/[JR]广西卫视
+#EXTINF:-1 group-title="央卫JRtv", 云南卫视JRtv
+http://rihou.cc:555/tv/[JR]云南卫视
+#EXTINF:-1 group-title="央卫JRtv", 东南卫视JRtv
+http://rihou.cc:555/tv/[JR]东南卫视
+#EXTINF:-1 group-title="央卫JRtv", 海南卫视JRtv
+http://rihou.cc:555/tv/[JR]海南卫视
+#EXTINF:-1 group-title="央卫JRtv", 青海卫视JRtv
+http://rihou.cc:555/tv/[JR]青海卫视
+#EXTINF:-1 group-title="央卫JRtv", 陕西卫视JRtv
+http://rihou.cc:555/tv/[JR]陕西卫视
+#EXTINF:-1 group-title="央卫JRtv", 甘肃卫视JRtv
+http://rihou.cc:555/tv/[JR]甘肃卫视
+#EXTINF:-1 group-title="央卫JRtv", 吉林卫视JRtv
+http://rihou.cc:555/tv/[JR]吉林卫视
+#EXTINF:-1 group-title="央卫JRtv", 内蒙古视JRtv
+http://rihou.cc:555/tv/[JR]内蒙古视
+#EXTINF:-1 group-title="央卫JRtv", 黑龙江视JRtv
+http://rihou.cc:555/tv/[JR]黑龙江视
 #特区Mttv
 #EXTINF:-1 group-title="特区Mttv", 有线新闻Mttv
 http://rihou.cc:555/tv/[Mt]有线新闻
@@ -1859,9 +2100,15 @@ http://rihou.cc:555/tv/[Hk]东森新闻
 #EXTINF:-1 group-title="特闽Hktv", 中视新闻Hktv
 http://rihou.cc:555/tv/[Hk]中视新闻
 #EXTINF:-1 group-title="特闽Hktv", tvbS闽南Hktv
-http://rihou.cc:555/tv/[Hk]tvbS南闽
-#EXTINF:-1 group-title="特闽Hktv", tvbS闽南Hktv
 http://rihou.cc:555/tv/[Hk]tvbS闽南
+#EXTINF:-1 group-title="特闽Hktv", 无线体育Hktv
+http://rihou.cc:555/tv/[Hk]无线体育
+#EXTINF:-1 group-title="特闽Hktv", 有线新闻Hktv
+http://rihou.cc:555/tv/[Hk]有线新闻
+#EXTINF:-1 group-title="特闽Hktv", 无线新闻Hktv
+http://rihou.cc:555/tv/[Hk]无线新闻
+#EXTINF:-1 group-title="特闽Hktv", Now新闻Hktv
+http://rihou.cc:555/tv/[Hk]Now新闻
 #EXTINF:-1 group-title="特闽Hktv", Now华剧Hktv
 http://rihou.cc:555/tv/[Hk]Now华剧
 #EXTINF:-1 group-title="特闽Hktv", Now剧集Hktv
@@ -3293,7 +3540,7 @@ http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="抖音网页", 绝嗲数码抖播
 video://https://live.douyin.com/277034086130
 #EXTINF:-1 group-title="抖音网页", 音乐库抖直播
-video://http://rihou.cc:555/tv/m
+video://http://rihou.cc:555/tv/mu10
 #EXTINF:-1 group-title="抖音网页", 杨凯乔抖直播
 video://http://rihou.cc:555/tv/dt
 #EXTINF:-1 group-title="抖音网页", 好波联盟抖页
@@ -3525,7 +3772,7 @@ video://https://live.douyin.com/528583488654
 #EXTINF:-1 group-title="抖音网页", HiFi-音乐直播
 video://https://live.douyin.com/110229825168
 #EXTINF:-1 group-title="抖音网页", 38'6音乐直播
-video://http://rihou.cc:555/tv/m
+video://http://rihou.cc:555/tv/mu10
 #EXTINF:-1 group-title="抖音网页", 舒耳音乐直播
 video://https://live.douyin.com/388913203837
 #EXTINF:-1 group-title="抖音网页", 小汤音乐直播
