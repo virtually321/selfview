@@ -20,230 +20,185 @@ http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视", ➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
 #NBA赛评
-#EXTINF:-1 group-title="NBA赛评", 01-11⬇️NBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="NBA赛评", 01-13⬇️NBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评", 08:00热火🆚步行者
+#EXTINF:-1 group-title="NBA赛评", 08:00爵士🆚骑士
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊11咪述评
-http://rihou.cc:555/tv/11NBA咪述评
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾述评
-http://rihou.cc:555/tv/11NBA腾述评
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾嘉琦
-https://txycdn7.video.qq.com/1777208923.m3u8?time=1768089953&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIO1le953yjFH5eYl-mGvWLqeMD6jLMEWLiVNvFRFYsnwEBAgEuRoOsGEU6RSVC3G3rUBcJfajxBGRG1z1abZfd7Wcma44i1u-rtJZgPpkQw7DW7_U8v2KJJ7FT8wm7vTiq91dQSKxL799B6HMHryvJNAV79nLBjhGBxZL2LD0AAux_lYLGOdKiIzC-WysdKRaLriNb_2bdtuiWqXxxFSl1y6IkE4QGh-B1D6G2x-gIc9jpZ6W-7LdzdffEtrf4X3usIw6wEb53HoQHR47z6zq6mjWmuzYTaxpNa__BAwkxrXO4i2SrvnkKvDVYAMwg3ar7bru6Hl50vKXHTZZ9b07RuM-pG9XtF6iDEBjvf6kZXSL4Z0R9xRXan84Y-JrMAaWbqRMExJW7Y1ggDu3kpUxuCVfJZEvMyLZS5Zu6wSYTrAJPf_li1HgmMAucCubJuZJyHF8ALZl1WC9qr1a-JL7uIsZ3N4dLS34CyllBpykHCqKHH_Ar3vrDPJ3XcLOhJSmhu0_bKrFIzlpnRpxiSMZ4I0U8Fgl-Nk3s8ii2y-yt9bsOPk&drmtype=0
-#EXTINF:-1 group-title="NBA赛评", 08:30快船🆚活塞
+#EXTINF:-1 group-title="NBA赛评", 国🔊13咪评述
+http://rihou.cc:555/tv/13NBA咪评述
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾评述
+http://rihou.cc:555/tv/13NBA腾评述
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾逸豪
+https://txycdn5.video.qq.com/1777302423.m3u8?time=1768262857&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgIGUMI_Z6ruHQYgFIkyZuY9tP9fgKIWZN7ZQ0OOEoAnmqEG9eJ4i_7oUS-FM2J-W5h3cBcOL2VijZszJdyvUYN04Vuju3h-pZxSW0Cy6TtYkFAbOkubi8dM7iHrYoAJ0GkXkNgkmOwkblu3yNOJWB2aUM8IqTR0O2ELOX9ntvdUwvp1nZ6pLCclNd2KAm1UIc5w8Uy8jfBkhNcCw2Yc9bqiQcYlsKpICLEu5e9N0vTf3fs98MRD6YSn0iu2HaODvlPv06beFDodeLEUjr4ZfttLq4-ssFMDzMahbDC_4jZI9z1RsppOOCiPIJPyxukcJOkrans_7Y3KhPxUWjaIYErRLOyajgnvMMtIu6vxEoUrV8XLS7FJ4j4bO2F4bThh8NPjdAaKiSHpoS8sBTusOj0wrOEwkdz_on80yIZgp2Qv0Ai0XW9Dam8Aa5Z9tKR57f2yP7xDq8KTRIuqILJJknCeyLlmBvhYCRmX_3CdAjJV0yybSEYTMwJJyyr8qZweWSxw8evDU8emwEZ1I24WE97cLr_muJ2jGFDeMt9TyOFSkZOlKf&drmtype=0
+#EXTINF:-1 group-title="NBA赛评", 08:30猛龙🆚76人
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊11咪评评
-http://rihou.cc:555/tv/11NBA咪评评
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾评评
-http://rihou.cc:555/tv/11NBA腾评评
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾彭磊
-https://txycdn5.video.qq.com/1777209023.m3u8?time=1768091588&cdn=txycdn&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=nvkey_AQQgILsM-7EhK15zcdQFpGAp3Lm-fj99Vj4ph-vR7bOULl9sEOMYpqAWQx1nicrqyWKG4tEBcO9TwrUXiN82miDFpBuLSqH0D7l6rtdLI-wX9tnSB2GM-CL0q0MOPIaEhn2jbhmnwng3NgNdocsSEI0YvB70zz6c3pL0hPlH9i6MBhcnsdz7o4o3xwSp2Y4ghvJuAB5A0R0fcEnG4w6B6DcI5DrpwcnKDa27GLUHDc8iD6kfCWTIoPDq0y3mW1jICEw6n0O6ZAkCjuAYAbgSReFhZ8-1VoCdek03ll3_FAny2JTqIUYCCqhl2jsg9Q-LN7SJP_pNrB9ZMvydX2chexFTgY_KzCX3_Kc4NKTijtoYqpK0WYARyghidL7ZmbveqxNHBOclxVRDS3h8oy2Q2GHoze1YlYFCXzdLdUvMW788TSaQuByebktKAG6mhtL4W4tfeFu9sJ4bAVo_OtuGk6SRfNx9H9eh9IgcYwl51P9xkH-usa_DasZlvAh9c2XGeqUDv-sW8Jic-B24TgzFF46D8nIbUoSUdi_TaULRKRMStTP2RfdE&drmtype=0
-#EXTINF:-1 group-title="NBA赛评", 09:00马刺🆚凯尔特人
+#EXTINF:-1 group-title="NBA赛评", 国🔊13咪述评
+http://rihou.cc:555/tv/13NBA咪述评
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾述评
+http://rihou.cc:555/tv/13NBA腾述评
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾乘源
+https://mgev.188766.xyz/play?migutoken=df01143841800e59843657b121315dcc&id=VsdkBWYW2Iv9cXbNdKrj0wCLWDeD81rNguerEnbTKY5jIVpDRB6Pg99UTJDIrulmOPaue3EDjySig59n%2Fj8HuvpPlt2I55rGRlnXVq0QRnsVthjHjiXyU8WoIf5C1gZvcHD5fANoCwW7oHzhfgyaxJKOvDI2KaUE8Xhh8OlmGB3MceXHMpKGswP54N0LuEApJZwmMCII8h%2F5l55IgyKJZctjFGunMxjvrfoRCzSV0Im3XECVj6Pe5ezwI1xGCEnS8rX%2FVVT4fzsN3LGvYZpWyQnmpsfE6uuTK0VI%2FkescCyxiC4yrMczKXNBFQcV6GOz6orWdYbLzhmGpdSflTdVYw%3D%3D&name=qKtHP%2FHtT8X8z4BZgxpu%2FGnAdAliFYSdl1em9Tek79bzNWFZlkWSxHsgIUNoafxPkpf9fOqF9DQixMScl%2B0xrKiHQ56owM%2FX6%2BnsNymbIfY%3D
+#EXTINF:-1 group-title="NBA赛评", 08:30凯尔特人🆚步行者
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊11咪述述
-http://rihou.cc:555/tv/11NBA咪述述
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾述述
-http://rihou.cc:555/tv/11NBA腾述述
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾兆丰
-https://mgev.188766.xyz/play?migutoken=cdbf1f6aa2f11f2637ad5d2bfd701a0c&id=VLBHG0Zq9DXOdo%2Fk72A2j%2F0APEgJP0Ips%2FJrFLRIMxbj1AXN8T%2Fp9RkfC0WTBJ9Ge5beM%2FsqUPt5xErkR8Rrah2Q1WBVIPzOQomB1ZcdK2Jp6MXGO5yoKE8rNobfA1vqo2ciiNWWM%2Fjo7M2H4CgMPk7KpJLKO0C%2F20qBK%2BjhrTl%2F9p4%2Bl0AqIna8SP%2FVugoBZ73BnPsA77Axr%2FmiIaEc%2FWwMEHICqSsxKrEeijz82uJcMnSChy9uvf2mEERBRaWi1e0Lq7O32n4DfuAfXUrCar%2FZ0eQ2rYn%2BwYLL0EjWLbs1Ru6iNFhmuL7K4jTRKF2LB8dQDj78k6JQSdc5pP4nTg%3D%3D&name=efmhUclfcyDkZKi5PYYKo2px7zYXsjP7Z3cl4IWzIyhJEM0ufJ0GkPl4HA9os879ZE9jQ5D2q%2B5ov%2BcksZZN3g9N48%2B28dC2maDrOb7sqls%3D
-#EXTINF:-1 group-title="NBA赛评", 09:00公牛🆚独行侠
+#EXTINF:-1 group-title="NBA赛评", 国🔊13咪评评
+http://rihou.cc:555/tv/13NBA咪评评
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾评评
+http://rihou.cc:555/tv/13NBA腾评评
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾彭磊
+https://mgev.188766.xyz/play?migutoken=2d9aa45d96d09031b740dd09c0ce48ec&id=jP8m8ZwXYo8e6A2ta1J%2B6PQBfzeAgDOaRTHLAUWRLA15K0XXP7Q6E%2BXUQOMyy5l9BON2JzflghYMMeMxivLJh6dDTX9SUsWek4Dq60U0PLwoSuvX%2FwANrxcGt2NH0OupVPZ%2BIHrAe4rsLNXc%2BtLFmbUBV3OubB%2BDbsdBzZy%2BE5c%2B2a3Kz4NkXYC7wnHwhtPlhdogotkW87Awz2hS2dqvciOPjWCTr9ralAuafePInRmoFxV6WPO7gcnesSUmuPS35OnE8cMmZNU2HdYlfIfaHDMoVmXzxCVDqQFLOJV7au6LAZ4mzvG6lfDIEKzfMwjMVwGyM0%2BEQnev98nmnsWvxQ%3D%3D&name=lMPrBdfCACXfP2%2BnhkKSbC7Wf%2FkzEanUUEquzj03HM5cmAngF0c12hlhChT1YkBBkbMpQp%2FbvBDWU%2B5Mki%2Bq3K8I7Ksupxbceakbr4a26iI%3D
+#EXTINF:-1 group-title="NBA赛评", 09:30篮网🆚独行侠
+http://rihou.cc:555/t/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊13咪述述
+http://rihou.cc:555/tv/13NBA咪述述
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾述述
+http://rihou.cc:555/tv/13NBA腾述述
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾浩霆
+https://mgev.188766.xyz/play?migutoken=3ecc101b14e48c04ee6408387167ab60&id=vESdQJtMBN8Y7tLcHR8MgI6lI5qu5Zs9LyFWWGzDDm6nwydWScLEtiY47PktcfhnbZa2NTD1XfPE01%2Bpbb1nHVoyx5N2rD0Qb9aOE24OzZlEZ0FQneGC19IwC%2FsgBR7qGdq2cJkwixCUCaE%2BgB8lQ0%2FVeIuOHFHEKr7W9%2BC5az9JQzaNkj%2F9EmwX2L43zs7Uy00WW2fSQrcbT8%2BCn6AgAIONh38g33d7tEjo3OizI36w%2F4Jr8OBkOsmey7Kx6vemdLPYBLjOmC1AiMOZg7uezThJpkaZzXYTFghAyeL%2B85VsHHSZaVrXjMMDVm%2BR2c%2FvS4LmKz3ra%2BfWfHOmxQR4Sg%3D%3D&name=46R07BvbLIiZxhQsBZqNHEL1oUMzjzv9dobCLBJgrLOrRsDj7fi3etl%2BYLe8TmGL02dtjUHM2bYxzHT4Blf8Eh%2B1eAexWtvZLsipNnbTzEo%3D
+#EXTINF:-1 group-title="NBA赛评", 11:00湖人🆚国王
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊11咪旁述
-http://rihou.cc:555/tv/11NBA咪旁述
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾旁述
-http://rihou.cc:555/tv/11NBA腾旁述
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾子星
-https://mgev.188766.xyz/play?migutoken=e841f8b8a5a2b2d195566a09c17e431e&id=4eShZWKBjdGVH8SsLJHGkax2USGvscMXrTe2zwxiwM%2FDFahaXVZszLrxsxjNS8QwtNgnqGUoYOvPBT0qRW7AQT8cU0oc9RTlAz6VlAp8jDLBKAXkGUmD4037cAKpVun3eJ3Xt0%2BgAnEUBg3hNMkRAivqoGpRsn6PDE5WmSHcSK5Y8OAHIAejIhpkJRvE56l%2BCDI1M15PVwLFKHAv2inWjlpy4z%2Bf75CwIHfOoViylZAXRSdpBkSGTAM6fenxrFOjXMwqys02FgbSaEOJYmToUHETtrKCRGioL%2F8my83ecm9r9GyvGn7CxZpr8rAqedQrz7ZWidfUh%2BQvY1WWW6a4Jw%3D%3D&name=brrVSp7ENdlSHiy5wLTRLY3AjPZVAakwdUTwE42nursWeKWxsxlzKNfD3CyuYlS1FEM4HvgSTkq6P4ea46zUmYppP4OiwhfwQgxQldhp5uQ%3D
-#EXTINF:-1 group-title="NBA赛评", 10:30黄蜂🆚爵士
+#EXTINF:-1 group-title="NBA赛评", 国🔊13咪旁述
+http://rihou.cc:555/tv/13NBA咪旁述
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾旁述
+http://rihou.cc:555/tv/13NBA腾旁述
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾殳海
+https://mgev.188766.xyz/play?migutoken=cf3c1da1ec7fc8274e3d0d91c118a1ec&id=UsGHvj8nFX%2Bq21CgYdjOYZsLRg%2F8XiR06NK0JCkMrLnjQMWPJg5Pu8EydosKioCN%2B34mdO1G6QBJpFQZC0tzFGzRaby5ZovwnKtgCzjWt6yUJr4Lf5rXZ4o9QzT1l%2Bj%2F3q4tLRF3g6c0FTH5GK%2FQ6KUs73LmctQq6CeTEEH2Yo7gG%2B7JXKh8DwWxjprsju%2FYb1SwxGmNP1WxpDID2Xaw4CZdziizlC3UdKyJ76%2BoMB%2FRFaYeQtfFT0uEk1t4hun84e44H5mscnyccxCF0Vg8dbXMRsrE%2B2Psc9KHwrsNV3Oq8S455X9eJCkvkcEcEst2B3V%2BjTjaQJU6DAjgubqjiw%3D%3D&name=lpKToOq98qWihjRRwhE5u36zPQRePn%2F3MY%2B4hxsDr6w1YRW7fUw8YUVNloU%2B7gvQboPJJnQwyQqQQBgjtfuuWbGaz79P8kMa5jbWF3YQKCTDwwxZKKSFM7N4%2B%2BZp4qYr
+#EXTINF:-1 group-title="NBA赛评", 11:30黄蜂🆚快船
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊11咪述旁
-http://rihou.cc:555/tv/11NBA咪述旁
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾述旁
-http://rihou.cc:555/tv/11NBA腾述旁
-#EXTINF:-1 group-title="NBA赛评", 国🔊11腾德昕
-https://mgev.188766.xyz/play?migutoken=5fe7bb13bcb03f4d911dacfb180e4de1&id=gzKALd%2B63K61dhTAYa%2BW%2B00EychfEJHm2KUWi5uJ77VmJK%2FWqyDlYlpJOT2kXbqt1chh4qFsyK%2BJG%2B24EXm0C74%2FCj3b6TOdizjPLaQcXilo6Yr5XmSh8O1o5FMhfCrSEto10Nzuq%2BZAGtRR5e9Xpj87Qzsm7jLqkekuSjNt5nueUBqOOJ1noOavi6Sf0uLZVVVqtE4K%2BbmdmaCdvpSVISlf2YxM60q5uib8dsbLSMaDJ6ZQ%2BiOD3VqAKymWjV6PjrOqCEooyF7GV5%2FLgcVj4ixvmohzsXJ81iLfA8mXjAFXAR%2BtcaCnwG54yj4lwFR%2FfklzAlkd75V8ME%2BXUhj01w%3D%3D&name=Z5nF1TrFeQVFxOzpDIKrv0LLrI02zlWHr6BMsZF%2BbFiyXYThNhGnb2dDHuUciaY1YVuSkdXnGFXHKKhqG%2BtijuQKZnA9OSR0TJo7V33RLSM%3D
-#EXTINF:-1 group-title="NBA赛评", 01-12⬇️NBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="NBA赛评", 国🔊13咪述旁
+http://rihou.cc:555/tv/13NBA咪述旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾述旁
+http://rihou.cc:555/tv/13NBA腾述旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊13腾兆丰
+https://mgev.188766.xyz/play?migutoken=0c42ec4a687c93130f3641884f37ee86&id=w4URIr%2BNlhfeNVUsIvmCZpYiYoeEXD%2FkbHkr%2FmQpQItVO9QH1cYEbkYqapN%2FIKztHs0193zd7sFGHx9W0kF%2FfAItL5F2SowEEWNkkfr0ppqUmLReQM%2F%2FvfaGCDXnoZ6LddvcuRtkozh2Lgo0OEK6A%2BT0stkVUkgqFjo81dWlsot8d89s4Pe2FBsLT814eMAMBkAs43rSekuAxkXciPRJr%2B8foiaIZBttEfI3iR3Iobf96p0Ci10PBM4f2VulT4T1RINn7rgIWJRRD5s63MSirEY8ZE7Vu8tfPZdYcrAgQMZR5v%2BahHzaLxKnQX1mieEAXOBm3BZQNaf%2BAWU0waD65A%3D%3D&name=IGF3fqL4Nc%2FYWsA3b3QQUtg4wC9vgVHWBsZFCOTXAHcldGH4O%2BzfKV2rktrYA6N8wohVWOty1AMeYrzLQQJERlKjtql6gQ8PYRrUKHuk16eDzljV54PI3e6I4OeefyOa
+#EXTINF:-1 group-title="NBA赛评", 01-14⬇️NBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评", 04:00鹈鹕🆚魔术
+#EXTINF:-1 group-title="NBA赛评", 08:30太阳🆚热火
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪评述
-http://rihou.cc:555/tv/12NBA咪评述
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾评述
-http://rihou.cc:555/tv/12NBA腾评述
-#EXTINF:-1 group-title="NBA赛评", 04:30篮网🆚灰熊
+#EXTINF:-1 group-title="NBA赛评", 国🔊14咪评述
+http://rihou.cc:555/tv/14NBA咪评述
+#EXTINF:-1 group-title="NBA赛评", 国🔊14腾评述
+http://rihou.cc:555/tv/14NBA腾评述
+#EXTINF:-1 group-title="NBA赛评", 09:00掘金🆚鹈鹕
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪述评
-http://rihou.cc:555/tv/12NBA咪述评
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾述评
-http://rihou.cc:555/tv/12NBA腾述评
-#EXTINF:-1 group-title="NBA赛评", 07:00猛龙🆚76人
+#EXTINF:-1 group-title="NBA赛评", 国🔊14咪述评
+http://rihou.cc:555/tv/14NBA咪述评
+#EXTINF:-1 group-title="NBA赛评", 国🔊14腾述评
+http://rihou.cc:555/tv/14NBA腾述评
+#EXTINF:-1 group-title="NBA赛评", 09:00木狼🆚雄鹿
+http://rihou.cc:555/t/v
+#EXTINF:-1 group-title="NBA赛评", 国🔊14咪评评
+http://rihou.cc:555/tv/14NBA咪评评
+#EXTINF:-1 group-title="NBA赛评", 国🔊14腾评评
+http://rihou.cc:555/tv/14NBA腾评评
+#EXTINF:-1 group-title="NBA赛评", 09:00马刺🆚雷霆
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪评评
-http://rihou.cc:555/tv/12NBA咪评评
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾评评
-http://rihou.cc:555/tv/12NBA腾评评
-#EXTINF:-1 group-title="NBA赛评", 07:00尼克斯🆚开拓者
+#EXTINF:-1 group-title="NBA赛评", 国🔊14咪述述
+http://rihou.cc:555/tv/14NBA咪述述
+#EXTINF:-1 group-title="NBA赛评", 国🔊14腾述述
+http://rihou.cc:555/tv/14NBA腾述述
+#EXTINF:-1 group-title="NBA赛评", 09:00公牛🆚火箭
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪述述
-http://rihou.cc:555/tv/12NBA咪述述
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾述述
-http://rihou.cc:555/tv/12NBA腾述述
-#EXTINF:-1 group-title="NBA赛评", 08:00热火🆚雷霆
+#EXTINF:-1 group-title="NBA赛评", 国🔊14咪旁述
+http://rihou.cc:555/tv/14NBA咪旁述
+#EXTINF:-1 group-title="NBA赛评", 国🔊14腾旁述
+http://rihou.cc:555/tv/14NBA腾旁述
+#EXTINF:-1 group-title="NBA赛评", 11:30老鹰🆚湖人
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪旁述
-http://rihou.cc:555/tv/12NBA咪旁述
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾旁述
-http://rihou.cc:555/tv/12NBA腾旁述
-#EXTINF:-1 group-title="NBA赛评", 08:00马刺🆚木狼
+#EXTINF:-1 group-title="NBA赛评", 国🔊14咪述旁
+http://rihou.cc:555/tv/14NBA咪述旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊14腾述旁
+http://rihou.cc:555/tv/14NBA腾述旁
+#EXTINF:-1 group-title="NBA赛评", 12:00勇士🆚开拓者
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪述旁
-http://rihou.cc:555/tv/12NBA咪述旁
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾述旁
-http://rihou.cc:555/tv/12NBA腾述旁
-#EXTINF:-1 group-title="NBA赛评", 09:00雄鹿🆚掘金
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪旁旁
-http://rihou.cc:555/tv/12NBA咪旁旁
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾旁旁
-http://rihou.cc:555/tv/12NBA腾旁旁
-#EXTINF:-1 group-title="NBA赛评", 09:00奇才🆚太阳
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪旁评
-http://rihou.cc:555/tv/12NBA咪旁评
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾旁评
-http://rihou.cc:555/tv/12NBA腾旁评
-#EXTINF:-1 group-title="NBA赛评", 09:30老鹰🆚勇士
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪评旁
-http://rihou.cc:555/tv/12NBA咪评旁
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾评旁
-http://rihou.cc:555/tv/12NBA腾评旁
-#EXTINF:-1 group-title="NBA赛评", 10:00火箭🆚国王
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊12咪解评
-http://rihou.cc:555/tv/12NBA咪解评
-#EXTINF:-1 group-title="NBA赛评", 国🔊12腾解评
-http://rihou.cc:555/tv/12NBA腾解评
-#渝超赛评
-#EXTINF:-1 group-title="渝超赛评", 01-11⬇️重庆城市足球超级联赛⬇️⚽📡
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="渝超赛评", 15:00南岸万和医药队🆚沙坪坝陈昌银队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="渝超赛评", 国🔊11咪评述
-http://rihou.cc:555/tv/11渝超咪评述
-#EXTINF:-1 group-title="渝超赛评", 15:00九龙蠢源熊猫队🆚巴南生物城队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="渝超赛评", 国🔊11咪述评
-http://rihou.cc:555/tv/11渝超咪述评
-#EXTINF:-1 group-title="渝超赛评", 15:00两江深蓝汽车队🆚科学城高芯猛虎队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="渝超赛评", 国🔊11咪评评
-http://rihou.cc:555/tv/11渝超咪评评
-#EXTINF:-1 group-title="渝超赛评", 15:00大渡口馨田战队🆚北碚缙云鼎久队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="渝超赛评", 国🔊11咪述述
-http://rihou.cc:555/tv/11渝超咪述述
-#EXTINF:-1 group-title="渝超赛评", 15:00开州汉丰湖队🆚奉节诗橙队
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="渝超赛评", 国🔊11咪旁述
-http://rihou.cc:555/tv/11渝超咪旁述
+#EXTINF:-1 group-title="NBA赛评", 国🔊14咪旁旁
+http://rihou.cc:555/tv/14NBA咪旁旁
+#EXTINF:-1 group-title="NBA赛评", 国🔊14腾旁旁
+http://rihou.cc:555/tv/14NBA腾旁旁
 #CBA赛评
-#EXTINF:-1 group-title="CBA赛评", 01-11⬇️CBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="CBA赛评", 01-13⬇️CBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评", 19:35广东阳光🆚辽宁本钢
+#EXTINF:-1 group-title="CBA赛评", 19:35广东阳光🆚南京天蓝
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="CBA赛评", 粤🔊丁伟杰述
-http://rihou.cc:555/tv/11CBA丁伟杰
+http://rihou.cc:555/tv/13CBA丁伟杰
 #EXTINF:-1 group-title="CBA赛评", 粤🔊广东体育
 http://rihou.cc:555/tv/[Cx]广东体育
-#EXTINF:-1 group-title="CBA赛评", 国🔊11抖评述
-http://rihou.cc:555/tv/11CBA抖评述
-#EXTINF:-1 group-title="CBA赛评", 19:35长白山恩🆚青岛崂山
+#EXTINF:-1 group-title="CBA赛评", 国🔊13抖评述
+http://rihou.cc:555/tv/13CBA抖评述
+#EXTINF:-1 group-title="CBA赛评", 19:35宁波町渥🆚山西汾酒
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊11抖述评
-http://rihou.cc:555/tv/11CBA抖述评
-#EXTINF:-1 group-title="CBA赛评", 19:35山东高速🆚南京天蓝
+#EXTINF:-1 group-title="CBA赛评", 国🔊13抖述评
+http://rihou.cc:555/tv/13CBA抖述评
+#EXTINF:-1 group-title="CBA赛评", 19:35辽宁本钢🆚青岛崂山
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊11抖评评
-http://rihou.cc:555/tv/11CBA抖评评
-#EXTINF:-1 group-title="CBA赛评", 19:35上海久事🆚山西汾酒
+#EXTINF:-1 group-title="CBA赛评", 国🔊13抖评评
+http://rihou.cc:555/tv/13CBA抖评评
+#EXTINF:-1 group-title="CBA赛评", 19:35山东高速🆚长白山恩
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊11抖述述
-http://rihou.cc:555/tv/11CBA抖述述
-#EXTINF:-1 group-title="CBA赛评", 19:35深圳马可🆚北京北汽
+#EXTINF:-1 group-title="CBA赛评", 国🔊13抖述述
+http://rihou.cc:555/tv/13CBA抖述述
+#EXTINF:-1 group-title="CBA赛评", 19:35深圳马可🆚上海久事
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊11抖旁述
-http://rihou.cc:555/tv/11CBA抖旁述
-#EXTINF:-1 group-title="CBA赛评", 19:35宁波町渥🆚浙江方兴
+#EXTINF:-1 group-title="CBA赛评", 国🔊13抖旁述
+http://rihou.cc:555/tv/13CBA抖旁述
+#EXTINF:-1 group-title="CBA赛评", 19:35北京北汽🆚江苏肯帝
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊11抖述旁
-http://rihou.cc:555/tv/11CBA抖述旁
-#EXTINF:-1 group-title="CBA赛评", 20:00新疆伊力🆚江苏肯帝
+#EXTINF:-1 group-title="CBA赛评", 国🔊13抖述旁
+http://rihou.cc:555/tv/13CBA抖述旁
+#EXTINF:-1 group-title="CBA赛评", 20:00新疆伊力🆚浙江方兴
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊11抖旁旁
-http://rihou.cc:555/tv/11CBA抖旁旁
-#EXTINF:-1 group-title="CBA赛评", 01-12⬇️CBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="CBA赛评", 国🔊13抖旁旁
+http://rihou.cc:555/tv/13CBA抖旁旁
+#EXTINF:-1 group-title="CBA赛评", 01-14⬇️CBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="CBA赛评", 19:35广州朗肽🆚天津行者
+#EXTINF:-1 group-title="CBA赛评", 19:35广州朗肽🆚浙江稠州
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="CBA赛评", 粤'🔊丁伟杰述
-http://rihou.cc:555/tv/12CBA丁伟杰
+http://rihou.cc:555/tv/14CBA丁伟杰
 #EXTINF:-1 group-title="CBA赛评", 粤'🔊广东体育
 http://rihou.cc:555/tv/[Cx]广东体育
-#EXTINF:-1 group-title="CBA赛评", 国🔊12抖评述
-http://rihou.cc:555/tv/12CBA抖评述
-#EXTINF:-1 group-title="CBA赛评", 19:35北京控股🆚福建晋江
+#EXTINF:-1 group-title="CBA赛评", 国🔊14抖评述
+http://rihou.cc:555/tv/14CBA抖评述
+#EXTINF:-1 group-title="CBA赛评", 19:35天津行者🆚福建晋江
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊12抖述评
-http://rihou.cc:555/tv/12CBA抖述评
-#EXTINF:-1 group-title="CBA赛评", 19:35浙江稠州🆚四川丰谷
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="CBA赛评", 国🔊12抖评评
-http://rihou.cc:555/tv/12CBA抖评评
+#EXTINF:-1 group-title="CBA赛评", 国🔊14抖述评
+http://rihou.cc:555/tv/14CBA抖述评
 #WCBA赛
-#EXTINF:-1 group-title="WCBA赛", 01-11⬇️WCBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="WCBA赛", 01-13⬇️WCBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="WCBA赛", 19:30江西赣星🆚辽宁大连体产
+#EXTINF:-1 group-title="WCBA赛", 19:30合肥文旅🆚厦门环东文旅
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊11咪评述
-http://rihou.cc:555/tv/11WCBA咪评述
-#EXTINF:-1 group-title="WCBA赛", 19:30新疆天山🆚石家庄英励
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊11咪述评
-http://rihou.cc:555/tv/11WCBA咪述评
-#EXTINF:-1 group-title="WCBA赛", 19:30合肥文旅🆚河南豫光金铅
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊11咪评评
-http://rihou.cc:555/tv/11WCBA咪评评
-#EXTINF:-1 group-title="WCBA赛", 01-12⬇️WCBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="WCBA赛", 国🔊13咪评述
+http://rihou.cc:555/tv/13WCBA咪评述
+#EXTINF:-1 group-title="WCBA赛", 01-14⬇️WCBA常规赛⬇️🏀📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="WCBA赛", 19:30上海浦发银行🆚北京首钢园
+#EXTINF:-1 group-title="WCBA赛", 19:30河南豫光金铅🆚辽宁大连体产
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊12咪评述
-http://rihou.cc:555/tv/12WCBA咪评述
-#EXTINF:-1 group-title="WCBA赛", 19:30四川蜀道远达🆚浙江稠州银行
+#EXTINF:-1 group-title="WCBA赛", 国🔊14咪评述
+http://rihou.cc:555/tv/14WCBA咪评述
+#EXTINF:-1 group-title="WCBA赛", 19:30山西竹叶青酒🆚上海浦发银行
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊12咪述评
-http://rihou.cc:555/tv/12WCBA咪述评
-#EXTINF:-1 group-title="WCBA赛", 19:30武汉盛帆黄鹤🆚江苏南钢
+#EXTINF:-1 group-title="WCBA赛", 国🔊14咪述评
+http://rihou.cc:555/tv/14WCBA咪述评
+#EXTINF:-1 group-title="WCBA赛", 19:30陕西榆林天泽🆚石家庄英励
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊12咪评评
-http://rihou.cc:555/tv/12WCBA咪评评
-#EXTINF:-1 group-title="WCBA赛", 19:30陕西榆林天泽🆚山西竹叶青酒
+#EXTINF:-1 group-title="WCBA赛", 国🔊14咪评评
+http://rihou.cc:555/tv/14WCBA咪评评
+#EXTINF:-1 group-title="WCBA赛", 19:30江西赣星🆚福建金篮
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊12咪述述
-http://rihou.cc:555/tv/12WCBA咪述述
-#EXTINF:-1 group-title="WCBA赛", 19:30山东赤水河酒🆚东莞新彤盛
+#EXTINF:-1 group-title="WCBA赛", 国🔊14咪述述
+http://rihou.cc:555/tv/14WCBA咪述述
+#EXTINF:-1 group-title="WCBA赛", 19:30江苏南钢🆚新疆天山
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="WCBA赛", 国🔊12咪旁述
-http://rihou.cc:555/tv/12WCBA咪旁述
+#EXTINF:-1 group-title="WCBA赛", 国🔊14咪旁述
+http://rihou.cc:555/tv/14WCBA咪旁述
 #亚杯赛评
 #EXTINF:-1 group-title="亚杯赛评", 01-11⬇️U23亚洲杯小组赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="亚杯赛评", 19:30中国U23🆚澳大利亚U23
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="亚杯赛评", 国🔊11咪评述
-http://rihou.cc:555/tv/11亚杯咪评述
+#EXTINF:-1 group-title="亚杯赛评", 国🔊赛事回放
+http://rihou.cc:555/tv/11亚杯赛事回放
 #EXTINF:-1 group-title="亚杯赛评", 01-14⬇️U23亚洲杯小组赛⬇️⚽📡
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="亚杯赛评", 19:30中国U23🆚泰国U23
@@ -254,114 +209,114 @@ http://rihou.cc:555/tv/14亚杯咪评述
 #EXTINF:-1 group-title="赛事精锦", ⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦", 联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛11
+http://rihou.cc:555/tv/联赛回放赛13
 #EXTINF:-1 group-title="赛事精锦", NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛11
+http://rihou.cc:555/tv/NBA回放赛13
 #EXTINF:-1 group-title="赛事精锦", 羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛11
+http://rihou.cc:555/tv/羽球回放赛13
 #EXTINF:-1 group-title="赛事精锦", 橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛11
+http://rihou.cc:555/tv/橄球回放赛13
 #EXTINF:-1 group-title="赛事精锦", 乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛11
+http://rihou.cc:555/tv/乒球回放赛13
 #EXTINF:-1 group-title="赛事精锦", 网球赛事回放
-http://rihou.cc:555/tv/网球回放赛11
+http://rihou.cc:555/tv/网球回放赛13
 #EXTINF:-1 group-title="赛事精锦", 排球赛事回放
-http://rihou.cc:555/tv/排球回放赛11
+http://rihou.cc:555/tv/排球回放赛13
 #EXTINF:-1 group-title="赛事精锦", 格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛11
+http://rihou.cc:555/tv/格斗回放赛13
 #EXTINF:-1 group-title="赛事精锦", 斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛11
+http://rihou.cc:555/tv/斯赛回放赛13
 #赛事咪咕
 #EXTINF:-1 group-title="赛事咪咕", 抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
-https://msj.188766.xyz/play?id=3000000020000011528&token=6052b9a46052b9a46052b9a46052b9a4
+https://msj.188766.xyz/play?id=3000000020000011528&token=3869e7bc3869e7bc3869e7bc3869e7bc
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩篮球
-https://msj.188766.xyz/play?id=3000000020000011529&token=6052b9a56052b9a56052b9a56052b9a5
+https://msj.188766.xyz/play?id=3000000020000011529&token=3869e7bd3869e7bd3869e7bd3869e7bd
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩青少
-https://msj.188766.xyz/play?id=3000000020000011525&token=6052b9a16052b9a16052b9a16052b9a1
+https://msj.188766.xyz/play?id=3000000020000011525&token=3869e7b93869e7b93869e7b93869e7b9
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩广场
-https://msj.188766.xyz/play?id=3000000020000011523&token=6052b99f6052b99f6052b99f6052b99f
+https://msj.188766.xyz/play?id=3000000020000011523&token=3869e7b73869e7b73869e7b73869e7b7
 #EXTINF:-1 group-title="赛事咪咕", 军事国防央七
-https://msj.188766.xyz/play?id=3000000010000011518&token=cb6e06c4cb6e06c4cb6e06c4cb6e06c4
+https://msj.188766.xyz/play?id=3000000010000011518&token=a38534dca38534dca38534dca38534dc
 #EXTINF:-1 group-title="赛事咪咕", 军事国防央七
-https://msj.188766.xyz/play?id=3000000020000011522&token=6052b99e6052b99e6052b99e6052b99e
+https://msj.188766.xyz/play?id=3000000020000011522&token=3869e7b63869e7b63869e7b63869e7b6
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播01
-https://msj.188766.xyz/play?id=3000000001000005308&token=2ac6777c2ac6777c2ac6777c2ac6777c
+https://msj.188766.xyz/play?id=3000000001000005308&token=02dda59402dda59402dda59402dda594
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播02
-https://msj.188766.xyz/play?id=3000000001000005969&token=2ac68ebd2ac68ebd2ac68ebd2ac68ebd
+https://msj.188766.xyz/play?id=3000000001000005969&token=02ddbcd502ddbcd502ddbcd502ddbcd5
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播03
-https://msj.188766.xyz/play?id=3000000001000007218&token=2ac75c982ac75c982ac75c982ac75c98
+https://msj.188766.xyz/play?id=3000000001000007218&token=02de8ab002de8ab002de8ab002de8ab0
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播04
-https://msj.188766.xyz/play?id=3000000001000008001&token=2ac7c94f2ac7c94f2ac7c94f2ac7c94f
+https://msj.188766.xyz/play?id=3000000001000008001&token=02def76702def76702def76702def767
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播05
-https://msj.188766.xyz/play?id=3000000001000008176&token=2ac7cdee2ac7cdee2ac7cdee2ac7cdee
+https://msj.188766.xyz/play?id=3000000001000008176&token=02defc0602defc0602defc0602defc06
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播06
-https://msj.188766.xyz/play?id=3000000001000008379&token=2ac7d5732ac7d5732ac7d5732ac7d573
+https://msj.188766.xyz/play?id=3000000001000008379&token=02df038b02df038b02df038b02df038b
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播07
-https://msj.188766.xyz/play?id=3000000001000010129&token=2ad241df2ad241df2ad241df2ad241df
+https://msj.188766.xyz/play?id=3000000001000010129&token=02e96ff702e96ff702e96ff702e96ff7
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播08
-https://msj.188766.xyz/play?id=3000000001000010948&token=2ad260242ad260242ad260242ad26024
+https://msj.188766.xyz/play?id=3000000001000010948&token=02e98e3c02e98e3c02e98e3c02e98e3c
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播09
-https://msj.188766.xyz/play?id=3000000001000028638&token=2ae40f3b2ae40f3b2ae40f3b2ae40f3b
+https://msj.188766.xyz/play?id=3000000001000028638&token=02fb3d5302fb3d5302fb3d5302fb3d53
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播10
-https://msj.188766.xyz/play?id=3000000001000031494&token=2aeef1572aeef1572aeef1572aeef157
+https://msj.188766.xyz/play?id=3000000001000031494&token=03061f6f03061f6f03061f6f03061f6f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播11
-https://msj.188766.xyz/play?id=3000000010000000097&token=cb5f6916cb5f6916cb5f6916cb5f6916
+https://msj.188766.xyz/play?id=3000000010000000097&token=a376972ea376972ea376972ea376972e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播12
-https://msj.188766.xyz/play?id=3000000010000002019&token=cb6050decb6050decb6050decb6050de
+https://msj.188766.xyz/play?id=3000000010000002019&token=a3777ef6a3777ef6a3777ef6a3777ef6
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播13
-https://msj.188766.xyz/play?id=3000000010000002809&token=cb606ec7cb606ec7cb606ec7cb606ec7
+https://msj.188766.xyz/play?id=3000000010000002809&token=a3779cdfa3779cdfa3779cdfa3779cdf
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播14
-https://msj.188766.xyz/play?id=3000000010000003915&token=cb60e702cb60e702cb60e702cb60e702
+https://msj.188766.xyz/play?id=3000000010000003915&token=a378151aa378151aa378151aa378151a
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播15
-https://msj.188766.xyz/play?id=3000000010000004193&token=cb613e4fcb613e4fcb613e4fcb613e4f
+https://msj.188766.xyz/play?id=3000000010000004193&token=a3786c67a3786c67a3786c67a3786c67
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播16
-https://msj.188766.xyz/play?id=3000000010000005837&token=cb61cc3fcb61cc3fcb61cc3fcb61cc3f
+https://msj.188766.xyz/play?id=3000000010000005837&token=a378fa57a378fa57a378fa57a378fa57
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播17
-https://msj.188766.xyz/play?id=3000000010000006077&token=cb622312cb622312cb622312cb622312
+https://msj.188766.xyz/play?id=3000000010000006077&token=a379512aa379512aa379512aa379512a
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播18
-https://msj.188766.xyz/play?id=3000000010000006658&token=cb62395bcb62395bcb62395bcb62395b
+https://msj.188766.xyz/play?id=3000000010000006658&token=a3796773a3796773a3796773a3796773
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播19
-https://msj.188766.xyz/play?id=3000000010000009788&token=cb639a96cb639a96cb639a96cb639a96
+https://msj.188766.xyz/play?id=3000000010000009788&token=a37ac8aea37ac8aea37ac8aea37ac8ae
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播20
-https://msj.188766.xyz/play?id=3000000010000010833&token=cb6d9de1cb6d9de1cb6d9de1cb6d9de1
+https://msj.188766.xyz/play?id=3000000010000010833&token=a384cbf9a384cbf9a384cbf9a384cbf9
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播21
-https://msj.188766.xyz/play?id=3000000010000011297&token=cb6dfc78cb6dfc78cb6dfc78cb6dfc78
+https://msj.188766.xyz/play?id=3000000010000011297&token=a3852a90a3852a90a3852a90a3852a90
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播22
-https://msj.188766.xyz/play?id=3000000010000012558&token=cb6e7b9fcb6e7b9fcb6e7b9fcb6e7b9f
+https://msj.188766.xyz/play?id=3000000010000012558&token=a385a9b7a385a9b7a385a9b7a385a9b7
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播23
-https://msj.188766.xyz/play?id=3000000010000012616&token=cb6e7ee2cb6e7ee2cb6e7ee2cb6e7ee2
+https://msj.188766.xyz/play?id=3000000010000012616&token=a385acfaa385acfaa385acfaa385acfa
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播24
-https://msj.188766.xyz/play?id=3000000010000015470&token=cb6fd531cb6fd531cb6fd531cb6fd531
+https://msj.188766.xyz/play?id=3000000010000015470&token=a3870349a3870349a3870349a3870349
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播25
-https://msj.188766.xyz/play?id=3000000010000015560&token=cb6fd8d3cb6fd8d3cb6fd8d3cb6fd8d3
+https://msj.188766.xyz/play?id=3000000010000015560&token=a38706eba38706eba38706eba38706eb
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播26
-https://msj.188766.xyz/play?id=3000000010000017678&token=cb70c579cb70c579cb70c579cb70c579
+https://msj.188766.xyz/play?id=3000000010000017678&token=a387f391a387f391a387f391a387f391
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播27
-https://msj.188766.xyz/play?id=3000000010000019839&token=cb71b53ecb71b53ecb71b53ecb71b53e
+https://msj.188766.xyz/play?id=3000000010000019839&token=a388e356a388e356a388e356a388e356
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播28
-https://msj.188766.xyz/play?id=3000000010000021904&token=cb7c2d26cb7c2d26cb7c2d26cb7c2d26
+https://msj.188766.xyz/play?id=3000000010000021904&token=a3935b3ea3935b3ea3935b3ea3935b3e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播29
-https://msj.188766.xyz/play?id=3000000010000023434&token=cb7d037ccb7d037ccb7d037ccb7d037c
+https://msj.188766.xyz/play?id=3000000010000023434&token=a3943194a3943194a3943194a3943194
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播30
-https://msj.188766.xyz/play?id=3000000010000025380&token=cb7de910cb7de910cb7de910cb7de910
+https://msj.188766.xyz/play?id=3000000010000025380&token=a3951728a3951728a3951728a3951728
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播31
-https://msj.188766.xyz/play?id=3000000010000027691&token=cb7edd31cb7edd31cb7edd31cb7edd31
+https://msj.188766.xyz/play?id=3000000010000027691&token=a3960b49a3960b49a3960b49a3960b49
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播32
-https://msj.188766.xyz/play?id=3000000010000031669&token=cb8a3a23cb8a3a23cb8a3a23cb8a3a23
+https://msj.188766.xyz/play?id=3000000010000031669&token=a3a1683ba3a1683ba3a1683ba3a1683b
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播33
-https://msj.188766.xyz/play?id=3000000020000011518&token=6052b9856052b9856052b9856052b985
+https://msj.188766.xyz/play?id=3000000020000011518&token=3869e79d3869e79d3869e79d3869e79d
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播34
-https://msj.188766.xyz/play?id=3000000020000011519&token=6052b9866052b9866052b9866052b986
+https://msj.188766.xyz/play?id=3000000020000011519&token=3869e79e3869e79e3869e79e3869e79e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播35
-https://msj.188766.xyz/play?id=3000000020000011520&token=6052b99c6052b99c6052b99c6052b99c
+https://msj.188766.xyz/play?id=3000000020000011520&token=3869e7b43869e7b43869e7b43869e7b4
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播36
-https://msj.188766.xyz/play?id=3000000020000011521&token=6052b99d6052b99d6052b99d6052b99d
+https://msj.188766.xyz/play?id=3000000020000011521&token=3869e7b53869e7b53869e7b53869e7b5
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播4k
-https://msj.188766.xyz/play?id=3000000010000005180&token=cb61b28ccb61b28ccb61b28ccb61b28c
+https://msj.188766.xyz/play?id=3000000010000005180&token=a378e0a4a378e0a4a378e0a4a378e0a4
 #EXTINF:-1 group-title="赛事咪咕", 赛事至臻视界
-https://msj.188766.xyz/play?id=3000000010000015686&token=cb6fdcd8cb6fdcd8cb6fdcd8cb6fdcd8
+https://msj.188766.xyz/play?id=3000000010000015686&token=a3870af0a3870af0a3870af0a3870af0
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
 http://rihou.cc:555/tv/[mg]睛彩竞技
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
@@ -1394,49 +1349,45 @@ https://pull.dxhmt.cn/tv/168666456yinyuy123477.flv
 #EXTINF:-1 group-title="欣赏音乐", ⬇️凯乔电台⬇️
 video://http://rihou.cc:555/tv/dt
 #EXTINF:-1 group-title="欣赏音乐", [21-24]抖直播
-http://rihou.cc:555/tv/凯乔电台抖11
+http://rihou.cc:555/tv/凯乔电台抖13
 #EXTINF:-1 group-title="欣赏音乐", [21-24]抖直播
 video://http://rihou.cc:555/tv/dt
 #EXTINF:-1 group-title="欣赏音乐", ⬇️全天直播⬇️
-video://http://rihou.cc:555/tv/mu11
+video://http://rihou.cc:555/tv/mu13
 #EXTINF:-1 group-title="欣赏音乐", 音乐库播抖播
-video://http://rihou.cc:555/tv/mu11
+video://http://rihou.cc:555/tv/mu13
 #EXTINF:-1 group-title="欣赏音乐", 音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖11
+http://rihou.cc:555/tv/音乐仓库抖13
 #EXTINF:-1 group-title="欣赏音乐", 粤语讲故抖播
-http://rihou.cc:555/tv/粤语讲故抖11
-#EXTINF:-1 group-title="欣赏音乐", 讲故粤语抖播
-http://rihou.cc:555/tv/讲故粤语抖11
-#EXTINF:-1 group-title="欣赏音乐", 经典音乐抖播
-http://rihou.cc:555/tv/经典音乐抖11
+http://rihou.cc:555/tv/粤语讲故抖13
 #EXTINF:-1 group-title="欣赏音乐", 经典老歌抖播
-http://rihou.cc:555/tv/经典老歌抖11
+http://rihou.cc:555/tv/经典老歌抖13
 #EXTINF:-1 group-title="欣赏音乐", 经典旧歌抖播
-http://rihou.cc:555/tv/经典旧歌抖11
-#EXTINF:-1 group-title="欣赏音乐", 经典粤歌抖播
-http://rihou.cc:555/tv/经典粤歌抖11
+http://rihou.cc:555/tv/经典旧歌抖13
 #EXTINF:-1 group-title="欣赏音乐", 谭咏麟乐抖播
-http://rihou.cc:555/tv/谭咏麟乐抖11
+http://rihou.cc:555/tv/谭咏麟乐抖13
 #EXTINF:-1 group-title="欣赏音乐", 张学友乐抖播
-http://rihou.cc:555/tv/张学友乐抖11
+http://rihou.cc:555/tv/张学友乐抖13
 #EXTINF:-1 group-title="欣赏音乐", 刘德华乐抖播
-http://rihou.cc:555/tv/刘德华乐抖11
+http://rihou.cc:555/tv/刘德华乐抖13
 #EXTINF:-1 group-title="欣赏音乐", 周杰伦乐抖播
-http://rihou.cc:555/tv/周杰伦乐抖11
+http://rihou.cc:555/tv/周杰伦乐抖13
+#EXTINF:-1 group-title="欣赏音乐", BEYOND'抖播
+http://rihou.cc:555/tv/BEYOND抖13
 #EXTINF:-1 group-title="欣赏音乐", BEyonD2抖播
-http://rihou.cc:555/tv/BEyonD2抖11
+http://rihou.cc:555/tv/BEyonD2抖13
 #EXTINF:-1 group-title="欣赏音乐", 翡翠音乐抖播
-http://rihou.cc:555/tv/翡翠音乐抖11
+http://rihou.cc:555/tv/翡翠音乐抖13
 #EXTINF:-1 group-title="欣赏音乐", 怀旧音乐抖播
-http://rihou.cc:555/tv/怀旧音乐抖11
+http://rihou.cc:555/tv/怀旧音乐抖13
 #EXTINF:-1 group-title="欣赏音乐", 怀旧粤语抖播
-http://rihou.cc:555/tv/怀旧粤语抖11
+http://rihou.cc:555/tv/怀旧粤语抖13
 #EXTINF:-1 group-title="欣赏音乐", 粤语经典抖播
-http://rihou.cc:555/tv/粤语经典抖11
+http://rihou.cc:555/tv/粤语经典抖13
 #EXTINF:-1 group-title="欣赏音乐", 音乐经典抖播
-http://rihou.cc:555/tv/音乐经典抖11
+http://rihou.cc:555/tv/音乐经典抖13
 #EXTINF:-1 group-title="欣赏音乐", 音乐汇乐抖播
-http://rihou.cc:555/tv/音乐汇乐抖11
+http://rihou.cc:555/tv/音乐汇乐抖13
 #EXTINF:-1 group-title="欣赏音乐", ⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="欣赏音乐", 今日演唱会上
@@ -1712,6 +1663,14 @@ http://cjx.999315.xyz/yzzy/20260109/4076_a3147b88/index.m3u8
 http://cjx.999315.xyz/yzzy/20260110/11001_64254db8/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 轧戏之第06集
 http://cjx.999315.xyz/yzzy/20260110/11002_30777b47/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第07集
+http://cjx.999315.xyz/yzzy/20260111/11079_21f2a5c3/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第08集
+http://cjx.999315.xyz/yzzy/20260111/11080_3f13cf4d/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第09集
+http://cjx.999315.xyz/yzzy/20260112/4317_d290dc6c/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 轧戏之第10集
+http://cjx.999315.xyz/yzzy/20260112/4318_3e6ad89f/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️玉茗茶骨36⬇️
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="新剧追更", 玉茗茶骨01集
@@ -1760,6 +1719,12 @@ http://cjx.999315.xyz/yzzy/20260108/13602_d7419ae0/index.m3u8
 http://cjx.999315.xyz/yzzy/20260109/13635_e87152a7/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 玉茗茶骨23集
 http://cjx.999315.xyz/yzzy/20260110/4119_1b69ebed/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 玉茗茶骨24集
+http://cjx.999315.xyz/yzzy/20260111/13761_0e78a1b0/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 玉茗茶骨25集
+http://cjx.999315.xyz/yzzy/20260112/4255_87db7e71/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 玉茗茶骨26集
+http://cjx.999315.xyz/yzzy/20260112/4256_ec99dd0b/index.m3u8
 #央卫JRtv
 #EXTINF:-1 group-title="央卫JRtv", CCTV-01JRtv
 http://rihou.cc:555/tv/[JR]CCTV-01
@@ -3243,297 +3208,297 @@ https://smt.go-iptv.ggff.net/smart.php?id=mtvhd_twn&token=Goiptv
 https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
 #央卫频特
 #EXTINF:-1 group-title="央卫频特", CCTV-01频特
-https://live.catvod.com/live.php?id=cctv1
+http://huanqiuzhibo.cn/smart.php?id=cctv1
 #EXTINF:-1 group-title="央卫频特", CCTV-02频特
-https://live.catvod.com/live.php?id=cctv2
+http://huanqiuzhibo.cn/smart.php?id=cctv2
 #EXTINF:-1 group-title="央卫频特", CCTV-03频特
-https://live.catvod.com/live.php?id=cctv3
+http://huanqiuzhibo.cn/smart.php?id=cctv3
 #EXTINF:-1 group-title="央卫频特", CCTV-04频特
-https://live.catvod.com/live.php?id=Cctv4
+http://huanqiuzhibo.cn/smart.php?id=Cctv4
 #EXTINF:-1 group-title="央卫频特", CCTV-04频特
-https://live.catvod.com/live.php?id=cctv4
+http://huanqiuzhibo.cn/smart.php?id=cctv4
 #EXTINF:-1 group-title="央卫频特", CCTV-05频特
-https://live.catvod.com/live.php?id=cctv5
+http://huanqiuzhibo.cn/smart.php?id=cctv5
 #EXTINF:-1 group-title="央卫频特", CCTV-5+频特
-https://live.catvod.com/live.php?id=cctv5plus
+http://huanqiuzhibo.cn/smart.php?id=cctv5plus
 #EXTINF:-1 group-title="央卫频特", CCTV-06频特
-https://live.catvod.com/live.php?id=cctv6
+http://huanqiuzhibo.cn/smart.php?id=cctv6
 #EXTINF:-1 group-title="央卫频特", CCTV-07频特
-https://live.catvod.com/live.php?id=cctv7
+http://huanqiuzhibo.cn/smart.php?id=cctv7
 #EXTINF:-1 group-title="央卫频特", CCTV-08频特
-https://live.catvod.com/live.php?id=cctv8hd
+http://huanqiuzhibo.cn/smart.php?id=cctv8hd
 #EXTINF:-1 group-title="央卫频特", CCTV-09频特
-https://live.catvod.com/live.php?id=cctv9hd
+http://huanqiuzhibo.cn/smart.php?id=cctv9hd
 #EXTINF:-1 group-title="央卫频特", CCTV-10频特
-https://live.catvod.com/live.php?id=cctv10hd
+http://huanqiuzhibo.cn/smart.php?id=cctv10hd
 #EXTINF:-1 group-title="央卫频特", CCTV-11频特
-https://live.catvod.com/live.php?id=cctv11
+http://huanqiuzhibo.cn/smart.php?id=cctv11
 #EXTINF:-1 group-title="央卫频特", CCTV-12频特
-https://live.catvod.com/live.php?id=cctv12
+http://huanqiuzhibo.cn/smart.php?id=cctv12
 #EXTINF:-1 group-title="央卫频特", CCTV-13频特
-https://live.catvod.com/live.php?id=cctv13
+http://huanqiuzhibo.cn/smart.php?id=cctv13
 #EXTINF:-1 group-title="央卫频特", CCTV-14频特
-https://live.catvod.com/live.php?id=cctv14
+http://huanqiuzhibo.cn/smart.php?id=cctv14
 #EXTINF:-1 group-title="央卫频特", CCTV-15频特
-https://live.catvod.com/live.php?id=cctv15
+http://huanqiuzhibo.cn/smart.php?id=cctv15
 #EXTINF:-1 group-title="央卫频特", CGTN_英频特
-https://live.catvod.com/live.php?id=CGTN
+http://huanqiuzhibo.cn/smart.php?id=CGTN
 #EXTINF:-1 group-title="央卫频特", 北京卫视频特
-https://live.catvod.com/live.php?id=beijing
+http://huanqiuzhibo.cn/smart.php?id=beijing
 #EXTINF:-1 group-title="央卫频特", 深圳卫视频特
-https://live.catvod.com/live.php?id=shenzhen
+http://huanqiuzhibo.cn/smart.php?id=shenzhen
 #EXTINF:-1 group-title="央卫频特", 广西卫视频特
-https://live.catvod.com/live.php?id=guangxi
+http://huanqiuzhibo.cn/smart.php?id=guangxi
 #EXTINF:-1 group-title="央卫频特", 湖北卫视频特
-https://live.catvod.com/live.php?id=hubei
+http://huanqiuzhibo.cn/smart.php?id=hubei
 #EXTINF:-1 group-title="央卫频特", 东南卫视频特
-https://live.catvod.com/live.php?id=fujian
+http://huanqiuzhibo.cn/smart.php?id=fujian
 #EXTINF:-1 group-title="央卫频特", 广东珠江频特
-https://live.catvod.com/live.php?id=zhujiang
+http://huanqiuzhibo.cn/smart.php?id=zhujiang
 #特区频特
 #EXTINF:-1 group-title="特区频特", Plus综合频特
-https://live.catvod.com/live.php?id=j2_twn
+http://huanqiuzhibo.cn/smart.php?id=j2_twn
 #EXTINF:-1 group-title="特区频特", 凤凰中文频特
-https://live.catvod.com/live.php?id=phoenixtv_hd
+http://huanqiuzhibo.cn/smart.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="特区频特", 凤凰资讯频特
-https://live.catvod.com/live.php?id=phoenixinfo_hd
+http://huanqiuzhibo.cn/smart.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="特区频特", 凤凰香港频特
-https://live.catvod.com/live.php?id=hkphoenix_twn
+http://huanqiuzhibo.cn/smart.php?id=hkphoenix_twn
 #EXTINF:-1 group-title="特区频特", 中天新闻频特
-https://live.catvod.com/live.php?id=ctinews
+http://huanqiuzhibo.cn/smart.php?id=ctinews
 #EXTINF:-1 group-title="特区频特", 有线新闻频特
-https://live.catvod.com/live.php?id=hoycaijing_twn
+http://huanqiuzhibo.cn/smart.php?id=hoycaijing_twn
 #EXTINF:-1 group-title="特区频特", 无线新闻频特
-https://live.catvod.com/live.php?id=inews_twn
+http://huanqiuzhibo.cn/smart.php?id=inews_twn
 #EXTINF:-1 group-title="特区频特", 无线翡翠频特
-https://live.catvod.com/live.php?id=jade_twn
+http://huanqiuzhibo.cn/smart.php?id=jade_twn
 #EXTINF:-1 group-title="特区频特", 无线翡翠频特
-https://live.catvod.com/live.php?id=Jade_xue
+http://huanqiuzhibo.cn/smart.php?id=Jade_xue
 #EXTINF:-1 group-title="特区频特", 无线翡翠频特
-https://live.catvod.com/live.php?id=Tvbjade
+http://huanqiuzhibo.cn/smart.php?id=Tvbjade
 #EXTINF:-1 group-title="特区频特", 无线华丽粤特
-https://live.catvod.com/live.php?id=Wlt
+http://huanqiuzhibo.cn/smart.php?id=Wlt
 #EXTINF:-1 group-title="特区频特", 无线华丽国特
-https://live.catvod.com/live.php?id=Tvbjade
+http://huanqiuzhibo.cn/smart.php?id=Tvbjade
 #EXTINF:-1 group-title="特区频特", 无线明珠频特
-https://live.catvod.com/live.php?id=pearl_twn
+http://huanqiuzhibo.cn/smart.php?id=pearl_twn
 #EXTINF:-1 group-title="特区频特", 无线娱乐频特
-https://live.catvod.com/live.php?id=Tvbentertainment
+http://huanqiuzhibo.cn/smart.php?id=Tvbentertainment
 #EXTINF:-1 group-title="特区频特", 千禧经典频特
-https://live.catvod.com/live.php?id=Tvbclassic
+http://huanqiuzhibo.cn/smart.php?id=Tvbclassic
 #EXTINF:-1 group-title="特区频特", VIUTV'粤频特
-https://live.catvod.com/live.php?id=viu1_twn
+http://huanqiuzhibo.cn/smart.php?id=viu1_twn
 #EXTINF:-1 group-title="特区频特", VIUTV英频特
-https://live.catvod.com/live.php?id=viusix_twn
+http://huanqiuzhibo.cn/smart.php?id=viusix_twn
 #EXTINF:-1 group-title="特区频特", RTHK-31频特
-https://live.catvod.com/live.php?id=rhk31_twn
+http://huanqiuzhibo.cn/smart.php?id=rhk31_twn
 #EXTINF:-1 group-title="特区频特", RTHK-32频特
-https://live.catvod.com/live.php?id=rhk32_twn
+http://huanqiuzhibo.cn/smart.php?id=rhk32_twn
 #EXTINF:-1 group-title="特区频特", 天映频道粤特
-https://live.catvod.com/live.php?id=ctv18_twn
+http://huanqiuzhibo.cn/smart.php?id=ctv18_twn
 #EXTINF:-1 group-title="特区频特", 天映频道国特
-https://live.catvod.com/live.php?id=Celestial
+http://huanqiuzhibo.cn/smart.php?id=Celestial
 #EXTINF:-1 group-title="特区频特", 天映频道闽特
-https://live.catvod.com/live.php?id=Celestialindo
+http://huanqiuzhibo.cn/smart.php?id=Celestialindo
 #EXTINF:-1 group-title="特区频特", 天映经典频特
-https://live.catvod.com/live.php?id=Celestial2
+http://huanqiuzhibo.cn/smart.php?id=Celestial2
 #EXTINF:-1 group-title="特区频特", 美亚电影频特
-https://live.catvod.com/live.php?id=meiyamovie_twn
+http://huanqiuzhibo.cn/smart.php?id=meiyamovie_twn
 #EXTINF:-1 group-title="特区频特", 龙祥电影频特
-https://live.catvod.com/live.php?id=lungxiangtime_twn
+http://huanqiuzhibo.cn/smart.php?id=lungxiangtime_twn
 #EXTINF:-1 group-title="特区频特", 纬来电影频特
-https://live.catvod.com/live.php?id=videolandmovie
+http://huanqiuzhibo.cn/smart.php?id=videolandmovie
 #EXTINF:-1 group-title="特区频特", 新加CHU频特
-https://live.catvod.com/live.php?id=ChannelU
+http://huanqiuzhibo.cn/smart.php?id=ChannelU
 #EXTINF:-1 group-title="特区频特", 新加CH5频特
-https://live.catvod.com/live.php?id=Channel5HD
+http://huanqiuzhibo.cn/smart.php?id=Channel5HD
 #EXTINF:-1 group-title="特区频特", 新加CH8频特
-https://live.catvod.com/live.php?id=Channel8HD
+http://huanqiuzhibo.cn/smart.php?id=Channel8HD
 #EXTINF:-1 group-title="特区频特", Astr爱奇频特
-https://live.catvod.com/live.php?id=Qiyi
+http://huanqiuzhibo.cn/smart.php?id=Qiyi
 #EXTINF:-1 group-title="特区频特", AstrQJ国频特
-https://live.catvod.com/live.php?id=Quanjia
+http://huanqiuzhibo.cn/smart.php?id=Quanjia
 #EXTINF:-1 group-title="特区频特", astroaod频特
-https://live.catvod.com/live.php?id=Aodhd
+http://huanqiuzhibo.cn/smart.php?id=Aodhd
 #EXTINF:-1 group-title="特区频特", Astroaec频特
-https://live.catvod.com/live.php?id=AEC
+http://huanqiuzhibo.cn/smart.php?id=AEC
 #EXTINF:-1 group-title="特区频特", Astr欢喜频特
-https://live.catvod.com/live.php?id=Huahee
+http://huanqiuzhibo.cn/smart.php?id=Huahee
 #闽南频特
 #EXTINF:-1 group-title="闽南频特", 中天新闻频特
-https://live.catvod.com/live.php?id=ctinews
+http://huanqiuzhibo.cn/smart.php?id=ctinews
 #EXTINF:-1 group-title="闽南频特", 东森新闻频特
-https://live.catvod.com/live.php?id=ettvnews
+http://huanqiuzhibo.cn/smart.php?id=ettvnews
 #EXTINF:-1 group-title="闽南频特", 寰宇新闻频特
-https://live.catvod.com/live.php?id=huanyuxinwen_twn
+http://huanqiuzhibo.cn/smart.php?id=huanyuxinwen_twn
 #EXTINF:-1 group-title="闽南频特", tvbs新闻频特
-https://live.catvod.com/live.php?id=tvbs_n
+http://huanqiuzhibo.cn/smart.php?id=tvbs_n
 #EXTINF:-1 group-title="闽南频特", 年代新闻频特
-https://live.catvod.com/live.php?id=niandainews_twn
+http://huanqiuzhibo.cn/smart.php?id=niandainews_twn
 #EXTINF:-1 group-title="闽南频特", 民视新闻频特
-https://live.catvod.com/live.php?id=ftvnew_taiwan
+http://huanqiuzhibo.cn/smart.php?id=ftvnew_taiwan
 #EXTINF:-1 group-title="闽南频特", 中视新闻频特
-https://live.catvod.com/live.php?id=zhongshinews_twn
+http://huanqiuzhibo.cn/smart.php?id=zhongshinews_twn
 #EXTINF:-1 group-title="闽南频特", 台视新闻频特
-https://live.catvod.com/live.php?id=ttvnews_twn
+http://huanqiuzhibo.cn/smart.php?id=ttvnews_twn
 #EXTINF:-1 group-title="闽南频特", 非凡新闻频特
-https://live.catvod.com/live.php?id=feifannews_twn
+http://huanqiuzhibo.cn/smart.php?id=feifannews_twn
 #EXTINF:-1 group-title="闽南频特", 民视闽南频特
-https://live.catvod.com/live.php?id=ftvhd_taiwan
+http://huanqiuzhibo.cn/smart.php?id=ftvhd_taiwan
 #EXTINF:-1 group-title="闽南频特", 中视闽南频特
-https://live.catvod.com/live.php?id=zhongshihd_twn
+http://huanqiuzhibo.cn/smart.php?id=zhongshihd_twn
 #EXTINF:-1 group-title="闽南频特", 华视闽南频特
-https://live.catvod.com/live.php?id=ctshd_twn
+http://huanqiuzhibo.cn/smart.php?id=ctshd_twn
 #EXTINF:-1 group-title="闽南频特", 台视闽南频特
-https://live.catvod.com/live.php?id=ttv_taiwan
+http://huanqiuzhibo.cn/smart.php?id=ttv_taiwan
 #EXTINF:-1 group-title="闽南频特", tvbs闽南频特
-https://live.catvod.com/live.php?id=tvbs
+http://huanqiuzhibo.cn/smart.php?id=tvbs
 #EXTINF:-1 group-title="闽南频特", tvbs欢乐频特
-https://live.catvod.com/live.php?id=tvbshuanle_twn
+http://huanqiuzhibo.cn/smart.php?id=tvbshuanle_twn
 #EXTINF:-1 group-title="闽南频特", 民视第一频特
-https://live.catvod.com/live.php?id=lunghuajingdian_twn
+http://huanqiuzhibo.cn/smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 group-title="闽南频特", 民视台湾频特
-https://live.catvod.com/live.php?id=ftvtaiwan_twn
+http://huanqiuzhibo.cn/smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 group-title="闽南频特", 中视经典频特
-https://live.catvod.com/live.php?id=zhongshi_twn
+http://huanqiuzhibo.cn/smart.php?id=zhongshi_twn
 #EXTINF:-1 group-title="闽南频特", 公视台语频特
-https://live.catvod.com/live.php?id=ctv2_twn
+http://huanqiuzhibo.cn/smart.php?id=ctv2_twn
 #EXTINF:-1 group-title="闽南频特", 台视综合频特
-https://live.catvod.com/live.php?id=ttvzhonghe
+http://huanqiuzhibo.cn/smart.php?id=ttvzhonghe
 #EXTINF:-1 group-title="闽南频特", 中天娱乐频特
-https://live.catvod.com/live.php?id=ctient
+http://huanqiuzhibo.cn/smart.php?id=ctient
 #EXTINF:-1 group-title="闽南频特", 中天综合频特
-https://live.catvod.com/live.php?id=ctizhonghe
+http://huanqiuzhibo.cn/smart.php?id=ctizhonghe
 #EXTINF:-1 group-title="闽南频特", 中天亚洲频特
-https://live.catvod.com/live.php?id=ctiasia_twn
+http://huanqiuzhibo.cn/smart.php?id=ctiasia_twn
 #EXTINF:-1 group-title="闽南频特", 八大第一频特
-https://live.catvod.com/live.php?id=badafirst
+http://huanqiuzhibo.cn/smart.php?id=badafirst
 #EXTINF:-1 group-title="闽南频特", 八大综合频特
-https://live.catvod.com/live.php?id=badazhonghe
+http://huanqiuzhibo.cn/smart.php?id=badazhonghe
 #EXTINF:-1 group-title="闽南频特", 八大戏剧频特
-https://live.catvod.com/live.php?id=badadrama
+http://huanqiuzhibo.cn/smart.php?id=badadrama
 #EXTINF:-1 group-title="闽南频特", 八大娱乐频特
-https://live.catvod.com/live.php?id=badaentertain
+http://huanqiuzhibo.cn/smart.php?id=badaentertain
 #EXTINF:-1 group-title="闽南频特", 东森综合频特
-https://live.catvod.com/live.php?id=ettvzhonghe
+http://huanqiuzhibo.cn/smart.php?id=ettvzhonghe
 #EXTINF:-1 group-title="闽南频特", 东森戏剧频特
-https://live.catvod.com/live.php?id=ettvdrama
+http://huanqiuzhibo.cn/smart.php?id=ettvdrama
 #EXTINF:-1 group-title="闽南频特", 东森洋片频特
-https://live.catvod.com/live.php?id=ettvwestern
+http://huanqiuzhibo.cn/smart.php?id=ettvwestern
 #EXTINF:-1 group-title="闽南频特", 东森电影频特
-https://live.catvod.com/live.php?id=ettvmovie
+http://huanqiuzhibo.cn/smart.php?id=ettvmovie
 #EXTINF:-1 group-title="闽南频特", 东森幼幼频特
-https://live.catvod.com/live.php?id=yoyo_twn
+http://huanqiuzhibo.cn/smart.php?id=yoyo_twn
 #EXTINF:-1 group-title="闽南频特", 东森超视频特
-https://live.catvod.com/live.php?id=ettvsuper
+http://huanqiuzhibo.cn/smart.php?id=ettvsuper
 #EXTINF:-1 group-title="闽南频特", 东森财经频特
-https://live.catvod.com/live.php?id=ettvcaijing_twn
+http://huanqiuzhibo.cn/smart.php?id=ettvcaijing_twn
 #EXTINF:-1 group-title="闽南频特", 寰宇财经频特
-https://live.catvod.com/live.php?id=huanyutaiwan_twn
+http://huanqiuzhibo.cn/smart.php?id=huanyutaiwan_twn
 #EXTINF:-1 group-title="闽南频特", 华艺综合频特
-https://live.catvod.com/live.php?id=weishichinese_twn
+http://huanqiuzhibo.cn/smart.php?id=weishichinese_twn
 #EXTINF:-1 group-title="闽南频特", 阿里郎综频特
-https://live.catvod.com/live.php?id=arirang_twn
+http://huanqiuzhibo.cn/smart.php?id=arirang_twn
 #EXTINF:-1 group-title="闽南频特", AXN电影频特
-https://live.catvod.com/live.php?id=axn_twn
+http://huanqiuzhibo.cn/smart.php?id=axn_twn
 #EXTINF:-1 group-title="闽南频特", CInemax频特
-https://live.catvod.com/live.php?id=cinemax_twn
+http://huanqiuzhibo.cn/smart.php?id=cinemax_twn
 #EXTINF:-1 group-title="闽南频特", HBo高清频特
-https://live.catvod.com/live.php?id=hbohd_twn
+http://huanqiuzhibo.cn/smart.php?id=hbohd_twn
 #EXTINF:-1 group-title="闽南频特", HBo家庭频特
-https://live.catvod.com/live.php?id=fyi_twn
+http://huanqiuzhibo.cn/smart.php?id=fyi_twn
 #EXTINF:-1 group-title="闽南频特", 好莱电影频特
-https://live.catvod.com/live.php?id=hollywoodmovies_twn
+http://huanqiuzhibo.cn/smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 group-title="闽南频特", 龙祥电影频特
-https://live.catvod.com/live.php?id=lungxiangtime_twn
+http://huanqiuzhibo.cn/smart.php?id=lungxiangtime_twn
 #EXTINF:-1 group-title="闽南频特", 龙华经典频特
-https://live.catvod.com/live.php?id=lunghuajingdian_twn
+http://huanqiuzhibo.cn/smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 group-title="闽南频特", 龙华戏剧频特
-https://live.catvod.com/live.php?id=lunghuaxiju_twn
+http://huanqiuzhibo.cn/smart.php?id=lunghuaxiju_twn
 #EXTINF:-1 group-title="闽南频特", 龙华电影频特
-https://live.catvod.com/live.php?id=xingwei_movie
+http://huanqiuzhibo.cn/smart.php?id=xingwei_movie
 #EXTINF:-1 group-title="闽南频特", 龙华偶像频特
-https://live.catvod.com/live.php?id=lunghuaidol_twn
+http://huanqiuzhibo.cn/smart.php?id=lunghuaidol_twn
 #EXTINF:-1 group-title="闽南频特", 龙华洋片频特
-https://live.catvod.com/live.php?id=lunghuawestern_twn
+http://huanqiuzhibo.cn/smart.php?id=lunghuawestern_twn
 #EXTINF:-1 group-title="闽南频特", 纬来电影频特
-https://live.catvod.com/live.php?id=videolandmovie
+http://huanqiuzhibo.cn/smart.php?id=videolandmovie
 #EXTINF:-1 group-title="闽南频特", 纬来日本频特
-https://live.catvod.com/live.php?id=videolandjapan
+http://huanqiuzhibo.cn/smart.php?id=videolandjapan
 #EXTINF:-1 group-title="闽南频特", 纬来体育频特
-https://live.catvod.com/live.php?id=videolandsport
+http://huanqiuzhibo.cn/smart.php?id=videolandsport
 #EXTINF:-1 group-title="闽南频特", 纬来综合频特
-https://live.catvod.com/live.php?id=videolandzonghe
+http://huanqiuzhibo.cn/smart.php?id=videolandzonghe
 #EXTINF:-1 group-title="闽南频特", 纬来育乐频特
-https://live.catvod.com/live.php?id=videolandyule
+http://huanqiuzhibo.cn/smart.php?id=videolandyule
 #EXTINF:-1 group-title="闽南频特", 纬来精彩频特
-https://live.catvod.com/live.php?id=videolandspecial_twn
+http://huanqiuzhibo.cn/smart.php?id=videolandspecial_twn
 #EXTINF:-1 group-title="闽南频特", 靖天国际频特
-https://live.catvod.com/live.php?id=jingtianintl_twn
+http://huanqiuzhibo.cn/smart.php?id=jingtianintl_twn
 #EXTINF:-1 group-title="闽南频特", 靖天卡通频特
-https://live.catvod.com/live.php?id=jingtiancartoon_twn
+http://huanqiuzhibo.cn/smart.php?id=jingtiancartoon_twn
 #EXTINF:-1 group-title="闽南频特", 大爱壹台频特
-https://live.catvod.com/live.php?id=daai_twn
+http://huanqiuzhibo.cn/smart.php?id=daai_twn
 #EXTINF:-1 group-title="闽南频特", 大爱贰台频特
-https://live.catvod.com/live.php?id=daai2_twn
+http://huanqiuzhibo.cn/smart.php?id=daai2_twn
 #EXTINF:-1 group-title="闽南频特", 好消息贰频特
-https://live.catvod.com/live.php?id=good2_twn
+http://huanqiuzhibo.cn/smart.php?id=good2_twn
 #EXTINF:-1 group-title="闽南频特", 三立闽南频特
-https://live.catvod.com/live.php?id=sanlitaiwan
+http://huanqiuzhibo.cn/smart.php?id=sanlitaiwan
 #EXTINF:-1 group-title="闽南频特", 三立戏剧频特
-https://live.catvod.com/live.php?id=sanlixiju_twn
+http://huanqiuzhibo.cn/smart.php?id=sanlixiju_twn
 #EXTINF:-1 group-title="闽南频特", 三立综合频特
-https://live.catvod.com/live.php?id=sanlizhonghe
+http://huanqiuzhibo.cn/smart.php?id=sanlizhonghe
 #EXTINF:-1 group-title="闽南频特", 三立都会频特
-https://live.catvod.com/live.php?id=sanlidouhui
+http://huanqiuzhibo.cn/smart.php?id=sanlidouhui
 #EXTINF:-1 group-title="闽南频特", ELta影剧频特
-https://live.catvod.com/live.php?id=eltayingju_twn
+http://huanqiuzhibo.cn/smart.php?id=eltayingju_twn
 #EXTINF:-1 group-title="闽南频特", ELta综合频特
-https://live.catvod.com/live.php?id=eltazonghe_twn
+http://huanqiuzhibo.cn/smart.php?id=eltazonghe_twn
 #EXTINF:-1 group-title="闽南频特", ELTA体1频特
-https://live.catvod.com/live.php?id=eltasport_twn
+http://huanqiuzhibo.cn/smart.php?id=eltasport_twn
 #EXTINF:-1 group-title="闽南频特", ELTA体2频特
-https://live.catvod.com/live.php?id=eltasport2_twn
+http://huanqiuzhibo.cn/smart.php?id=eltasport2_twn
 #EXTINF:-1 group-title="闽南频特", ELTA体3频特
-https://live.catvod.com/live.php?id=eltasport3_twn
+http://huanqiuzhibo.cn/smart.php?id=eltasport3_twn
 #EXTINF:-1 group-title="闽南频特", Eleven一频特
-https://live.catvod.com/live.php?id=golfchannel_twn
+http://huanqiuzhibo.cn/smart.php?id=golfchannel_twn
 #EXTINF:-1 group-title="闽南频特", 博斯无限频特
-https://live.catvod.com/live.php?id=bosiunlimited_twn
+http://huanqiuzhibo.cn/smart.php?id=bosiunlimited_twn
 #EXTINF:-1 group-title="闽南频特", 博斯网球频特
-https://live.catvod.com/live.php?id=bositennis_twn
+http://huanqiuzhibo.cn/smart.php?id=bositennis_twn
 #EXTINF:-1 group-title="闽南频特", 博斯运动壹特
-https://live.catvod.com/live.php?id=bosisport1_twn
+http://huanqiuzhibo.cn/smart.php?id=bosisport1_twn
 #EXTINF:-1 group-title="闽南频特", 博斯运动贰特
-https://live.catvod.com/live.php?id=bosisport2_twn
+http://huanqiuzhibo.cn/smart.php?id=bosisport2_twn
 #EXTINF:-1 group-title="闽南频特", 博斯高球壹特
-https://live.catvod.com/live.php?id=bosigolf1_twn
+http://huanqiuzhibo.cn/smart.php?id=bosigolf1_twn
 #EXTINF:-1 group-title="闽南频特", 博斯高球贰特
-https://live.catvod.com/live.php?id=bosigolf2_twn
+http://huanqiuzhibo.cn/smart.php?id=bosigolf2_twn
 #EXTINF:-1 group-title="闽南频特", 探索亚洲频特
-https://live.catvod.com/live.php?id=discoverytwn_twn
+http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
 #EXTINF:-1 group-title="闽南频特", 国家地理频特
-https://live.catvod.com/live.php?id=natgeohd_twn
+http://huanqiuzhibo.cn/smart.php?id=natgeohd_twn
 #EXTINF:-1 group-title="闽南频特", 野生动物频特
-https://live.catvod.com/live.php?id=natgeowild_twn
+http://huanqiuzhibo.cn/smart.php?id=natgeowild_twn
 #EXTINF:-1 group-title="闽南频特", 动物星球频特
-https://live.catvod.com/live.php?id=animalplanet_twn
+http://huanqiuzhibo.cn/smart.php?id=animalplanet_twn
 #EXTINF:-1 group-title="闽南频特", 美食星球频特
-https://live.catvod.com/live.php?id=foodplanet_twn
+http://huanqiuzhibo.cn/smart.php?id=foodplanet_twn
 #EXTINF:-1 group-title="闽南频特", 亚洲美食频特
-https://live.catvod.com/live.php?id=afc_twn
+http://huanqiuzhibo.cn/smart.php?id=afc_twn
 #EXTINF:-1 group-title="闽南频特", 亚洲旅游频特
-https://live.catvod.com/live.php?id=asiatravel_twn
+http://huanqiuzhibo.cn/smart.php?id=asiatravel_twn
 #EXTINF:-1 group-title="闽南频特", 亚洲TLC频特
-https://live.catvod.com/live.php?id=tlc_twn
+http://huanqiuzhibo.cn/smart.php?id=tlc_twn
 #EXTINF:-1 group-title="闽南频特", EYE-旅游频特
-https://live.catvod.com/live.php?id=eyetvtravel_twn
+http://huanqiuzhibo.cn/smart.php?id=eyetvtravel_twn
 #EXTINF:-1 group-title="闽南频特", EYE-戏剧频特
-https://live.catvod.com/live.php?id=eyetvxiju_twn
+http://huanqiuzhibo.cn/smart.php?id=eyetvxiju_twn
 #EXTINF:-1 group-title="闽南频特", MTv高清频特
-https://live.catvod.com/live.php?id=mtvhd_twn
+http://huanqiuzhibo.cn/smart.php?id=mtvhd_twn
 #EXTINF:-1 group-title="闽南频特", Discover频特
-https://live.catvod.com/live.php?id=discoverytwn_twn
+http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
 #抖音网页
 #EXTINF:-1 group-title="抖音网页", ⬇️赛事抖音网页直播⬇️
 http://rihou.cc:555/tv/t
@@ -8132,625 +8097,625 @@ https://smt.go-iptv.ggff.net/smart.php?id=bstbs_japan&token=Goiptv
 https://smt.go-iptv.ggff.net/smart.php?id=nhkosaka_japan&token=Goiptv
 #体育频特
 #EXTINF:-1 group-title="体育频特", Astro Premier League 1
-https://live.catvod.com/live.php?id=go_assp1
+http://huanqiuzhibo.cn/smart.php?id=go_assp1
 #EXTINF:-1 group-title="体育频特", Astro EPL 1 backup
-https://live.catvod.com/live.php?id=go_assp1x
+http://huanqiuzhibo.cn/smart.php?id=go_assp1x
 #EXTINF:-1 group-title="体育频特", Astro Premier League 2
-https://live.catvod.com/live.php?id=go_assp2
+http://huanqiuzhibo.cn/smart.php?id=go_assp2
 #EXTINF:-1 group-title="体育频特", Astro Grandstand
-https://live.catvod.com/live.php?id=go_assp3
+http://huanqiuzhibo.cn/smart.php?id=go_assp3
 #EXTINF:-1 group-title="体育频特", Astro Football
-https://live.catvod.com/live.php?id=go_assp4
+http://huanqiuzhibo.cn/smart.php?id=go_assp4
 #EXTINF:-1 group-title="体育频特", Astro Sports Plus
-https://live.catvod.com/live.php?id=go_sportsplus
+http://huanqiuzhibo.cn/smart.php?id=go_sportsplus
 #EXTINF:-1 group-title="体育频特", Astro Badminton 1
-https://live.catvod.com/live.php?id=go_badminton1
+http://huanqiuzhibo.cn/smart.php?id=go_badminton1
 #EXTINF:-1 group-title="体育频特", Astro Badminton 2
-https://live.catvod.com/live.php?id=go_badminton2
+http://huanqiuzhibo.cn/smart.php?id=go_badminton2
 #EXTINF:-1 group-title="体育频特", Astro W-Sports
-https://live.catvod.com/live.php?id=go_assp5
+http://huanqiuzhibo.cn/smart.php?id=go_assp5
 #EXTINF:-1 group-title="体育频特", Supersports 1
-https://live.catvod.com/live.php?id=Assp1
+http://huanqiuzhibo.cn/smart.php?id=Assp1
 #EXTINF:-1 group-title="体育频特", Supersports 2
-https://live.catvod.com/live.php?id=Assp2
+http://huanqiuzhibo.cn/smart.php?id=Assp2
 #EXTINF:-1 group-title="体育频特", Supersports 3
-https://live.catvod.com/live.php?id=Assp3
+http://huanqiuzhibo.cn/smart.php?id=Assp3
 #EXTINF:-1 group-title="体育频特", Supersports 4
-https://live.catvod.com/live.php?id=Assp4
+http://huanqiuzhibo.cn/smart.php?id=Assp4
 #EXTINF:-1 group-title="体育频特", WWE
-https://live.catvod.com/live.php?id=Wwe
+http://huanqiuzhibo.cn/smart.php?id=Wwe
 #EXTINF:-1 group-title="体育频特", Fight Sports
-https://live.catvod.com/live.php?id=Fs
+http://huanqiuzhibo.cn/smart.php?id=Fs
 #EXTINF:-1 group-title="体育频特", NBA TV
-https://live.catvod.com/live.php?id=Nba
+http://huanqiuzhibo.cn/smart.php?id=Nba
 #EXTINF:-1 group-title="体育频特", Astro Cricket
-https://live.catvod.com/live.php?id=Acricket
+http://huanqiuzhibo.cn/smart.php?id=Acricket
 #EXTINF:-1 group-title="体育频特", Astro Golf
-https://live.catvod.com/live.php?id=Agolf
+http://huanqiuzhibo.cn/smart.php?id=Agolf
 #EXTINF:-1 group-title="体育频特", Tnt Sports 1
-https://live.catvod.com/live.php?id=6fac0aaead
+http://huanqiuzhibo.cn/smart.php?id=6fac0aaead
 #EXTINF:-1 group-title="体育频特", TNT Sports 2
-https://live.catvod.com/live.php?id=d9a76a79cc
+http://huanqiuzhibo.cn/smart.php?id=d9a76a79cc
 #EXTINF:-1 group-title="体育频特", TNT Sports 3
-https://live.catvod.com/live.php?id=5fea4d73db
+http://huanqiuzhibo.cn/smart.php?id=5fea4d73db
 #EXTINF:-1 group-title="体育频特", TNT Sports 4
-https://live.catvod.com/live.php?id=tntsport4
+http://huanqiuzhibo.cn/smart.php?id=tntsport4
 #EXTINF:-1 group-title="体育频特", Sony Ten 1
-https://live.catvod.com/live.php?id=ten1_raj
+http://huanqiuzhibo.cn/smart.php?id=ten1_raj
 #EXTINF:-1 group-title="体育频特", Sony Ten 2
-https://live.catvod.com/live.php?id=ten2_raj
+http://huanqiuzhibo.cn/smart.php?id=ten2_raj
 #EXTINF:-1 group-title="体育频特", Sony Ten 3
-https://live.catvod.com/live.php?id=ten3_raj
+http://huanqiuzhibo.cn/smart.php?id=ten3_raj
 #EXTINF:-1 group-title="体育频特", SPOTV 1 HD
-https://live.catvod.com/live.php?id=go_spotv
+http://huanqiuzhibo.cn/smart.php?id=go_spotv
 #EXTINF:-1 group-title="体育频特", SPO TV 2
-https://live.catvod.com/live.php?id=go_spotv2
+http://huanqiuzhibo.cn/smart.php?id=go_spotv2
 #EXTINF:-1 group-title="体育频特", Skysports F1
-https://live.catvod.com/live.php?id=tiankongf1
+http://huanqiuzhibo.cn/smart.php?id=tiankongf1
 #EXTINF:-1 group-title="体育频特", Skysports Cricket
-https://live.catvod.com/live.php?id=tiankongcricket
+http://huanqiuzhibo.cn/smart.php?id=tiankongcricket
 #EXTINF:-1 group-title="体育频特", Skysports EPL
-https://live.catvod.com/live.php?id=tiankongepl
+http://huanqiuzhibo.cn/smart.php?id=tiankongepl
 #EXTINF:-1 group-title="体育频特", Skysports Main Event
-https://live.catvod.com/live.php?id=tiankongmain
+http://huanqiuzhibo.cn/smart.php?id=tiankongmain
 #EXTINF:-1 group-title="体育频特", Skysports News
-https://live.catvod.com/live.php?id=tiankongnews
+http://huanqiuzhibo.cn/smart.php?id=tiankongnews
 #EXTINF:-1 group-title="体育频特", Skysports Mix
-https://live.catvod.com/live.php?id=tiankongmix
+http://huanqiuzhibo.cn/smart.php?id=tiankongmix
 #EXTINF:-1 group-title="体育频特", 爱尔达体育2台
-https://live.catvod.com/live.php?id=eltasport2_twn
+http://huanqiuzhibo.cn/smart.php?id=eltasport2_twn
 #EXTINF:-1 group-title="体育频特", 爱尔达体育3台
-https://live.catvod.com/live.php?id=eltasport3_twn
+http://huanqiuzhibo.cn/smart.php?id=eltasport3_twn
 #EXTINF:-1 group-title="体育频特", Rugby Pass TV
-https://live.catvod.com/live.php?id=Rugbypasstv
+http://huanqiuzhibo.cn/smart.php?id=Rugbypasstv
 #EXTINF:-1 group-title="体育频特", RTM Sports HD
-https://live.catvod.com/live.php?id=Rtmsport
+http://huanqiuzhibo.cn/smart.php?id=Rtmsport
 #EXTINF:-1 group-title="体育频特", Arena
-https://live.catvod.com/live.php?id=Arena
+http://huanqiuzhibo.cn/smart.php?id=Arena
 #EXTINF:-1 group-title="体育频特", Arena 2
-https://live.catvod.com/live.php?id=Arena2
+http://huanqiuzhibo.cn/smart.php?id=Arena2
 #EXTINF:-1 group-title="体育频特", BolaArena 1
-https://live.catvod.com/live.php?id=Bolaarena1
+http://huanqiuzhibo.cn/smart.php?id=Bolaarena1
 #EXTINF:-1 group-title="体育频特", BolaArena 2
-https://live.catvod.com/live.php?id=Bolaarena2
+http://huanqiuzhibo.cn/smart.php?id=Bolaarena2
 #EXTINF:-1 group-title="体育频特", Astro Beinsports 1
-https://live.catvod.com/live.php?id=Astrobein1
+http://huanqiuzhibo.cn/smart.php?id=Astrobein1
 #EXTINF:-1 group-title="体育频特", Astro Beinsports 2
-https://live.catvod.com/live.php?id=Astrobein2
+http://huanqiuzhibo.cn/smart.php?id=Astrobein2
 #EXTINF:-1 group-title="体育频特", Astro Beinsports 3
-https://live.catvod.com/live.php?id=Astrobein3
+http://huanqiuzhibo.cn/smart.php?id=Astrobein3
 #电影频特
 #EXTINF:-1 group-title="电影频特", Cinemax
-https://live.catvod.com/live.php?id=Cinemax
+http://huanqiuzhibo.cn/smart.php?id=Cinemax
 #EXTINF:-1 group-title="电影频特", Animax
-https://live.catvod.com/live.php?id=Animax
+http://huanqiuzhibo.cn/smart.php?id=Animax
 #EXTINF:-1 group-title="电影频特", Movies Now HD
-https://live.catvod.com/live.php?id=moviesnow_raj
+http://huanqiuzhibo.cn/smart.php?id=moviesnow_raj
 #EXTINF:-1 group-title="电影频特", Star Movies HD
-https://live.catvod.com/live.php?id=starmovies_raj
+http://huanqiuzhibo.cn/smart.php?id=starmovies_raj
 #EXTINF:-1 group-title="电影频特", HBO Family
-https://live.catvod.com/live.php?id=Hbofamily
+http://huanqiuzhibo.cn/smart.php?id=Hbofamily
 #EXTINF:-1 group-title="电影频特", Hits
-https://live.catvod.com/live.php?id=Hits
+http://huanqiuzhibo.cn/smart.php?id=Hits
 #EXTINF:-1 group-title="电影频特", Warner TV
-https://live.catvod.com/live.php?id=WarnerTV
+http://huanqiuzhibo.cn/smart.php?id=WarnerTV
 #EXTINF:-1 group-title="电影频特", HBO HD
-https://live.catvod.com/live.php?id=Hbo
+http://huanqiuzhibo.cn/smart.php?id=Hbo
 #EXTINF:-1 group-title="电影频特", HBO Signature
-https://live.catvod.com/live.php?id=Hbosignature
+http://huanqiuzhibo.cn/smart.php?id=Hbosignature
 #EXTINF:-1 group-title="电影频特", HBO Hits
-https://live.catvod.com/live.php?id=Hbohitshd
+http://huanqiuzhibo.cn/smart.php?id=Hbohitshd
 #EXTINF:-1 group-title="电影频特", SCM
-https://live.catvod.com/live.php?id=Weishimovie
+http://huanqiuzhibo.cn/smart.php?id=Weishimovie
 #EXTINF:-1 group-title="电影频特", Dreamworks
-https://live.catvod.com/live.php?id=Dreamworks
+http://huanqiuzhibo.cn/smart.php?id=Dreamworks
 #EXTINF:-1 group-title="电影频特", Thrill
-https://live.catvod.com/live.php?id=Thrill
+http://huanqiuzhibo.cn/smart.php?id=Thrill
 #EXTINF:-1 group-title="电影频特", Hits Movie
-https://live.catvod.com/live.php?id=Hitsmovie
+http://huanqiuzhibo.cn/smart.php?id=Hitsmovie
 #EXTINF:-1 group-title="电影频特", One
-https://live.catvod.com/live.php?id=One
+http://huanqiuzhibo.cn/smart.php?id=One
 #EXTINF:-1 group-title="电影频特", tvN Movie
-https://live.catvod.com/live.php?id=Tvnmovie
+http://huanqiuzhibo.cn/smart.php?id=Tvnmovie
 #EXTINF:-1 group-title="电影频特", Celestial Classic
-https://live.catvod.com/live.php?id=Celestial2
+http://huanqiuzhibo.cn/smart.php?id=Celestial2
 #EXTINF:-1 group-title="电影频特", Celestial Movies HD
-https://live.catvod.com/live.php?id=Celestialindo
+http://huanqiuzhibo.cn/smart.php?id=Celestialindo
 #EXTINF:-1 group-title="电影频特", Axn HD
-https://live.catvod.com/live.php?id=Axn
+http://huanqiuzhibo.cn/smart.php?id=Axn
 #EXTINF:-1 group-title="电影频特", Paramount Network
-https://live.catvod.com/live.php?id=Paramountnetwork
+http://huanqiuzhibo.cn/smart.php?id=Paramountnetwork
 #EXTINF:-1 group-title="电影频特", Astrol Kplus
-https://live.catvod.com/live.php?id=Kplus
+http://huanqiuzhibo.cn/smart.php?id=Kplus
 #EXTINF:-1 group-title="电影频特", Rock Actions
-https://live.catvod.com/live.php?id=Rockaction
+http://huanqiuzhibo.cn/smart.php?id=Rockaction
 #EXTINF:-1 group-title="电影频特", Rock Entertainment
-https://live.catvod.com/live.php?id=Rockentertain
+http://huanqiuzhibo.cn/smart.php?id=Rockentertain
 #纪录频特
 #EXTINF:-1 group-title="纪录频特", Natgeo_HD
-https://live.catvod.com/live.php?id=natgeohd_twn
+http://huanqiuzhibo.cn/smart.php?id=natgeohd_twn
 #EXTINF:-1 group-title="纪录频特", NatGeo_Wild HD
-https://live.catvod.com/live.php?id=natgeowild_twn
+http://huanqiuzhibo.cn/smart.php?id=natgeowild_twn
 #EXTINF:-1 group-title="纪录频特", Animal_Planet
-https://live.catvod.com/live.php?id=animalplanet_twn
+http://huanqiuzhibo.cn/smart.php?id=animalplanet_twn
 #EXTINF:-1 group-title="纪录频特", Discovery Asia
-https://live.catvod.com/live.php?id=discoverytwn_twn
+http://huanqiuzhibo.cn/smart.php?id=discoverytwn_twn
 #EXTINF:-1 group-title="纪录频特", CI
-https://live.catvod.com/live.php?id=ci_twn
+http://huanqiuzhibo.cn/smart.php?id=ci_twn
 #EXTINF:-1 group-title="纪录频特", Discovery HD
-https://live.catvod.com/live.php?id=discoveryhd_twn
+http://huanqiuzhibo.cn/smart.php?id=discoveryhd_twn
 #EXTINF:-1 group-title="纪录频特", NatGeo HD
-https://live.catvod.com/live.php?id=Natgeo
+http://huanqiuzhibo.cn/smart.php?id=Natgeo
 #EXTINF:-1 group-title="纪录频特", Fashion TV
-https://live.catvod.com/live.php?id=fashiontv_twn
+http://huanqiuzhibo.cn/smart.php?id=fashiontv_twn
 #EXTINF:-1 group-title="纪录频特", History
-https://live.catvod.com/live.php?id=History
+http://huanqiuzhibo.cn/smart.php?id=History
 #EXTINF:-1 group-title="纪录频特", BBC Earth HD
-https://live.catvod.com/live.php?id=bbcearth_twn
+http://huanqiuzhibo.cn/smart.php?id=bbcearth_twn
 #EXTINF:-1 group-title="纪录频特", BBC Earth Lifestyle
-https://live.catvod.com/live.php?id=bbclifestyle_twn
+http://huanqiuzhibo.cn/smart.php?id=bbclifestyle_twn
 #EXTINF:-1 group-title="纪录频特", NatGeo Wild HD
-https://live.catvod.com/live.php?id=Natgeowild
+http://huanqiuzhibo.cn/smart.php?id=Natgeowild
 #EXTINF:-1 group-title="纪录频特", Animal Planet (Eng)
-https://live.catvod.com/live.php?id=AnimalPlanet
+http://huanqiuzhibo.cn/smart.php?id=AnimalPlanet
 #EXTINF:-1 group-title="纪录频特", TLC
-https://live.catvod.com/live.php?id=Tlc
+http://huanqiuzhibo.cn/smart.php?id=Tlc
 #EXTINF:-1 group-title="纪录频特", Foodnetwork Hd
-https://live.catvod.com/live.php?id=Foodnetwork
+http://huanqiuzhibo.cn/smart.php?id=Foodnetwork
 #EXTINF:-1 group-title="纪录频特", HGTV
-https://live.catvod.com/live.php?id=HGTV
+http://huanqiuzhibo.cn/smart.php?id=HGTV
 #新闻频特
 #EXTINF:-1 group-title="新闻频特", Skynews
-https://live.catvod.com/live.php?id=skynews_twn
+http://huanqiuzhibo.cn/smart.php?id=skynews_twn
 #EXTINF:-1 group-title="新闻频特", ABC News
-https://live.catvod.com/live.php?id=abcnews_glo
+http://huanqiuzhibo.cn/smart.php?id=abcnews_glo
 #EXTINF:-1 group-title="新闻频特", CBS HD
-https://live.catvod.com/live.php?id=cbshd_glo
+http://huanqiuzhibo.cn/smart.php?id=cbshd_glo
 #EXTINF:-1 group-title="新闻频特", CBSN HD
-https://live.catvod.com/live.php?id=cbsn_glo
+http://huanqiuzhibo.cn/smart.php?id=cbsn_glo
 #EXTINF:-1 group-title="新闻频特", France 24
-https://live.catvod.com/live.php?id=france24_twn
+http://huanqiuzhibo.cn/smart.php?id=france24_twn
 #EXTINF:-1 group-title="新闻频特", DW (Deutsch)
-https://live.catvod.com/live.php?id=dw_twn
+http://huanqiuzhibo.cn/smart.php?id=dw_twn
 #EXTINF:-1 group-title="新闻频特", NHK World
-https://live.catvod.com/live.php?id=nhkworld_japan
+http://huanqiuzhibo.cn/smart.php?id=nhkworld_japan
 #EXTINF:-1 group-title="新闻频特", Fox News
-https://live.catvod.com/live.php?id=foxnews_twn
+http://huanqiuzhibo.cn/smart.php?id=foxnews_twn
 #EXTINF:-1 group-title="新闻频特", CNN International
-https://live.catvod.com/live.php?id=Cnn
+http://huanqiuzhibo.cn/smart.php?id=Cnn
 #EXTINF:-1 group-title="新闻频特", CNN backup
-https://live.catvod.com/live.php?id=cnn_twn
+http://huanqiuzhibo.cn/smart.php?id=cnn_twn
 #EXTINF:-1 group-title="新闻频特", CNBC
-https://live.catvod.com/live.php?id=cnbc_twn
+http://huanqiuzhibo.cn/smart.php?id=cnbc_twn
 #EXTINF:-1 group-title="新闻频特", CNA
-https://live.catvod.com/live.php?id=cna
+http://huanqiuzhibo.cn/smart.php?id=cna
 #EXTINF:-1 group-title="新闻频特", BBC World News
-https://live.catvod.com/live.php?id=bbcnews_twn
+http://huanqiuzhibo.cn/smart.php?id=bbcnews_twn
 #EXTINF:-1 group-title="新闻频特", BBC World News
-https://live.catvod.com/live.php?id=Bbcnews
+http://huanqiuzhibo.cn/smart.php?id=Bbcnews
 #EXTINF:-1 group-title="新闻频特", Bloomberg News
-https://live.catvod.com/live.php?id=bloomberg_twn
+http://huanqiuzhibo.cn/smart.php?id=bloomberg_twn
 #EXTINF:-1 group-title="新闻频特", Al-Jazeera
-https://live.catvod.com/live.php?id=aljazeera_twn
+http://huanqiuzhibo.cn/smart.php?id=aljazeera_twn
 #儿童频特
 #EXTINF:-1 group-title="儿童频特", Baby TV Eng
-https://live.catvod.com/live.php?id=Babytv
+http://huanqiuzhibo.cn/smart.php?id=Babytv
 #EXTINF:-1 group-title="儿童频特", CBeebies
-https://live.catvod.com/live.php?id=Cbeebies
+http://huanqiuzhibo.cn/smart.php?id=Cbeebies
 #EXTINF:-1 group-title="儿童频特", Kids TV
-https://live.catvod.com/live.php?id=KidsTV
+http://huanqiuzhibo.cn/smart.php?id=KidsTV
 #EXTINF:-1 group-title="儿童频特", Momo TV
-https://live.catvod.com/live.php?id=momo1_twn
+http://huanqiuzhibo.cn/smart.php?id=momo1_twn
 #EXTINF:-1 group-title="儿童频特", Baby TV
-https://live.catvod.com/live.php?id=babytv_twn
+http://huanqiuzhibo.cn/smart.php?id=babytv_twn
 #EXTINF:-1 group-title="儿童频特", MiaoMi
-https://live.catvod.com/live.php?id=MiaoMi
+http://huanqiuzhibo.cn/smart.php?id=MiaoMi
 #EXTINF:-1 group-title="儿童频特", Cartoon Network
-https://live.catvod.com/live.php?id=Cn
+http://huanqiuzhibo.cn/smart.php?id=Cn
 #EXTINF:-1 group-title="儿童频特", Nickelodeon
-https://live.catvod.com/live.php?id=Nickelodeon
+http://huanqiuzhibo.cn/smart.php?id=Nickelodeon
 #EXTINF:-1 group-title="儿童频特", Nick Jr
-https://live.catvod.com/live.php?id=Nickjr
+http://huanqiuzhibo.cn/smart.php?id=Nickjr
 #新加频特
 #EXTINF:-1 group-title="新加频特", Channel 5
-https://live.catvod.com/live.php?id=Channel5HD
+http://huanqiuzhibo.cn/smart.php?id=Channel5HD
 #EXTINF:-1 group-title="新加频特", Channel 8
-https://live.catvod.com/live.php?id=Channel8HD
+http://huanqiuzhibo.cn/smart.php?id=Channel8HD
 #EXTINF:-1 group-title="新加频特", Suria
-https://live.catvod.com/live.php?id=Suria
+http://huanqiuzhibo.cn/smart.php?id=Suria
 #EXTINF:-1 group-title="新加频特", Channel U
-https://live.catvod.com/live.php?id=ChannelU
+http://huanqiuzhibo.cn/smart.php?id=ChannelU
 #EXTINF:-1 group-title="新加频特", Vasantham
-https://live.catvod.com/live.php?id=Vasantham
+http://huanqiuzhibo.cn/smart.php?id=Vasantham
 #EXTINF:-1 group-title="新加频特", CNA backup
-https://live.catvod.com/live.php?id=cna_twn
+http://huanqiuzhibo.cn/smart.php?id=cna_twn
 #EXTINF:-1 group-title="新加频特", MeWatch Ch 5
-https://live.catvod.com/live.php?id=Mewatch_ch5
+http://huanqiuzhibo.cn/smart.php?id=Mewatch_ch5
 #EXTINF:-1 group-title="新加频特", MeWatch Ch 8
-https://live.catvod.com/live.php?id=Mewatch_ch8
+http://huanqiuzhibo.cn/smart.php?id=Mewatch_ch8
 #EXTINF:-1 group-title="新加频特", MeWatch Ch U
-https://live.catvod.com/live.php?id=Mewatch_chU
+http://huanqiuzhibo.cn/smart.php?id=Mewatch_chU
 #EXTINF:-1 group-title="新加频特", MeWatch Suria
-https://live.catvod.com/live.php?id=Mewatch_Suria
+http://huanqiuzhibo.cn/smart.php?id=Mewatch_Suria
 #EXTINF:-1 group-title="新加频特", MeWatch Vasantham
-https://live.catvod.com/live.php?id=Mewatch_Vasantham
+http://huanqiuzhibo.cn/smart.php?id=Mewatch_Vasantham
 #EXTINF:-1 group-title="新加频特", MeWatch CNA
-https://live.catvod.com/live.php?id=Mewatch_cna
+http://huanqiuzhibo.cn/smart.php?id=Mewatch_cna
 #马来频特
 #EXTINF:-1 group-title="马来频特", TV1
-https://live.catvod.com/live.php?id=TV1
+http://huanqiuzhibo.cn/smart.php?id=TV1
 #EXTINF:-1 group-title="马来频特", TV1 backup
-https://live.catvod.com/live.php?id=TV1_backup
+http://huanqiuzhibo.cn/smart.php?id=TV1_backup
 #EXTINF:-1 group-title="马来频特", TV2
-https://live.catvod.com/live.php?id=TV2
+http://huanqiuzhibo.cn/smart.php?id=TV2
 #EXTINF:-1 group-title="马来频特", TV3
-https://live.catvod.com/live.php?id=TV3
+http://huanqiuzhibo.cn/smart.php?id=TV3
 #EXTINF:-1 group-title="马来频特", TV3 SD
-https://live.catvod.com/live.php?id=TV3_mega
+http://huanqiuzhibo.cn/smart.php?id=TV3_mega
 #EXTINF:-1 group-title="马来频特", NTV7
-https://live.catvod.com/live.php?id=NTV7
+http://huanqiuzhibo.cn/smart.php?id=NTV7
 #EXTINF:-1 group-title="马来频特", TV8
-https://live.catvod.com/live.php?id=TV8
+http://huanqiuzhibo.cn/smart.php?id=TV8
 #EXTINF:-1 group-title="马来频特", TV9
-https://live.catvod.com/live.php?id=TV9
+http://huanqiuzhibo.cn/smart.php?id=TV9
 #EXTINF:-1 group-title="马来频特", Ria
-https://live.catvod.com/live.php?id=Ria-0
+http://huanqiuzhibo.cn/smart.php?id=Ria-0
 #EXTINF:-1 group-title="马来频特", Ria-3
-https://live.catvod.com/live.php?id=Ria_backup
+http://huanqiuzhibo.cn/smart.php?id=Ria_backup
 #EXTINF:-1 group-title="马来频特", Al-Hijrah
-https://live.catvod.com/live.php?id=Alhijrah
+http://huanqiuzhibo.cn/smart.php?id=Alhijrah
 #EXTINF:-1 group-title="马来频特", Al-Hijrah backup
-https://live.catvod.com/live.php?id=Alhijrah_backup
+http://huanqiuzhibo.cn/smart.php?id=Alhijrah_backup
 #EXTINF:-1 group-title="马来频特", Awani
-https://live.catvod.com/live.php?id=Awani
+http://huanqiuzhibo.cn/smart.php?id=Awani
 #EXTINF:-1 group-title="马来频特", Bernama
-https://live.catvod.com/live.php?id=Bernama
+http://huanqiuzhibo.cn/smart.php?id=Bernama
 #EXTINF:-1 group-title="马来频特", Prima
-https://live.catvod.com/live.php?id=Prima-0
+http://huanqiuzhibo.cn/smart.php?id=Prima-0
 #EXTINF:-1 group-title="马来频特", Prima backup
-https://live.catvod.com/live.php?id=AAprima1
+http://huanqiuzhibo.cn/smart.php?id=AAprima1
 #EXTINF:-1 group-title="马来频特", Prima backup 2
-https://live.catvod.com/live.php?id=AAprima
+http://huanqiuzhibo.cn/smart.php?id=AAprima
 #EXTINF:-1 group-title="马来频特", Ceria
-https://live.catvod.com/live.php?id=Ceria
+http://huanqiuzhibo.cn/smart.php?id=Ceria
 #EXTINF:-1 group-title="马来频特", Astro MTV
-https://live.catvod.com/live.php?id=AstroMTV
+http://huanqiuzhibo.cn/smart.php?id=AstroMTV
 #EXTINF:-1 group-title="马来频特", Mecca Live HD
-https://live.catvod.com/live.php?id=quran_mido
+http://huanqiuzhibo.cn/smart.php?id=quran_mido
 #EXTINF:-1 group-title="马来频特", Madinah HD
-https://live.catvod.com/live.php?id=sunnah_mido
+http://huanqiuzhibo.cn/smart.php?id=sunnah_mido
 #EXTINF:-1 group-title="马来频特", Oasis
-https://live.catvod.com/live.php?id=Oasis
+http://huanqiuzhibo.cn/smart.php?id=Oasis
 #EXTINF:-1 group-title="马来频特", Siar
-https://live.catvod.com/live.php?id=Siar
+http://huanqiuzhibo.cn/smart.php?id=Siar
 #EXTINF:-1 group-title="马来频特", Citra
-https://live.catvod.com/live.php?id=AAcitra
+http://huanqiuzhibo.cn/smart.php?id=AAcitra
 #EXTINF:-1 group-title="马来频特", Citra backup
-https://live.catvod.com/live.php?id=AAcitra1
+http://huanqiuzhibo.cn/smart.php?id=AAcitra1
 #EXTINF:-1 group-title="马来频特", Sensasi
-https://live.catvod.com/live.php?id=Sensasi
+http://huanqiuzhibo.cn/smart.php?id=Sensasi
 #EXTINF:-1 group-title="马来频特", Aura
-https://live.catvod.com/live.php?id=Aura
+http://huanqiuzhibo.cn/smart.php?id=Aura
 #EXTINF:-1 group-title="马来频特", Rania
-https://live.catvod.com/live.php?id=Rania
+http://huanqiuzhibo.cn/smart.php?id=Rania
 #EXTINF:-1 group-title="马来频特", KBS World
-https://live.catvod.com/live.php?id=KBS
+http://huanqiuzhibo.cn/smart.php?id=KBS
 #EXTINF:-1 group-title="马来频特", Boo
-https://live.catvod.com/live.php?id=Boo
+http://huanqiuzhibo.cn/smart.php?id=Boo
 #EXTINF:-1 group-title="马来频特", Awesome TV
-https://live.catvod.com/live.php?id=Dsangat
+http://huanqiuzhibo.cn/smart.php?id=Dsangat
 #EXTINF:-1 group-title="马来频特", Astro Sonypix
-https://live.catvod.com/live.php?id=Asonypix
+http://huanqiuzhibo.cn/smart.php?id=Asonypix
 #EXTINF:-1 group-title="马来频特", Sony HD
-https://live.catvod.com/live.php?id=SetOne
+http://huanqiuzhibo.cn/smart.php?id=SetOne
 #EXTINF:-1 group-title="马来频特", TvN
-https://live.catvod.com/live.php?id=TVN
+http://huanqiuzhibo.cn/smart.php?id=TVN
 #EXTINF:-1 group-title="马来频特", AEC
-https://live.catvod.com/live.php?id=AEC
+http://huanqiuzhibo.cn/smart.php?id=AEC
 #EXTINF:-1 group-title="马来频特", 华丽台 HD （Wah Lai Toi）
-https://live.catvod.com/live.php?id=Wlt
+http://huanqiuzhibo.cn/smart.php?id=Wlt
 #EXTINF:-1 group-title="马来频特", 欢喜台 HD （Hua Hee Tai）
-https://live.catvod.com/live.php?id=Huahee
+http://huanqiuzhibo.cn/smart.php?id=Huahee
 #EXTINF:-1 group-title="马来频特", Astro QJ
-https://live.catvod.com/live.php?id=Quanjia
+http://huanqiuzhibo.cn/smart.php?id=Quanjia
 #EXTINF:-1 group-title="马来频特", TVB Jade
-https://live.catvod.com/live.php?id=Tvbjade
+http://huanqiuzhibo.cn/smart.php?id=Tvbjade
 #EXTINF:-1 group-title="马来频特", TVB Asia
-https://live.catvod.com/live.php?id=Tvbasia
+http://huanqiuzhibo.cn/smart.php?id=Tvbasia
 #EXTINF:-1 group-title="马来频特", TVB Entertainment
-https://live.catvod.com/live.php?id=Tvbentertainment
+http://huanqiuzhibo.cn/smart.php?id=Tvbentertainment
 #EXTINF:-1 group-title="马来频特", TVB Classic
-https://live.catvod.com/live.php?id=Tvbclassic
+http://huanqiuzhibo.cn/smart.php?id=Tvbclassic
 #EXTINF:-1 group-title="马来频特", AOD
-https://live.catvod.com/live.php?id=Aodhd
+http://huanqiuzhibo.cn/smart.php?id=Aodhd
 #EXTINF:-1 group-title="马来频特", TVB 星河台 Xing He
-https://live.catvod.com/live.php?id=Xinhe
+http://huanqiuzhibo.cn/smart.php?id=Xinhe
 #EXTINF:-1 group-title="马来频特", 爱奇艺 iQiyi
-https://live.catvod.com/live.php?id=Qiyi
+http://huanqiuzhibo.cn/smart.php?id=Qiyi
 #EXTINF:-1 group-title="马来频特", Goshop
-https://live.catvod.com/live.php?id=Goshop
+http://huanqiuzhibo.cn/smart.php?id=Goshop
 #EXTINF:-1 group-title="马来频特", Celestial Movies HD
-https://live.catvod.com/live.php?id=Celestial
+http://huanqiuzhibo.cn/smart.php?id=Celestial
 #EXTINF:-1 group-title="马来频特", Astro LOL
-https://live.catvod.com/live.php?id=Astro_lol
+http://huanqiuzhibo.cn/smart.php?id=Astro_lol
 #EXTINF:-1 group-title="马来频特", Astro Rusi
-https://live.catvod.com/live.php?id=Rusi
+http://huanqiuzhibo.cn/smart.php?id=Rusi
 #EXTINF:-1 group-title="马来频特", WION
-https://live.catvod.com/live.php?id=Wion
+http://huanqiuzhibo.cn/smart.php?id=Wion
 #EXTINF:-1 group-title="马来频特", RTM Asean
-https://live.catvod.com/live.php?id=Rtmasean
+http://huanqiuzhibo.cn/smart.php?id=Rtmasean
 #印尼频特
 #EXTINF:-1 group-title="印尼频特", TVRI National
-https://live.catvod.com/live.php?id=TVRI
+http://huanqiuzhibo.cn/smart.php?id=TVRI
 #EXTINF:-1 group-title="印尼频特", RCTI
-https://live.catvod.com/live.php?id=Rcti
+http://huanqiuzhibo.cn/smart.php?id=Rcti
 #EXTINF:-1 group-title="印尼频特", Kompass TV
-https://live.catvod.com/live.php?id=Kompass
+http://huanqiuzhibo.cn/smart.php?id=Kompass
 #EXTINF:-1 group-title="印尼频特", Berita Satu
-https://live.catvod.com/live.php?id=BeritaSatu_eko
+http://huanqiuzhibo.cn/smart.php?id=BeritaSatu_eko
 #EXTINF:-1 group-title="印尼频特", Indosiar HD
-https://live.catvod.com/live.php?id=Indosiar
+http://huanqiuzhibo.cn/smart.php?id=Indosiar
 #EXTINF:-1 group-title="印尼频特", AnTV
-https://live.catvod.com/live.php?id=Antv
+http://huanqiuzhibo.cn/smart.php?id=Antv
 #EXTINF:-1 group-title="印尼频特", MNC TV
-https://live.catvod.com/live.php?id=Mnctv
+http://huanqiuzhibo.cn/smart.php?id=Mnctv
 #EXTINF:-1 group-title="印尼频特", Trans 7
-https://live.catvod.com/live.php?id=Trans7_eko
+http://huanqiuzhibo.cn/smart.php?id=Trans7_eko
 #EXTINF:-1 group-title="印尼频特", Transtv
-https://live.catvod.com/live.php?id=Transtv
+http://huanqiuzhibo.cn/smart.php?id=Transtv
 #EXTINF:-1 group-title="印尼频特", JTV
-https://live.catvod.com/live.php?id=JTV_eko
+http://huanqiuzhibo.cn/smart.php?id=JTV_eko
 #EXTINF:-1 group-title="印尼频特", Metro TV
-https://live.catvod.com/live.php?id=metrotv_eko
+http://huanqiuzhibo.cn/smart.php?id=metrotv_eko
 #EXTINF:-1 group-title="印尼频特", SCTV
-https://live.catvod.com/live.php?id=SCTV
+http://huanqiuzhibo.cn/smart.php?id=SCTV
 #EXTINF:-1 group-title="印尼频特", Tvone
-https://live.catvod.com/live.php?id=Tvone
+http://huanqiuzhibo.cn/smart.php?id=Tvone
 #EXTINF:-1 group-title="印尼频特", TVMU
-https://live.catvod.com/live.php?id=TVMU_eko
+http://huanqiuzhibo.cn/smart.php?id=TVMU_eko
 #EXTINF:-1 group-title="印尼频特", GTV
-https://live.catvod.com/live.php?id=Gtv
+http://huanqiuzhibo.cn/smart.php?id=Gtv
 #EXTINF:-1 group-title="印尼频特", RTV
-https://live.catvod.com/live.php?id=Rtv
+http://huanqiuzhibo.cn/smart.php?id=Rtv
 #EXTINF:-1 group-title="印尼频特", Jak TV
-https://live.catvod.com/live.php?id=JakTV
+http://huanqiuzhibo.cn/smart.php?id=JakTV
 #EXTINF:-1 group-title="印尼频特", iNews TV
-https://live.catvod.com/live.php?id=Inewstv
+http://huanqiuzhibo.cn/smart.php?id=Inewstv
 #EXTINF:-1 group-title="印尼频特", Daai TV
-https://live.catvod.com/live.php?id=DaaiTV
+http://huanqiuzhibo.cn/smart.php?id=DaaiTV
 #EXTINF:-1 group-title="印尼频特", Net TV
-https://live.catvod.com/live.php?id=NetTV
+http://huanqiuzhibo.cn/smart.php?id=NetTV
 #EXTINF:-1 group-title="印尼频特", EWTN
-https://live.catvod.com/live.php?id=Ewtn
+http://huanqiuzhibo.cn/smart.php?id=Ewtn
 #EXTINF:-1 group-title="印尼频特", AlQuran AlKareem
-https://live.catvod.com/live.php?id=AlQuran
+http://huanqiuzhibo.cn/smart.php?id=AlQuran
 #EXTINF:-1 group-title="印尼频特", Tawaf TV
-https://live.catvod.com/live.php?id=TawafTV
+http://huanqiuzhibo.cn/smart.php?id=TawafTV
 #EXTINF:-1 group-title="印尼频特", Vision Prime
-https://live.catvod.com/live.php?id=VisionPrime
+http://huanqiuzhibo.cn/smart.php?id=VisionPrime
 #EXTINF:-1 group-title="印尼频特", Muslim TV
-https://live.catvod.com/live.php?id=MuslimTV
+http://huanqiuzhibo.cn/smart.php?id=MuslimTV
 #EXTINF:-1 group-title="印尼频特", Music TV
-https://live.catvod.com/live.php?id=MusicTV
+http://huanqiuzhibo.cn/smart.php?id=MusicTV
 #EXTINF:-1 group-title="印尼频特", Lifestyle&amp;Fashion
-https://live.catvod.com/live.php?id=Lifestyle
+http://huanqiuzhibo.cn/smart.php?id=Lifestyle
 #EXTINF:-1 group-title="印尼频特", Entertain
-https://live.catvod.com/live.php?id=Entertain
+http://huanqiuzhibo.cn/smart.php?id=Entertain
 #印度频特
 #EXTINF:-1 group-title="印度频特", Sun TV HD
-https://live.catvod.com/live.php?id=Suntv
+http://huanqiuzhibo.cn/smart.php?id=Suntv
 #EXTINF:-1 group-title="印度频特", Star Vijay
-https://live.catvod.com/live.php?id=Starvijay
+http://huanqiuzhibo.cn/smart.php?id=Starvijay
 #EXTINF:-1 group-title="印度频特", Colors Tamil
-https://live.catvod.com/live.php?id=Colorstam
+http://huanqiuzhibo.cn/smart.php?id=Colorstam
 #EXTINF:-1 group-title="印度频特", Sun Music
-https://live.catvod.com/live.php?id=Sunmusic
+http://huanqiuzhibo.cn/smart.php?id=Sunmusic
 #EXTINF:-1 group-title="印度频特", Astro Sunlife
-https://live.catvod.com/live.php?id=Sunlife
+http://huanqiuzhibo.cn/smart.php?id=Sunlife
 #EXTINF:-1 group-title="印度频特", Astro Vaanavil
-https://live.catvod.com/live.php?id=Vaanavil
+http://huanqiuzhibo.cn/smart.php?id=Vaanavil
 #EXTINF:-1 group-title="印度频特", Zee Tamil
-https://live.catvod.com/live.php?id=Zeetamil
+http://huanqiuzhibo.cn/smart.php?id=Zeetamil
 #EXTINF:-1 group-title="印度频特", Zee Business
-https://live.catvod.com/live.php?id=Zeebusiness
+http://huanqiuzhibo.cn/smart.php?id=Zeebusiness
 #EXTINF:-1 group-title="印度频特", News 18 Tamil
-https://live.catvod.com/live.php?id=news18tamil_raj
+http://huanqiuzhibo.cn/smart.php?id=news18tamil_raj
 #EXTINF:-1 group-title="印度频特", Adithya
-https://live.catvod.com/live.php?id=Adithya
+http://huanqiuzhibo.cn/smart.php?id=Adithya
 #EXTINF:-1 group-title="印度频特", Makkal TV
-https://live.catvod.com/live.php?id=Makkaltv
+http://huanqiuzhibo.cn/smart.php?id=Makkaltv
 #EXTINF:-1 group-title="印度频特", Zee Action
-https://live.catvod.com/live.php?id=Zeeaction
+http://huanqiuzhibo.cn/smart.php?id=Zeeaction
 #EXTINF:-1 group-title="印度频特", Astro KTV
-https://live.catvod.com/live.php?id=Astroktv
+http://huanqiuzhibo.cn/smart.php?id=Astroktv
 #EXTINF:-1 group-title="印度频特", Zee TV HD
-https://live.catvod.com/live.php?id=Zeetvhd
+http://huanqiuzhibo.cn/smart.php?id=Zeetvhd
 #EXTINF:-1 group-title="印度频特", Zee Cinema HD
-https://live.catvod.com/live.php?id=Zeecinemahd
+http://huanqiuzhibo.cn/smart.php?id=Zeecinemahd
 #EXTINF:-1 group-title="印度频特", Color HD
-https://live.catvod.com/live.php?id=Colorhd
+http://huanqiuzhibo.cn/smart.php?id=Colorhd
 #EXTINF:-1 group-title="印度频特", Starplus HD
-https://live.catvod.com/live.php?id=Starplushd
+http://huanqiuzhibo.cn/smart.php?id=Starplushd
 #EXTINF:-1 group-title="印度频特", Picture HD
-https://live.catvod.com/live.php?id=Npicture
+http://huanqiuzhibo.cn/smart.php?id=Npicture
 #EXTINF:-1 group-title="印度频特", Zee News
-https://live.catvod.com/live.php?id=Zeenews
+http://huanqiuzhibo.cn/smart.php?id=Zeenews
 #EXTINF:-1 group-title="印度频特", Asianet
-https://live.catvod.com/live.php?id=asianet_raj
+http://huanqiuzhibo.cn/smart.php?id=asianet_raj
 #EXTINF:-1 group-title="印度频特", Asianet News
-https://live.catvod.com/live.php?id=asianetnews_raj
+http://huanqiuzhibo.cn/smart.php?id=asianetnews_raj
 #EXTINF:-1 group-title="印度频特", Discovery World Tamil
-https://live.catvod.com/live.php?id=discoveryworldtam_raj
+http://huanqiuzhibo.cn/smart.php?id=discoveryworldtam_raj
 #EXTINF:-1 group-title="印度频特", History Tamil
-https://live.catvod.com/live.php?id=historytam_raj
+http://huanqiuzhibo.cn/smart.php?id=historytam_raj
 #EXTINF:-1 group-title="印度频特", NatGeo Tamil
-https://live.catvod.com/live.php?id=natgeotamil_raj
+http://huanqiuzhibo.cn/smart.php?id=natgeotamil_raj
 #EXTINF:-1 group-title="印度频特", Natgeo Wild Tamil
-https://live.catvod.com/live.php?id=natgeowildtamil_raj
+http://huanqiuzhibo.cn/smart.php?id=natgeowildtamil_raj
 #EXTINF:-1 group-title="印度频特", Discovery Kids Tamil
-https://live.catvod.com/live.php?id=discoverykidtamil_raj
+http://huanqiuzhibo.cn/smart.php?id=discoverykidtamil_raj
 #EXTINF:-1 group-title="印度频特", Discovery Tamil
-https://live.catvod.com/live.php?id=discoverytamil_raj
+http://huanqiuzhibo.cn/smart.php?id=discoverytamil_raj
 #EXTINF:-1 group-title="印度频特", Sony Yay Tamil
-https://live.catvod.com/live.php?id=sonyyaytam_raj
+http://huanqiuzhibo.cn/smart.php?id=sonyyaytam_raj
 #EXTINF:-1 group-title="印度频特", Sun TV India
-https://live.catvod.com/live.php?id=suntv_raj
+http://huanqiuzhibo.cn/smart.php?id=suntv_raj
 #EXTINF:-1 group-title="印度频特", Starmaa HD
-https://live.catvod.com/live.php?id=starmaa_raj
+http://huanqiuzhibo.cn/smart.php?id=starmaa_raj
 #EXTINF:-1 group-title="印度频特", Starmaa Movies HD
-https://live.catvod.com/live.php?id=starmaamovies_raj
+http://huanqiuzhibo.cn/smart.php?id=starmaamovies_raj
 #EXTINF:-1 group-title="印度频特", Bollyone
-https://live.catvod.com/live.php?id=Bollyone
+http://huanqiuzhibo.cn/smart.php?id=Bollyone
 #EXTINF:-1 group-title="印度频特", Vijay Super
-https://live.catvod.com/live.php?id=vijaysuper_raj
+http://huanqiuzhibo.cn/smart.php?id=vijaysuper_raj
 #EXTINF:-1 group-title="印度频特", Vellithirai
-https://live.catvod.com/live.php?id=Vellithirai
+http://huanqiuzhibo.cn/smart.php?id=Vellithirai
 #泰国频特
 #EXTINF:-1 group-title="泰国频特", Channel 3 Thailand
-https://live.catvod.com/live.php?id=ch3_pat
+http://huanqiuzhibo.cn/smart.php?id=ch3_pat
 #EXTINF:-1 group-title="泰国频特", Channel 5 Thailand
-https://live.catvod.com/live.php?id=ch5_pat
+http://huanqiuzhibo.cn/smart.php?id=ch5_pat
 #EXTINF:-1 group-title="泰国频特", Channel 7 Thailand
-https://live.catvod.com/live.php?id=ch7_pat
+http://huanqiuzhibo.cn/smart.php?id=ch7_pat
 #EXTINF:-1 group-title="泰国频特", MCOT HD Thailand-1
-https://live.catvod.com/live.php?id=mcot_pat
+http://huanqiuzhibo.cn/smart.php?id=mcot_pat
 #EXTINF:-1 group-title="泰国频特", PPTV Thailand1
-https://live.catvod.com/live.php?id=pptv_pat
+http://huanqiuzhibo.cn/smart.php?id=pptv_pat
 #EXTINF:-1 group-title="泰国频特", Thai Thai
-https://live.catvod.com/live.php?id=thaithai_pat
+http://huanqiuzhibo.cn/smart.php?id=thaithai_pat
 #EXTINF:-1 group-title="泰国频特", Amarin
-https://live.catvod.com/live.php?id=amarin_pat
+http://huanqiuzhibo.cn/smart.php?id=amarin_pat
 #EXTINF:-1 group-title="泰国频特", Ch 8
-https://live.catvod.com/live.php?id=ch8_pat
+http://huanqiuzhibo.cn/smart.php?id=ch8_pat
 #EXTINF:-1 group-title="泰国频特", GmmOne
-https://live.catvod.com/live.php?id=gmmone_pat
+http://huanqiuzhibo.cn/smart.php?id=gmmone_pat
 #EXTINF:-1 group-title="泰国频特", Mono
-https://live.catvod.com/live.php?id=mono_pat
+http://huanqiuzhibo.cn/smart.php?id=mono_pat
 #EXTINF:-1 group-title="泰国频特", Thairath
-https://live.catvod.com/live.php?id=thairath_pat
+http://huanqiuzhibo.cn/smart.php?id=thairath_pat
 #EXTINF:-1 group-title="泰国频特", tpbs
-https://live.catvod.com/live.php?id=tpbs_pat
+http://huanqiuzhibo.cn/smart.php?id=tpbs_pat
 #EXTINF:-1 group-title="泰国频特", Workpoint
-https://live.catvod.com/live.php?id=workpoint_pat
+http://huanqiuzhibo.cn/smart.php?id=workpoint_pat
 #EXTINF:-1 group-title="泰国频特", Gmm Channel
-https://live.catvod.com/live.php?id=gmmchannel_pat
+http://huanqiuzhibo.cn/smart.php?id=gmmchannel_pat
 #EXTINF:-1 group-title="泰国频特", Nation
-https://live.catvod.com/live.php?id=nation_pat
+http://huanqiuzhibo.cn/smart.php?id=nation_pat
 #EXTINF:-1 group-title="泰国频特", Tnn24
-https://live.catvod.com/live.php?id=tnn24_pat
+http://huanqiuzhibo.cn/smart.php?id=tnn24_pat
 #EXTINF:-1 group-title="泰国频特", Nbt
-https://live.catvod.com/live.php?id=nbt_pat
+http://huanqiuzhibo.cn/smart.php?id=nbt_pat
 #EXTINF:-1 group-title="泰国频特", New
-https://live.catvod.com/live.php?id=new_pat
+http://huanqiuzhibo.cn/smart.php?id=new_pat
 #EXTINF:-1 group-title="泰国频特", TPTV
-https://live.catvod.com/live.php?id=tptv_pat
+http://huanqiuzhibo.cn/smart.php?id=tptv_pat
 #英国频特
 #EXTINF:-1 group-title="英国频特", BBC 1
-https://live.catvod.com/live.php?id=bbc1_antik
+http://huanqiuzhibo.cn/smart.php?id=bbc1_antik
 #EXTINF:-1 group-title="英国频特", BBC 2
-https://live.catvod.com/live.php?id=bbc2_antik
+http://huanqiuzhibo.cn/smart.php?id=bbc2_antik
 #EXTINF:-1 group-title="英国频特", CBBC
-https://live.catvod.com/live.php?id=cbbc_antik
+http://huanqiuzhibo.cn/smart.php?id=cbbc_antik
 #EXTINF:-1 group-title="英国频特", More4
-https://live.catvod.com/live.php?id=more4_antik
+http://huanqiuzhibo.cn/smart.php?id=more4_antik
 #EXTINF:-1 group-title="英国频特", Freesports
-https://live.catvod.com/live.php?id=freesports_antik
+http://huanqiuzhibo.cn/smart.php?id=freesports_antik
 #EXTINF:-1 group-title="英国频特", Pick TV
-https://live.catvod.com/live.php?id=picktv_antik
+http://huanqiuzhibo.cn/smart.php?id=picktv_antik
 #EXTINF:-1 group-title="英国频特", itv 1
-https://live.catvod.com/live.php?id=itv1_antik
+http://huanqiuzhibo.cn/smart.php?id=itv1_antik
 #EXTINF:-1 group-title="英国频特", itv 2
-https://live.catvod.com/live.php?id=itv2_antik
+http://huanqiuzhibo.cn/smart.php?id=itv2_antik
 #EXTINF:-1 group-title="英国频特", Euronews
-https://live.catvod.com/live.php?id=euronews_antik
+http://huanqiuzhibo.cn/smart.php?id=euronews_antik
 #EXTINF:-1 group-title="英国频特", Channel 4
-https://live.catvod.com/live.php?id=channel4_antik
+http://huanqiuzhibo.cn/smart.php?id=channel4_antik
 #EXTINF:-1 group-title="英国频特", BBC World News
-https://live.catvod.com/live.php?id=bbcworldnews_antik
+http://huanqiuzhibo.cn/smart.php?id=bbcworldnews_antik
 #越南频特
 #EXTINF:-1 group-title="越南频特", ANTV
-https://live.catvod.com/live.php?id=viet_antv
+http://huanqiuzhibo.cn/smart.php?id=viet_antv
 #EXTINF:-1 group-title="越南频特", VTV 1
-https://live.catvod.com/live.php?id=viet_vtv1
+http://huanqiuzhibo.cn/smart.php?id=viet_vtv1
 #EXTINF:-1 group-title="越南频特", VTV 7
-https://live.catvod.com/live.php?id=viet_vtv7
+http://huanqiuzhibo.cn/smart.php?id=viet_vtv7
 #EXTINF:-1 group-title="越南频特", HTV 7
-https://live.catvod.com/live.php?id=viet_htv7
+http://huanqiuzhibo.cn/smart.php?id=viet_htv7
 #EXTINF:-1 group-title="越南频特", HTV 9
-https://live.catvod.com/live.php?id=viet_htv9
+http://huanqiuzhibo.cn/smart.php?id=viet_htv9
 #EXTINF:-1 group-title="越南频特", BPTV 2
-https://live.catvod.com/live.php?id=viet_bptv2
+http://huanqiuzhibo.cn/smart.php?id=viet_bptv2
 #EXTINF:-1 group-title="越南频特", BRT HD
-https://live.catvod.com/live.php?id=viet_brt
+http://huanqiuzhibo.cn/smart.php?id=viet_brt
 #EXTINF:-1 group-title="越南频特", Ca Mau TV
-https://live.catvod.com/live.php?id=viet_camautv
+http://huanqiuzhibo.cn/smart.php?id=viet_camautv
 #EXTINF:-1 group-title="越南频特", Danang TV1 HD
-https://live.catvod.com/live.php?id=viet_danangtv1
+http://huanqiuzhibo.cn/smart.php?id=viet_danangtv1
 #EXTINF:-1 group-title="越南频特", Danang TV2 HD
-https://live.catvod.com/live.php?id=viet_danangtv2
+http://huanqiuzhibo.cn/smart.php?id=viet_danangtv2
 #EXTINF:-1 group-title="越南频特", HBTV HD
-https://live.catvod.com/live.php?id=viet_hbtv
+http://huanqiuzhibo.cn/smart.php?id=viet_hbtv
 #EXTINF:-1 group-title="越南频特", PTTH 1
-https://live.catvod.com/live.php?id=viet_ptth1
+http://huanqiuzhibo.cn/smart.php?id=viet_ptth1
 #韩国频特
 #EXTINF:-1 group-title="韩国频特", Arirang HD
-https://live.catvod.com/live.php?id=arirang_korea
+http://huanqiuzhibo.cn/smart.php?id=arirang_korea
 #EXTINF:-1 group-title="韩国频特", Yonhap News
-https://live.catvod.com/live.php?id=yonhapnews_korea
+http://huanqiuzhibo.cn/smart.php?id=yonhapnews_korea
 #EXTINF:-1 group-title="韩国频特", CBS
-https://live.catvod.com/live.php?id=cbs_korea
+http://huanqiuzhibo.cn/smart.php?id=cbs_korea
 #EXTINF:-1 group-title="韩国频特", EBS 1
-https://live.catvod.com/live.php?id=ebs1_korea
+http://huanqiuzhibo.cn/smart.php?id=ebs1_korea
 #EXTINF:-1 group-title="韩国频特", EBS2
-https://live.catvod.com/live.php?id=ebs2_korea
+http://huanqiuzhibo.cn/smart.php?id=ebs2_korea
 #EXTINF:-1 group-title="韩国频特", EBS Plus2
-https://live.catvod.com/live.php?id=ebsplus2_korea
+http://huanqiuzhibo.cn/smart.php?id=ebsplus2_korea
 #EXTINF:-1 group-title="韩国频特", SBS Plus
-https://live.catvod.com/live.php?id=sbsplus_korea
+http://huanqiuzhibo.cn/smart.php?id=sbsplus_korea
 #EXTINF:-1 group-title="韩国频特", YTN
-https://live.catvod.com/live.php?id=ytn_korea
+http://huanqiuzhibo.cn/smart.php?id=ytn_korea
 #EXTINF:-1 group-title="韩国频特", KBS World 24
-https://live.catvod.com/live.php?id=kbsworld24_korea
+http://huanqiuzhibo.cn/smart.php?id=kbsworld24_korea
 #EXTINF:-1 group-title="韩国频特", YTN Science
-https://live.catvod.com/live.php?id=ytnscience_korea
+http://huanqiuzhibo.cn/smart.php?id=ytnscience_korea
 #EXTINF:-1 group-title="韩国频特", YTN Korean
-https://live.catvod.com/live.php?id=ytnkorean_korea
+http://huanqiuzhibo.cn/smart.php?id=ytnkorean_korea
 #EXTINF:-1 group-title="韩国频特", YTN DMB
-https://live.catvod.com/live.php?id=ytndmb_korea
+http://huanqiuzhibo.cn/smart.php?id=ytndmb_korea
 #EXTINF:-1 group-title="韩国频特", Apps TV
-https://live.catvod.com/live.php?id=appongoogle_korea
+http://huanqiuzhibo.cn/smart.php?id=appongoogle_korea
 #EXTINF:-1 group-title="韩国频特", All the Kpop
-https://live.catvod.com/live.php?id=allthekpop_korea
+http://huanqiuzhibo.cn/smart.php?id=allthekpop_korea
 #EXTINF:-1 group-title="韩国频特", J the Kpop
-https://live.catvod.com/live.php?id=jthekpop_korea
+http://huanqiuzhibo.cn/smart.php?id=jthekpop_korea
 #EXTINF:-1 group-title="韩国频特", EBS Kids
-https://live.catvod.com/live.php?id=ebskids_korea
+http://huanqiuzhibo.cn/smart.php?id=ebskids_korea
 #EXTINF:-1 group-title="韩国频特", CGNTV
-https://live.catvod.com/live.php?id=cgntv_korea
+http://huanqiuzhibo.cn/smart.php?id=cgntv_korea
 #日本频特
 #EXTINF:-1 group-title="日本频特", NHK-総合-2
-https://live.catvod.com/live.php?id=nhkg_japan
+http://huanqiuzhibo.cn/smart.php?id=nhkg_japan
 #EXTINF:-1 group-title="日本频特", NHK-E
-https://live.catvod.com/live.php?id=nhke_japan
+http://huanqiuzhibo.cn/smart.php?id=nhke_japan
 #EXTINF:-1 group-title="日本频特", テレビ朝日 Asahi TV
-https://live.catvod.com/live.php?id=asahitv_japan
+http://huanqiuzhibo.cn/smart.php?id=asahitv_japan
 #EXTINF:-1 group-title="日本频特", JET 綜合
-https://live.catvod.com/live.php?id=jettv_japan
+http://huanqiuzhibo.cn/smart.php?id=jettv_japan
 #EXTINF:-1 group-title="日本频特", テレビ東京 Tokyo TV
-https://live.catvod.com/live.php?id=tokyotv_japan
+http://huanqiuzhibo.cn/smart.php?id=tokyotv_japan
 #EXTINF:-1 group-title="日本频特", TOKYOMX
-https://live.catvod.com/live.php?id=tokyomx_japan
+http://huanqiuzhibo.cn/smart.php?id=tokyomx_japan
 #EXTINF:-1 group-title="日本频特", NHKBS1
-https://live.catvod.com/live.php?id=nhkbs1_japan
+http://huanqiuzhibo.cn/smart.php?id=nhkbs1_japan
 #EXTINF:-1 group-title="日本频特", NHKBSプレミア Premium
-https://live.catvod.com/live.php?id=nhkpremium_japan
+http://huanqiuzhibo.cn/smart.php?id=nhkpremium_japan
 #EXTINF:-1 group-title="日本频特", BSジャパン 181
-https://live.catvod.com/live.php?id=bs181_japan
+http://huanqiuzhibo.cn/smart.php?id=bs181_japan
 #EXTINF:-1 group-title="日本频特", BSフジ BS Fuji
-https://live.catvod.com/live.php?id=bsfuji_japan
+http://huanqiuzhibo.cn/smart.php?id=bsfuji_japan
 #EXTINF:-1 group-title="日本频特", CNA Japan
-https://live.catvod.com/live.php?id=cna_japan
+http://huanqiuzhibo.cn/smart.php?id=cna_japan
 #EXTINF:-1 group-title="日本频特", BS-TBS
-https://live.catvod.com/live.php?id=bstbs_japan
+http://huanqiuzhibo.cn/smart.php?id=bstbs_japan
 #EXTINF:-1 group-title="日本频特", NHK Oaska
-https://live.catvod.com/live.php?id=nhkosaka_japan
+http://huanqiuzhibo.cn/smart.php?id=nhkosaka_japan
