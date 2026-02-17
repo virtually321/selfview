@@ -19,44 +19,53 @@ http://rihou.cc:555/tv/[mv]分享更新
 http://rihou.cc:555/tv/[mv]爱扒随便
 #EXTINF:-1 group-title="猫TV影视", ➡️不必纠结⬅️
 http://rihou.cc:555/tv/[mv]不必纠结
-#NBA赛评
-#EXTINF:-1 group-title="NBA赛评", 02-15⬇️NBA常规赛⬇️🏀📡
+#马年贺岁
+#EXTINF:-1 group-title="马年贺岁", 马年粤语贺岁
+http://rihou.cc:555/tv/[mv]粤语贺岁
+#EXTINF:-1 group-title="马年贺岁", 马年国语贺岁
+http://rihou.cc:555/tv/[mv]国语贺岁
+#EXTINF:-1 group-title="马年贺岁", 马年串烧贺岁
+http://rihou.cc:555/tv/[mv]串烧贺岁
+#EXTINF:-1 group-title="马年贺岁", 马年港星贺岁
+http://rihou.cc:555/tv/[mv]港星贺岁
+#亚精赛评
+#EXTINF:-1 group-title="亚精赛评", 02-17⬇️亚冠精英联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评", 06:00全明星投篮之星三分扣篮大赛
+#EXTINF:-1 group-title="亚精赛评", 18:00成都蓉城🆚町田泽维亚
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊15咪评述
-http://rihou.cc:555/tv/15NBA咪评述
-#EXTINF:-1 group-title="NBA赛评", 国🔊15腾评述
-http://rihou.cc:555/tv/15NBA腾评述
-#EXTINF:-1 group-title="NBA赛评", 02-16⬇️NBA常规赛⬇️🏀📡
+#EXTINF:-1 group-title="亚精赛评", 国🔊17咪评述
+http://rihou.cc:555/tv/17亚冠咪评述
+#EXTINF:-1 group-title="亚精赛评", 20:15上海申花🆚武里南联
+http://rihou.cc:555/tv/v
+#EXTINF:-1 group-title="亚精赛评", 国🔊17咪述评
+http://rihou.cc:555/tv/17亚冠咪述评
+#EXTINF:-1 group-title="亚精赛评", 02-18⬇️亚冠精英联赛⬇️⚽📡
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="NBA赛评", 06:00NBA全明星正赛
+#EXTINF:-1 group-title="亚精赛评", 18:00上海海港🆚蔚山HD
 http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="NBA赛评", 国🔊16咪评述
-http://rihou.cc:555/tv/16NBA咪评述
-#EXTINF:-1 group-title="NBA赛评", 国🔊16腾评述
-http://rihou.cc:555/tv/16NBA腾评述
+#EXTINF:-1 group-title="亚精赛评", 国🔊18咪评评
+http://rihou.cc:555/tv/18亚冠咪评评
 #赛事精锦
 #EXTINF:-1 group-title="赛事精锦", ⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事精锦", 联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛15
+http://rihou.cc:555/tv/联赛回放赛17
 #EXTINF:-1 group-title="赛事精锦", NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛15
+http://rihou.cc:555/tv/NBA回放赛17
 #EXTINF:-1 group-title="赛事精锦", 羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛15
+http://rihou.cc:555/tv/羽球回放赛17
 #EXTINF:-1 group-title="赛事精锦", 橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛15
+http://rihou.cc:555/tv/橄球回放赛17
 #EXTINF:-1 group-title="赛事精锦", 乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛15
+http://rihou.cc:555/tv/乒球回放赛17
 #EXTINF:-1 group-title="赛事精锦", 网球赛事回放
-http://rihou.cc:555/tv/网球回放赛15
+http://rihou.cc:555/tv/网球回放赛17
 #EXTINF:-1 group-title="赛事精锦", 排球赛事回放
-http://rihou.cc:555/tv/排球回放赛15
+http://rihou.cc:555/tv/排球回放赛17
 #EXTINF:-1 group-title="赛事精锦", 格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛15
+http://rihou.cc:555/tv/格斗回放赛17
 #EXTINF:-1 group-title="赛事精锦", 斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛15
+http://rihou.cc:555/tv/斯赛回放赛17
 #赛事咪咕
 #EXTINF:-1 group-title="赛事咪咕", 抖姐舞陪你看
 http://rihou.cc:555/tv/t
@@ -1525,7 +1534,7 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐", 音乐库播抖播
 video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐", 音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖15
+http://rihou.cc:555/tv/音乐仓库抖17
 #EXTINF:-1 group-title="网页音乐", 翡翠音乐抖播
 video://http://rihou.cc:555/tv/网页翡翠
 #EXTINF:-1 group-title="网页音乐", 怀旧音乐抖播
@@ -1854,6 +1863,12 @@ http://cjx.999315.xyz/yzzy/20260213/19921_70b04185/index.m3u8
 http://cjx.999315.xyz/yzzy/20260214/14518_1357bcf2/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 成何体统22集
 http://cjx.999315.xyz/yzzy/20260214/14519_2d10de96/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统23集
+http://cjx.999315.xyz/yzzy/20260215/8057_c0172ea6/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统24集
+http://cjx.999315.xyz/yzzy/20260215/8058_5ee56059/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统25集
+http://cjx.999315.xyz/yzzy/20260216/14646_dfc0a2d6/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️唐宫奇案34⬇️
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="新剧追更", 唐宫奇案01集
@@ -1900,6 +1915,10 @@ http://cjx.999315.xyz/yzzy/20260213/14448_604541b9/index.m3u8
 http://cjx.999315.xyz/yzzy/20260214/20046_47248f61/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 唐宫奇案22集
 http://cjx.999315.xyz/yzzy/20260214/14522_67efdede/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 唐宫奇案23集
+http://cjx.999315.xyz/yzzy/20260215/20114_149a1128/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 唐宫奇案24集
+http://cjx.999315.xyz/yzzy/20260215/14584_c4a21513/index.m3u8
 #闽南频测
 #EXTINF:-1 group-title="闽南频测", 民视新闻地波
 http://rihou.cc:555/tv/[mn]民视新闻
