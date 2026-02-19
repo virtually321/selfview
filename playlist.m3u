@@ -28,135 +28,132 @@ http://rihou.cc:555/tv/[mv]国语贺岁
 http://rihou.cc:555/tv/[mv]串烧贺岁
 #EXTINF:-1 group-title="马年贺岁", 马年港星贺岁
 http://rihou.cc:555/tv/[mv]港星贺岁
-#亚精赛评
-#EXTINF:-1 group-title="亚精赛评", 02-17⬇️亚冠精英联赛⬇️⚽📡
+#赛事直播
+#EXTINF:-1 group-title="赛事直播", ⬇️赛事电视直播⬇️
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="亚精赛评", 18:00成都蓉城🆚町田泽维亚
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="亚精赛评", 国🔊17咪评述
-http://rihou.cc:555/tv/17亚冠咪评述
-#EXTINF:-1 group-title="亚精赛评", 20:15上海申花🆚武里南联
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="亚精赛评", 国🔊17咪述评
-http://rihou.cc:555/tv/17亚冠咪述评
-#EXTINF:-1 group-title="亚精赛评", 02-18⬇️亚冠精英联赛⬇️⚽📡
+#EXTINF:-1 group-title="赛事直播", Now英超直播
+http://rihou.cc:555/tv/[Us]Now英超
+#EXTINF:-1 group-title="赛事直播", Now体育直播
+http://rihou.cc:555/tv/[Mt]Now体育
+#EXTINF:-1 group-title="赛事直播", 纬来体育直播
+http://rihou.cc:555/tv/[Us]纬来体育
+#EXTINF:-1 group-title="赛事直播", 无线体育直播
+http://rihou.cc:555/tv/[Us]无线体育
+#EXTINF:-1 group-title="赛事直播", 澳门体育直播
+http://rihou.cc:555/tv/[Pd]澳门体育
+#EXTINF:-1 group-title="赛事直播", 广东体育直播
+http://rihou.cc:555/tv/[Cx]广东体育
+#EXTINF:-1 group-title="赛事直播", ⬇️各大赛事精锦⬇️
 http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="亚精赛评", 18:00上海海港🆚蔚山HD
-http://rihou.cc:555/tv/v
-#EXTINF:-1 group-title="亚精赛评", 国🔊18咪评评
-http://rihou.cc:555/tv/18亚冠咪评评
-#赛事精锦
-#EXTINF:-1 group-title="赛事精锦", ⬇️各大赛事精锦⬇️
-http://rihou.cc:555/tv/t
-#EXTINF:-1 group-title="赛事精锦", 联赛赛事回放
-http://rihou.cc:555/tv/联赛回放赛17
-#EXTINF:-1 group-title="赛事精锦", NBA赛事回放
-http://rihou.cc:555/tv/NBA回放赛17
-#EXTINF:-1 group-title="赛事精锦", 羽球赛事回放
-http://rihou.cc:555/tv/羽球回放赛17
-#EXTINF:-1 group-title="赛事精锦", 橄球赛事回放
-http://rihou.cc:555/tv/橄球回放赛17
-#EXTINF:-1 group-title="赛事精锦", 乒球赛事回放
-http://rihou.cc:555/tv/乒球回放赛17
-#EXTINF:-1 group-title="赛事精锦", 网球赛事回放
-http://rihou.cc:555/tv/网球回放赛17
-#EXTINF:-1 group-title="赛事精锦", 排球赛事回放
-http://rihou.cc:555/tv/排球回放赛17
-#EXTINF:-1 group-title="赛事精锦", 格斗赛事回放
-http://rihou.cc:555/tv/格斗回放赛17
-#EXTINF:-1 group-title="赛事精锦", 斯赛赛事回放
-http://rihou.cc:555/tv/斯赛回放赛17
+#EXTINF:-1 group-title="赛事直播", 联赛赛事回放
+http://rihou.cc:555/tv/联赛回放赛19
+#EXTINF:-1 group-title="赛事直播", NBA赛事回放
+http://rihou.cc:555/tv/NBA回放赛19
+#EXTINF:-1 group-title="赛事直播", 羽球赛事回放
+http://rihou.cc:555/tv/羽球回放赛19
+#EXTINF:-1 group-title="赛事直播", 橄球赛事回放
+http://rihou.cc:555/tv/橄球回放赛19
+#EXTINF:-1 group-title="赛事直播", 乒球赛事回放
+http://rihou.cc:555/tv/乒球回放赛19
+#EXTINF:-1 group-title="赛事直播", 网球赛事回放
+http://rihou.cc:555/tv/网球回放赛19
+#EXTINF:-1 group-title="赛事直播", 排球赛事回放
+http://rihou.cc:555/tv/排球回放赛19
+#EXTINF:-1 group-title="赛事直播", 格斗赛事回放
+http://rihou.cc:555/tv/格斗回放赛19
+#EXTINF:-1 group-title="赛事直播", 斯赛赛事回放
+http://rihou.cc:555/tv/斯赛回放赛19
 #赛事咪咕
 #EXTINF:-1 group-title="赛事咪咕", 抖姐舞陪你看
 http://rihou.cc:555/tv/t
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
-https://msj.188766.xyz/play?id=3000000020000011528&token=d1d10b5dd1d10b5dd1d10b5dd1d10b5d
+https://msj.188766.xyz/play?id=3000000020000011528&token=2cd3f1202cd3f1202cd3f1202cd3f120
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩篮球
-https://msj.188766.xyz/play?id=3000000020000011529&token=d1d10b5ed1d10b5ed1d10b5ed1d10b5e
+https://msj.188766.xyz/play?id=3000000020000011529&token=2cd3f1212cd3f1212cd3f1212cd3f121
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩青少
-https://msj.188766.xyz/play?id=3000000020000011525&token=d1d10b5ad1d10b5ad1d10b5ad1d10b5a
+https://msj.188766.xyz/play?id=3000000020000011525&token=2cd3f11d2cd3f11d2cd3f11d2cd3f11d
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩广场
-https://msj.188766.xyz/play?id=3000000020000011523&token=d1d10b58d1d10b58d1d10b58d1d10b58
+https://msj.188766.xyz/play?id=3000000020000011523&token=2cd3f11b2cd3f11b2cd3f11b2cd3f11b
 #EXTINF:-1 group-title="赛事咪咕", 军事国防央七
-https://msj.188766.xyz/play?id=3000000010000011518&token=3cec587d3cec587d3cec587d3cec587d
+https://msj.188766.xyz/play?id=3000000010000011518&token=97ef3e4097ef3e4097ef3e4097ef3e40
 #EXTINF:-1 group-title="赛事咪咕", 军事国防央七
-https://msj.188766.xyz/play?id=3000000020000011522&token=d1d10b57d1d10b57d1d10b57d1d10b57
+https://msj.188766.xyz/play?id=3000000020000011522&token=2cd3f11a2cd3f11a2cd3f11a2cd3f11a
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播01
-https://msj.188766.xyz/play?id=3000000001000005308&token=9c44c9359c44c9359c44c9359c44c935
+https://msj.188766.xyz/play?id=3000000001000005308&token=f747aef8f747aef8f747aef8f747aef8
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播02
-https://msj.188766.xyz/play?id=3000000001000005969&token=9c44e0769c44e0769c44e0769c44e076
+https://msj.188766.xyz/play?id=3000000001000005969&token=f747c639f747c639f747c639f747c639
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播03
-https://msj.188766.xyz/play?id=3000000001000007218&token=9c45ae519c45ae519c45ae519c45ae51
+https://msj.188766.xyz/play?id=3000000001000007218&token=f7489414f7489414f7489414f7489414
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播04
-https://msj.188766.xyz/play?id=3000000001000008001&token=9c461b089c461b089c461b089c461b08
+https://msj.188766.xyz/play?id=3000000001000008001&token=f74900cbf74900cbf74900cbf74900cb
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播05
-https://msj.188766.xyz/play?id=3000000001000008176&token=9c461fa79c461fa79c461fa79c461fa7
+https://msj.188766.xyz/play?id=3000000001000008176&token=f749056af749056af749056af749056a
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播06
-https://msj.188766.xyz/play?id=3000000001000008379&token=9c46272c9c46272c9c46272c9c46272c
+https://msj.188766.xyz/play?id=3000000001000008379&token=f7490ceff7490ceff7490ceff7490cef
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播07
-https://msj.188766.xyz/play?id=3000000001000010129&token=9c5093989c5093989c5093989c509398
+https://msj.188766.xyz/play?id=3000000001000010129&token=f753795bf753795bf753795bf753795b
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播08
-https://msj.188766.xyz/play?id=3000000001000010948&token=9c50b1dd9c50b1dd9c50b1dd9c50b1dd
+https://msj.188766.xyz/play?id=3000000001000010948&token=f75397a0f75397a0f75397a0f75397a0
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播09
-https://msj.188766.xyz/play?id=3000000001000028638&token=9c6260f49c6260f49c6260f49c6260f4
+https://msj.188766.xyz/play?id=3000000001000028638&token=f76546b7f76546b7f76546b7f76546b7
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播10
-https://msj.188766.xyz/play?id=3000000001000031494&token=9c6d43109c6d43109c6d43109c6d4310
+https://msj.188766.xyz/play?id=3000000001000031494&token=f77028d3f77028d3f77028d3f77028d3
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播11
-https://msj.188766.xyz/play?id=3000000010000000097&token=3cddbacf3cddbacf3cddbacf3cddbacf
+https://msj.188766.xyz/play?id=3000000010000000097&token=97e0a09297e0a09297e0a09297e0a092
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播12
-https://msj.188766.xyz/play?id=3000000010000002019&token=3cdea2973cdea2973cdea2973cdea297
+https://msj.188766.xyz/play?id=3000000010000002019&token=97e1885a97e1885a97e1885a97e1885a
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播13
-https://msj.188766.xyz/play?id=3000000010000002809&token=3cdec0803cdec0803cdec0803cdec080
+https://msj.188766.xyz/play?id=3000000010000002809&token=97e1a64397e1a64397e1a64397e1a643
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播14
-https://msj.188766.xyz/play?id=3000000010000003915&token=3cdf38bb3cdf38bb3cdf38bb3cdf38bb
+https://msj.188766.xyz/play?id=3000000010000003915&token=97e21e7e97e21e7e97e21e7e97e21e7e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播15
-https://msj.188766.xyz/play?id=3000000010000004193&token=3cdf90083cdf90083cdf90083cdf9008
+https://msj.188766.xyz/play?id=3000000010000004193&token=97e275cb97e275cb97e275cb97e275cb
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播16
-https://msj.188766.xyz/play?id=3000000010000005837&token=3ce01df83ce01df83ce01df83ce01df8
+https://msj.188766.xyz/play?id=3000000010000005837&token=97e303bb97e303bb97e303bb97e303bb
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播17
-https://msj.188766.xyz/play?id=3000000010000006077&token=3ce074cb3ce074cb3ce074cb3ce074cb
+https://msj.188766.xyz/play?id=3000000010000006077&token=97e35a8e97e35a8e97e35a8e97e35a8e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播18
-https://msj.188766.xyz/play?id=3000000010000006658&token=3ce08b143ce08b143ce08b143ce08b14
+https://msj.188766.xyz/play?id=3000000010000006658&token=97e370d797e370d797e370d797e370d7
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播19
-https://msj.188766.xyz/play?id=3000000010000009788&token=3ce1ec4f3ce1ec4f3ce1ec4f3ce1ec4f
+https://msj.188766.xyz/play?id=3000000010000009788&token=97e4d21297e4d21297e4d21297e4d212
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播20
-https://msj.188766.xyz/play?id=3000000010000010833&token=3cebef9a3cebef9a3cebef9a3cebef9a
+https://msj.188766.xyz/play?id=3000000010000010833&token=97eed55d97eed55d97eed55d97eed55d
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播21
-https://msj.188766.xyz/play?id=3000000010000011297&token=3cec4e313cec4e313cec4e313cec4e31
+https://msj.188766.xyz/play?id=3000000010000011297&token=97ef33f497ef33f497ef33f497ef33f4
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播22
-https://msj.188766.xyz/play?id=3000000010000012558&token=3ceccd583ceccd583ceccd583ceccd58
+https://msj.188766.xyz/play?id=3000000010000012558&token=97efb31b97efb31b97efb31b97efb31b
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播23
-https://msj.188766.xyz/play?id=3000000010000012616&token=3cecd09b3cecd09b3cecd09b3cecd09b
+https://msj.188766.xyz/play?id=3000000010000012616&token=97efb65e97efb65e97efb65e97efb65e
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播24
-https://msj.188766.xyz/play?id=3000000010000015470&token=3cee26ea3cee26ea3cee26ea3cee26ea
+https://msj.188766.xyz/play?id=3000000010000015470&token=97f10cad97f10cad97f10cad97f10cad
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播25
-https://msj.188766.xyz/play?id=3000000010000015560&token=3cee2a8c3cee2a8c3cee2a8c3cee2a8c
+https://msj.188766.xyz/play?id=3000000010000015560&token=97f1104f97f1104f97f1104f97f1104f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播26
-https://msj.188766.xyz/play?id=3000000010000017678&token=3cef17323cef17323cef17323cef1732
+https://msj.188766.xyz/play?id=3000000010000017678&token=97f1fcf597f1fcf597f1fcf597f1fcf5
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播27
-https://msj.188766.xyz/play?id=3000000010000019839&token=3cf006f73cf006f73cf006f73cf006f7
+https://msj.188766.xyz/play?id=3000000010000019839&token=97f2ecba97f2ecba97f2ecba97f2ecba
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播28
-https://msj.188766.xyz/play?id=3000000010000021904&token=3cfa7edf3cfa7edf3cfa7edf3cfa7edf
+https://msj.188766.xyz/play?id=3000000010000021904&token=97fd64a297fd64a297fd64a297fd64a2
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播29
-https://msj.188766.xyz/play?id=3000000010000023434&token=3cfb55353cfb55353cfb55353cfb5535
+https://msj.188766.xyz/play?id=3000000010000023434&token=97fe3af897fe3af897fe3af897fe3af8
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播30
-https://msj.188766.xyz/play?id=3000000010000025380&token=3cfc3ac93cfc3ac93cfc3ac93cfc3ac9
+https://msj.188766.xyz/play?id=3000000010000025380&token=97ff208c97ff208c97ff208c97ff208c
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播31
-https://msj.188766.xyz/play?id=3000000010000027691&token=3cfd2eea3cfd2eea3cfd2eea3cfd2eea
+https://msj.188766.xyz/play?id=3000000010000027691&token=980014ad980014ad980014ad980014ad
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播32
-https://msj.188766.xyz/play?id=3000000010000031669&token=3d088bdc3d088bdc3d088bdc3d088bdc
+https://msj.188766.xyz/play?id=3000000010000031669&token=980b719f980b719f980b719f980b719f
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播33
-https://msj.188766.xyz/play?id=3000000020000011518&token=d1d10b3ed1d10b3ed1d10b3ed1d10b3e
+https://msj.188766.xyz/play?id=3000000020000011518&token=2cd3f1012cd3f1012cd3f1012cd3f101
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播34
-https://msj.188766.xyz/play?id=3000000020000011519&token=d1d10b3fd1d10b3fd1d10b3fd1d10b3f
+https://msj.188766.xyz/play?id=3000000020000011519&token=2cd3f1022cd3f1022cd3f1022cd3f102
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播35
-https://msj.188766.xyz/play?id=3000000020000011520&token=d1d10b55d1d10b55d1d10b55d1d10b55
+https://msj.188766.xyz/play?id=3000000020000011520&token=2cd3f1182cd3f1182cd3f1182cd3f118
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播36
-https://msj.188766.xyz/play?id=3000000020000011521&token=d1d10b56d1d10b56d1d10b56d1d10b56
+https://msj.188766.xyz/play?id=3000000020000011521&token=2cd3f1192cd3f1192cd3f1192cd3f119
 #EXTINF:-1 group-title="赛事咪咕", 赛事咪咕播4k
-https://msj.188766.xyz/play?id=3000000010000005180&token=3ce004453ce004453ce004453ce00445
+https://msj.188766.xyz/play?id=3000000010000005180&token=97e2ea0897e2ea0897e2ea0897e2ea08
 #EXTINF:-1 group-title="赛事咪咕", 赛事至臻视界
-https://msj.188766.xyz/play?id=3000000010000015686&token=3cee2e913cee2e913cee2e913cee2e91
+https://msj.188766.xyz/play?id=3000000010000015686&token=97f1145497f1145497f1145497f11454
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
 http://rihou.cc:555/tv/[mg]睛彩竞技
 #EXTINF:-1 group-title="赛事咪咕", 赛事睛彩竞技
@@ -1534,7 +1531,7 @@ video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐", 音乐库播抖播
 video://http://rihou.cc:555/tv/网页库播
 #EXTINF:-1 group-title="网页音乐", 音乐仓库抖播
-http://rihou.cc:555/tv/音乐仓库抖17
+http://rihou.cc:555/tv/音乐仓库抖19
 #EXTINF:-1 group-title="网页音乐", 翡翠音乐抖播
 video://http://rihou.cc:555/tv/网页翡翠
 #EXTINF:-1 group-title="网页音乐", 怀旧音乐抖播
@@ -1869,6 +1866,20 @@ http://cjx.999315.xyz/yzzy/20260215/8057_c0172ea6/index.m3u8
 http://cjx.999315.xyz/yzzy/20260215/8058_5ee56059/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 成何体统25集
 http://cjx.999315.xyz/yzzy/20260216/14646_dfc0a2d6/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统26集
+http://cjx.999315.xyz/yzzy/20260217/14660_683c4699/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统27集
+http://cjx.999315.xyz/yzzy/20260217/14661_e0c5e4ce/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统28集
+http://cjx.999315.xyz/yzzy/20260218/14717_0563cad6/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统29集
+http://cjx.999315.xyz/yzzy/20260218/8184_451ae867/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统30集
+http://cjx.999315.xyz/yzzy/20260218/8185_45ab12af/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统31集
+http://cjx.999315.xyz/yzzy/20260218/8186_2051bd70/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 成何体统32集
+http://cjx.999315.xyz/yzzy/20260218/8187_cecd845e/index.m3u8
 #EXTINF:-1 group-title="新剧追更", ⬇️唐宫奇案34⬇️
 http://rihou.cc:555/tv/v
 #EXTINF:-1 group-title="新剧追更", 唐宫奇案01集
@@ -1919,6 +1930,12 @@ http://cjx.999315.xyz/yzzy/20260214/14522_67efdede/index.m3u8
 http://cjx.999315.xyz/yzzy/20260215/20114_149a1128/index.m3u8
 #EXTINF:-1 group-title="新剧追更", 唐宫奇案24集
 http://cjx.999315.xyz/yzzy/20260215/14584_c4a21513/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 唐宫奇案25集
+http://cjx.999315.xyz/yzzy/20260217/14679_676bc6ce/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 唐宫奇案26集
+http://cjx.999315.xyz/yzzy/20260217/8149_789ba2ae/index.m3u8
+#EXTINF:-1 group-title="新剧追更", 唐宫奇案27集
+http://cjx.999315.xyz/yzzy/20260218/20615_e41bbd4a/index.m3u8
 #闽南频测
 #EXTINF:-1 group-title="闽南频测", 民视新闻地波
 http://rihou.cc:555/tv/[mn]民视新闻
